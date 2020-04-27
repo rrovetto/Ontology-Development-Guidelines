@@ -1,7 +1,7 @@
 # Ontology Development Methodology
 Documents succinctly desribing methodological aspects for developing ontologies. They present recommended guidelines and practices, which are also used for the projects contained in this GitHub account
 
-## Sumamry of Dev Method
+## Summary
 A generic ontology development methodology includes the following. 
 
 Broadly it involves delimiting a topic area; research; creating a defined set of terms, a taxonomy and classificaiton system, and both applications of and data for that system.
