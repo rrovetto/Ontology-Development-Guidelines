@@ -1,5 +1,7 @@
 Guidelines for developing Identifiers
 
-Assign semantically-neutral identifiers for all constructs in the ontology, i.e., for all classes, instances/indivdiuals, relations, properties, etc.
+
+Depending on the purpose and application, you may assign semantically-neutral identifiers for all constructs in the ontology, i.e., for all classes, instances/indivdiuals, relations, properties, etc.
 Select a format for identifiers, e.g., random-generated alphanumeric, sequential numeric, etc.
 
+Depending on the purpose and applicaiton, natural-language identifiers alone may be desired.
