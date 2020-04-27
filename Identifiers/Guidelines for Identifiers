@@ -1,1 +1,5 @@
-Guidelines for developing Identifiers are
+Guidelines for developing Identifiers
+
+Assign semantically-neutral identifiers for all constructs in the ontology, i.e., for all classes, instances/indivdiuals, relations, properties, etc.
+Select a format for identifiers, e.g., random-generated alphanumeric, sequential numeric, etc.
+
