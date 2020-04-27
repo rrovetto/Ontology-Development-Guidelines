@@ -15,3 +15,7 @@ The construct is a computable symbol for the thing in the target domain.
 The definition expresses the meaninig of that symbol to humans and machines.
 The name (label, or term) is a string symbol linked to the construct. 
 In this way, we can consider the constructr or elements of an ontology to be a composite.
+
+Semantic web languages provide metadata annotation elements for definitions and labels, e.g., rdfs:label, dc:description, owl:comment
+These can be used. To more narrowly focus on, say, a definition, you may create a annotatation such as 'definition'. 
+
