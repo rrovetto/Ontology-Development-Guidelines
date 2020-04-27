@@ -38,3 +38,10 @@ FORMALIZE:    Develop semi-formal or formal logical definitions. Translate the n
               logic for precision. Translate the n-l def into the chosen ontology language, or ontology editor tool’s language,   
               e.g., OWL, etc.
               Formal definitions may use the labels to better foster automation.
+	      
+	      
+
+
+
+
+(c) Robert J. Rovetto 2020.
