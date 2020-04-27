@@ -1,5 +1,5 @@
 # Ontology Development Methodology
-Documents succinctly desribing methodological aspects for developing ontologies. They present recommended guidelines and practices, which are also used for the projects contained in this GitHub account
+This folder contains documents that succinctly desribe methodological aspects for developing ontologies. They offer recommended guidelines and practices, which are also used for the projects contained in this GitHub account.
 
 ## Summary
 A generic ontology development methodology includes the following. 
