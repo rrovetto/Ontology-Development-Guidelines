@@ -44,4 +44,4 @@ FORMALIZE:    Develop semi-formal or formal logical definitions. Translate the n
 
 
 
-(c) Robert J. Rovetto 2020.
+Copyright (c) 2020 Robert John Rovetto.
