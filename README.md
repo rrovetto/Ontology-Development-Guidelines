@@ -1,4 +1,4 @@
-# Ontology Development Methodology
+# Ontology Development Guidelines
 This folder contains documents that succinctly desribe methodological aspects for developing ontologies. They offer recommended guidelines and practices, which are also used for the projects contained in this GitHub account.
 
 ## Summary
