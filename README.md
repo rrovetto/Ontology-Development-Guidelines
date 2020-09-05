@@ -48,5 +48,7 @@ Copyright (c) 2020 Robert John Rovetto.
 
 
 HIRE:
+
 Ontology Education (Courses): https://www.slideshare.net/RobertRovetto/ontology-courses-education
+
 Ontology Services: https://www.slideshare.net/RobertRovetto/ontology-services-238070099
