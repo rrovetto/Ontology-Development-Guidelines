@@ -1,7 +1,7 @@
 # Truths about Ontology Development - An eye on ethics for you and the community
 
 ## Be innovative and creative.
-### 1. You can create your own ontology
+### 1. You can create your own ontology, regardless of the degree of abstraction or specificity or application
 - You can create your own subject-specific ontology (sometimes called: domain ontology, application ontology, lower-level ontology, etc.)
 - You can create your own generic ontology (sometimes called: general ontology, foundational ontology, base ontology, upper-level ontology, top-level ontology, core ontology, etc.)
 
