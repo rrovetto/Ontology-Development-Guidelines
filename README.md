@@ -43,7 +43,7 @@ Broadly it involves delimiting a topic area; research; creating a defined set of
 
 
 Rights: 
-Copyright (c) 2020 Robert John Rovetto.
+Copyright (c) 2019-2020 Robert John Rovetto.
 
 
 For Hire:
