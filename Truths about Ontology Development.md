@@ -37,7 +37,7 @@ An ontology may commit to other ontologies by importing them, or may commit to a
 - These things are invalid arguments that are used to convince you to use their product. Some have gained popularity or standardization by relying on ignorance of others and by using other unethical practices.
 
 ### 8. Ontology development and engineering is still an immature field, with limited quantitative evidence for its utility, and even less tools to harness the most expressive forms of ontologies.
-- Do not believe the hype (just like with anything)--researach.
+- Do not believe the hype (just like with anything).
 
 
 (c) 2016-2020, Robert John Rovetto.
