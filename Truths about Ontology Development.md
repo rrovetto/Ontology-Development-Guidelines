@@ -32,11 +32,11 @@ An ontology may commit to other ontologies by importing them, or may commit to a
 
 ## Common Sense and Ethics - some fallacious or invalid arguments
 
-### 6. Popularity does not mean quality. And standardization does not mean quality.
+### 7. Popularity does not mean quality. And standardization does not mean quality.
 - # of users (user-base) does not mean an ontology is good, or useful. 
 - These things are invalid arguments that are used to convince you to use their product. Some have gained popularity or standardization by relying on ignorance of others and by using other unethical practices.
 
-### 7. Ontology development and engineering is still an immature field, with limited quantitative evidence for its utility, and even less tools to harness the most expressive forms of ontologies.
+### 8. Ontology development and engineering is still an immature field, with limited quantitative evidence for its utility, and even less tools to harness the most expressive forms of ontologies.
 - Do not believe the hype (just like with anything)--researach.
 
 
