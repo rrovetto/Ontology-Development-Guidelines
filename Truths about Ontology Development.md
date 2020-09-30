@@ -1,5 +1,4 @@
-# Truths about Ontology Development
-An eye on ethics
+# Truths about Ontology Development - An eye on ethics for you and the community
 
 ## Be innovative and creative.
 ### 1. You can create your own ontology
