@@ -6,12 +6,14 @@
 - You can create your own generic ontology (sometimes called: general ontology, foundational ontology, base ontology, upper-level ontology, top-level ontology, core ontology, etc.)
 
 ### 2. You do not have to reuse existing ontology.
-- Anyone that tells you you must (or is agressive about it), is very likely trying to get you to use theirs.
+- Anyone that says you must (or is pushy about it), is very likely trying to get you to use theirs (i.e. they probably have some vested interest to get more users).
+- Do not encourage abusive or unfair business tactics, or attempts to monopolize
 
-## Be informed, be aware, and be responsible.
+## Be informed, be aware, and be responsible. (Transparency & Ethics)
 ### 3. If you're considering using an existing ontology, _be informed_ about what you are committing to
-- Be aware of all commitments an ontology makes
-- Be aware of the assumptions, philosophical worldviews, and ontological commitments of an ontology you are considering reusing. (read documentation, look at the ontology at all levels of abstraction)
+An ontology may commit to other ontologies by importing them, or may commit to a specific theory, or to specific models of the world or a target domain, or to philosophical worldviews, etc. So...
+- Be aware of all commitments an ontology makes, at all degrees of abstraction
+- Be aware of the assumptions, worldviews, and ontological commitments it makes. (Read documentation, look at the ontology at all levels of abstraction, at its axioms, imports, etc.)
 - Be aware of any imported ontologies or taxonomies the candidate ontology commits to or uses.
 (Be aware of other ontologies or semantic resources you may be committing to by using the candidate ontology.)
 
@@ -35,3 +37,6 @@
 
 7. Ontology development and engineering is still an immature field, with limited quantitative evidence for its utility, and even less tools to harness the most expressive forms of ontologies.
 - Do not believe the hype (just like with anything)--researach.
+
+
+(c) 2016-2020, Robert John Rovetto.
