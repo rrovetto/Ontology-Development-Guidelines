@@ -42,12 +42,12 @@ Broadly it involves delimiting a topic area; research; creating a defined set of
 	      
 
 
-Rights: 
-Copyright (c) 2019-2020 Robert John Rovetto.
+## Rights
+© 2017-2020, Robert John Rovetto.
 
 
-For Hire:
+## For Hire:
 
-Ontology Education (Courses): https://www.slideshare.net/RobertRovetto/ontology-courses-education
+- Ontology Education (Courses): https://www.slideshare.net/RobertRovetto/ontology-courses-education
 
-Ontology Services: https://www.slideshare.net/RobertRovetto/ontology-services-238070099
+- Ontology Services: https://www.slideshare.net/RobertRovetto/ontology-services-238070099
