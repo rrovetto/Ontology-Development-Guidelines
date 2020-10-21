@@ -28,28 +28,28 @@ A generic ontology development methodology includes the following: identifying a
 ### 4. Scope
 - Identify the boundaries of the university of discourse  that the ontology(s) will represent.
 
-### Subject-matter Research & Conceptual Analysis
+### 5. Subject-matter Research & Conceptual Analysis
 - Research corpora from the universe of discourse.
 
-### List...
+### 6. List...
 - Identify & list specific things in the universe of discourse you want the ontology to represent.
 - Identify & list concepts and terms needed to describe the things in universe of discourse. 
 - Where a concept (idea or intended meaning) does not have a term to express it, then create one.
 
-### Definitions
+### 7. Definitions
 - Identify the intended meaning for each of the list of things, concepts and terms.
 - May be from dictionaries, publicaitons, subject-matter experts, or custom-made. 
 - Identify undefined or primitive terms. 
 - Write definitions in natural-language that most closely expresses that intended meaning.
 - For all primitive terms, state they are undefined, but also provide a clarifying note to provide the user with some sense of meaning. 
 
-### Structure
+### 8. Structure
 - In this process, identify how the things or terms denoting them are related (if at all).
  - Create or select terms for how they are related (i.e., for the relationships between them).
  - Define these relational terms.
  - Use abstract distinctions and structuring relations, e.g., category vs. instance, class vs. member, class and subclass, broader & narrower, etc. 
 
-### Formalize
+### 9. Formalize
 - Develop semi-formal or formal logical definitions. Translate the natural language definitions into first-order logic for precision. Translate the n-l def into the chosen ontology language, or ontology editor tool’s language, e.g., OWL, etc.
 - Formal definitions may use the labels to better foster automation.
 
