@@ -1,8 +1,8 @@
 # Ontology Development Guidelines
-This repository contains documents that succinctly desribe methodological aspects for developing ontologies. They offer guidelines and practices, which are also used for the projects contained in this GitHub account. It is iterative and non-linear: some phases of the development process may be enacted concurrently, and revisited.
+This repository contains documents that succinctly desribe methodological aspects for developing ontologies. They offer guidelines and practices, which are also used for the projects contained in this GitHub account. 
 
-## Summary
-A generic ontology development methodology includes the following: identifying and scoping your topic area; corpus or domain material research; creating a defined set of terms, a taxonomy and classificaiton system; and both applications of and data for that system.
+## Development Stages
+A generic ontology development methodology includes the following: identifying and scoping your topic area; corpus or domain material research; creating a defined set of terms, a taxonomy and classificaiton system; and both applications of and data for that system. It is iterative and non-linear: some phases of the development process may be enacted concurrently, and revisited.
 
 ### PURPOSE
 - Identify purpose(s) or function(s) for the ontology. What is it for?
