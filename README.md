@@ -2,20 +2,23 @@
 This repository contains documents that succinctly desribe methodological aspects for developing ontologies. They offer guidelines and practices, which are also used for the projects contained in this GitHub account.
 
 ## Summary
-- A generic ontology development methodology includes the following. 
-
-- Broadly it involves delimiting a topic area; research; creating a defined set of terms, a taxonomy and classificaiton system, and both applications of and data for that system.
+A generic ontology development methodology includes the following: identifying and scoping your topic area; corpus or domain material research; creating a defined set of terms, a taxonomy and classificaiton system; and both applications of and data for that system.
 
 ### PURPOSE
-- Identify purpose(s) or function(s) for the ontology.
+- Identify purpose(s) or function(s) for the ontology. What is it for?
 
 ### USE-CASES
-- Identify use-cases for the ontology.
+- Identify use-cases for the ontology. Where may it be applied? What systems may benefit from it? What are situations in which it could be used?
 
-### REQUIREMENTS
-- Identify what will be required for the use-case(s) and to realize the purpose.
+### REQUIREMENTS & SPECIFICATION DETIALS
+- Identify what will be required to realize the PURPOSE and satisfy the USE-CASES. 
+- Identify specification details: 
+	- the natural language, 
+	- the computable (knowlede representation or implementation langauges), 
+	- stylistic conventions, e.g., naming conventions for terms/labels, etc.  
+	- Identify or create competency questions: queries that the ontology (and datasets) can be asked computationally.
 - Select, Acquire or Develop resources and tools, e.g., ontology editor software, knowledge representation language, 
-- serialization format, corpora, data sources, contibutors, partners, subject-matter experts, etc.
+- Serialization format, corpora, data sources, contibutors, partners, subject-matter experts, etc.
 
 ### SCOPE
 - Identify the boundaries of the university of discourse  that the ontology(s) will represent.
