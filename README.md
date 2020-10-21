@@ -49,12 +49,6 @@ A generic ontology development methodology includes the following: identifying a
 - Formal definitions may use the labels to better foster automation.
 	      
 
-## Rights
+# Rights
 © 2017-2020, Robert John Rovetto.
 
-
-## For Hire:
-
-- Ontology Education (Courses): https://www.slideshare.net/RobertRovetto/ontology-courses-education
-
-- Ontology Services: https://www.slideshare.net/RobertRovetto/ontology-services-238070099
