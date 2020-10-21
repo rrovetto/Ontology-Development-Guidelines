@@ -51,8 +51,15 @@ A generic ontology development methodology includes the following: identifying a
 ### FORMALIZE
 - Develop semi-formal or formal logical definitions. Translate the natural language definitions into first-order logic for precision. Translate the n-l def into the chosen ontology language, or ontology editor tool’s language, e.g., OWL, etc.
 - Formal definitions may use the labels to better foster automation.
-	      
+
+## Author
+Robert J. Rovetto
+rrovetto(at)terpalum.umd.edu
+* Education Technical Committee member, International Association for Ontology and its Applications (IAOA)
+* Member of misc. semantic web groups
+* Invited manuscript reviewer for Journal of Applied Ontology
+* NASA Datanauts (open data group in the Office of Chief Information Officer)
+* Journal of Search and Rescue (webmaster, journal developer)
 
 # Rights
 © 2017-2020, Robert John Rovetto.
-
