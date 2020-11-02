@@ -7,7 +7,7 @@ Descriptions that succinctly explain how to develop an ontology, and methodologi
 - Ontology Education (Courses): https://www.slideshare.net/RobertRovetto/ontology-courses-education
 - Ontology Services: https://www.slideshare.net/RobertRovetto/ontology-services-238070099
 
-## Development Stages
+## Ontolgoy Development Stages
 A generic ontology development methodology includes the following activities: identifying and scoping your topic area; corpus or domain material research; listing or creating a defined set of terms, a taxonomy and classificaiton system; and both applications of and data for that system. It is **iterative** and **non-linear**: some phases of the development process may be performed concurrently and revisited.
 
 ### 1. Purpose & Subject matter 
