@@ -1,5 +1,5 @@
 # Ontology Development Guidelines
-This repository contains descriptions and documents that succinctly desribe how to develop an ontology and methodological aspects for doing so. Guidelines and practices are offerred. Below is a _generic ontology development methodology_. If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/).
+Descriptions and documents that succinctly desribe how to develop an ontology and methodological aspects for doing so. Guidelines and practices are offerred. Below is a _generic ontology development methodology_. If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/).
 
 **Related**: [Ethics](https://github.com/rrovetto/Ethical-Ontology-Development) and [Myths](https://github.com/rrovetto/Ethical-Ontology-Development/blob/master/Myths-Of-Ontology-Development.md) of Ontology Development.
 
