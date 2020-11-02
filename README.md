@@ -75,3 +75,5 @@ rrovetto(at)terpalum.umd.edu
 
 ## Rights
 © 2017-2020, Robert John Rovetto.
+
+Attribution is required: if you use this, you must cite it.
