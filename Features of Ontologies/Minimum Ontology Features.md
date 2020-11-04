@@ -12,7 +12,6 @@ The following are desired feartures of ontologies.
 
 NOTE: Consideer the Close-world vs. Open-world assumption. Whether you opt for one or the other (or another option?) may depend on the project. 
 
+If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/).
 
-
-
-Copyright (c) 2020 Robert John Rovetto.
+Copyright (c) 2019-2020 Robert John Rovetto.
