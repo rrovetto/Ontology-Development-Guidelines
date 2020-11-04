@@ -1,6 +1,6 @@
-## Desired Features of Ontologies
+## Features of Ontologies
 
-The following are desired feartures of ontologies. 
+The following are some feartures of ontologies. 
 
 * Subject-matter coverage
 * Subject-matter capture 
