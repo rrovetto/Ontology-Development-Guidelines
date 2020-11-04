@@ -7,4 +7,6 @@
 - External metadata annotation elements for things like definitions and labels, include elements from specific groups, organizations or projects, e.g., rdfs:label, dc:description, owl:comment. These can be used in an ontology. 
 - You can also create your own metadata annotations. For example, to more narrowly focus on, say, a lexical definition, you may create a annotatation such as 'lexical definition'. 
 
+If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/).
+
 (c) 2019-2020, Robert John Rovetto.
