@@ -1,5 +1,7 @@
 # Truths about Ontology Development - An eye on ethics for you and the community
 
+If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/).
+
 ## Be innovative and creative.
 ### 1. You can create your own ontology, regardless of the degree of abstraction or specificity or application
 - You can create your own subject-specific ontology (sometimes called: domain ontology, application ontology, lower-level ontology, etc.)
