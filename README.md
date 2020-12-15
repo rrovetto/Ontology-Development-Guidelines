@@ -3,11 +3,12 @@ This repository contains descriptions that succinctly explain how to develop an 
 
 **Related**: [Ethics](https://github.com/rrovetto/Ethical-Ontology-Development) and [Myths](https://github.com/rrovetto/Ethical-Ontology-Development/blob/master/Myths-Of-Ontology-Development.md) of Ontology Development.
 
-**Support**:  If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/).
+**Support**:  If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). 
 
-**For Hire:**
-- Ontology Education (Courses): https://www.slideshare.net/RobertRovetto/ontology-courses-education
-- Ontology Services: https://www.slideshare.net/RobertRovetto/ontology-services-238070099
+**For Hire or For a Ontology Consulting Services**
+- [Schedule a meeting at this link](https://tinyurl.com/yas7trzy)
+- Ontology Education (course list sample): https://www.slideshare.net/RobertRovetto/ontology-courses-education
+- Ontology Services (list sample): https://www.slideshare.net/RobertRovetto/ontology-services-238070099
 
 ## Stages of Ontology Development
 A generic ontology development methodology includes the following activities: identifying and scoping your topic area; corpus or domain material research; listing or creating a defined set of terms, a taxonomy and classificaiton system; and both applications of and data for that system. It is **iterative** and **non-linear**: some phases of the development process may be performed concurrently and revisited.
