@@ -76,7 +76,10 @@ rrovetto(at)terpalum.umd.edu
 * NASA Datanauts (open data group in the Office of Chief Information Officer)
 * Journal of Search and Rescue (webmaster, journal developer)
 
-## Rights
-© 2017-2020, Robert John Rovetto.
+## Warranty
+No warranty. Presented "AS IS". Author and copyright holder is not liable.
+All content, work and products are subject to revision. No claims to completeness. 
 
-Attribution is required: if you use this, you must cite it.
+## Copyright
+© 2013-2021, Robert John Rovetto. All right reserved.
+Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required.
