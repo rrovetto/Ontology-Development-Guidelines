@@ -11,7 +11,7 @@ This repository contains descriptions that succinctly explain how to develop an 
 - Ontology Services (list sample): https://www.slideshare.net/RobertRovetto/ontology-services-238070099
 
 ## Stages of Ontology Development
-A generic ontology development methodology includes the following activities: identifying and scoping your topic area; corpus or domain material research; listing or creating a defined set of terms, a taxonomy and classificaiton system; and both applications of and data for that system. It is **iterative** and **non-linear**: some phases of the development process may be performed concurrently and revisited.
+A generic ontology development methodology includes the following activities: identifying and scoping your topic area; corpus or domain material research; listing or creating a defined set of terms, a taxonomy and classification system; and both applications of and data for that system. It is **iterative** and **non-linear**: some phases of the development process may be performed concurrently and revisited.
 
 ### 1. Purpose & Subject matter 
 - Identify purpose(s) or function(s) for the ontology. _What is it for?_
@@ -30,11 +30,11 @@ A generic ontology development methodology includes the following activities: id
 - Identify what will be required to realize the purpose and apply to the use-cases. 
 - State specification details: 
 	- What natural language? 
-	- What computable lanuage (knowlede representation and reasoning language / implementation langauges)? 
+	- What computable language (knowledge representation and reasoning language / implementation languages)? 
 	- Stylistic conventions, e.g., naming conventions for terms/labels, etc.  
 	- Identify or create competency questions: queries that the ontology (and datasets) can be asked computationally.
 - Select, Acquire or Develop resources and tools, e.g., ontology editor software, knowledge representation languages, 
-- Corpora (research documents, domain knowledge), data sources, contibutors, partners, subject-matter experts, etc.
+- Corpora (research documents, domain knowledge), data sources, contributors, partners, subject-matter experts, etc.
 
 ### 6. Research & Conceptual Analysis of the Subject/domain
 - Examine the target subject matter. Try to identify essential concepts, themes, challenges, etc. Gain a big-picture understanding.
@@ -47,7 +47,7 @@ A generic ontology development methodology includes the following activities: id
 ### 8. Definitions
 - Identify the intended meaning for each of the list of things, concepts and terms.
 	- You may begin with some intended meaning or concept, and the form a term that most clearly expresses it. 
-- Research definitions (of key terms) from corpus material: dictionaries, academia, journal publicaitons, subject-matter experts, etc.
+- Research definitions (of key terms) from corpus material: dictionaries, academia, journal publications, subject-matter experts, etc.
 - Identify undefined (primitive) terms. 
 - Write definitions in natural-language that most closely expresses that intended meaning.
 - For all primitive terms, state they are undefined, but also provide a clarifying note to provide the user with some sense of meaning. 
