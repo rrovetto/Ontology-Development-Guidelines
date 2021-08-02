@@ -1,5 +1,5 @@
 # Ontology Development Guidelines
-This repository contains descriptions that succinctly explain how to develop an ontology, and some methodological aspects for doing so. Guidelines and practices are offerred. Below is a **generic ontology development methodology**. 
+This repository contains descriptions that succinctly explain how to develop an ontology in a manual approach, and some methodological aspects for doing so. Guidelines and practices are offerred. Below is a **generic ontology development methodology**. 
 CAVEAT: this is based on my experience and studies and is thereby biased in that respect. The reader should be aware that there areother methods, both automated and manual means to develop an ontology.  
 
 **Related**: [Ethics](https://github.com/rrovetto/Ethical-Ontology-Development) and [Myths](https://github.com/rrovetto/Ethical-Ontology-Development/blob/master/Myths-Of-Ontology-Development.md) of Ontology Development.
@@ -14,26 +14,27 @@ CAVEAT: this is based on my experience and studies and is thereby biased in that
 ## Stages of Ontology Development
 A generic ontology development methodology includes the following activities: identifying and scoping your topic area; corpus or domain material research; listing or creating a defined set of terms, a taxonomy and classificaiton system; and both applications of and data for that system. It is **iterative** and **non-linear**: some phases of the development process may be performed concurrently and revisited.
 
-### 1. Purpose & Subject matter 
+### 1. Purpose, Subject matter & Data 
 - Identify purpose(s) or function(s) for the ontology. _What is it for?_
 - Identify what subject/domain or set of concepts you wish to ontologically model.
+- Identify the data that the ontology will be applied to (e.g., to annotate)
 
 ### 2. Subject-matter Research
-- Research the target subject or domain corpora
+- Research the target subject or domain corpora (publications, datasets, projects, subject-matter expert interviews, etc.)
 
 ### 3. Use-cases
 - Identify use-cases for the ontology. _Where may it be applied? What systems may benefit from it? What are situations in which it could be used?_
 
 ### 4. Scope
-- Identify the boundaries of the university of discourse (or target subject/domain) that the ontology(s) will represent.
+- Identify or specify the boundaries of the university of discourse (or target subject/domain) that the ontology(s) will represent.
 
 ### 5. Requirements & Specification Details
 - Identify what will be required to realize the purpose and apply to the use-cases. 
 - State specification details: 
 	- What natural language? 
-	- What computable lanuage (knowlede representation and reasoning language / implementation langauges)? 
+	- What computable lanuage (knowledge representation and reasoning language / implementation langauges)? 
 	- Stylistic conventions, e.g., naming conventions for terms/labels, etc.  
-	- Identify or create competency questions: queries that the ontology (and datasets) can be asked computationally.
+	- Identify or create _competency questions_: queries that the ontology (and datasets) can be asked computationally.
 - Select, Acquire or Develop resources and tools, e.g., ontology editor software, knowledge representation languages, 
 - Corpora (research documents, domain knowledge), data sources, contibutors, partners, subject-matter experts, etc.
 
