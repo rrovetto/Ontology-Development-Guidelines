@@ -11,8 +11,8 @@ CAVEAT: this is based on my experience and studies and is thereby limited and bi
 - [List of Ontology Education (PPT file)](https://www.slideshare.net/RobertRovetto/ontology-courses-education)
 - [List of Ontology Services (PPT file)](https://www.slideshare.net/RobertRovetto/ontology-services-238070099)
 
-## Stages of Ontology Development
-A generic ontology development methodology includes the following activities: identifying and scoping your topic area; corpus or domain material research; listing or creating a defined set of terms, a taxonomy and classificaiton system; and both applications of and data for that system. It is **iterative** and **non-linear**: some phases of the development process may be performed concurrently and revisited. 
+## Stages of Ontology Development (dynammic and iterative)
+A generic computational ontology development methodology includes the following activities: identifying and scoping your target subject or set of concepts; corpus material or domain research; listing or creating a defined set of terms, a taxonomy and classificaiton system; and both applications of and data for that system. It is **iterative** and **non-linear**: some phases of the development process may be performed concurrently and revisited. 
 
 _Botton-Up development from data (example 1)_: examine data and the identify the relevant subject matter. create ontology constructs (classes, etc.) from what the data is about (e.g., only classes for what the data contains).
 
@@ -86,7 +86,7 @@ rrovetto(at)terpalum.umd.edu
 
 ## Warranty
 No warranty. Presented "AS IS". Author and copyright holder is not liable.
-All content, work and products are subject to revision. No claims to completeness. 
+All content, work and products are subject to revision. No claims to completeness. No claims to complete accuracy.
 
 ## Copyright
 © 2013-2021, Robert John Rovetto. All right reserved.
