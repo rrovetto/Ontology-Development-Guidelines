@@ -2,22 +2,28 @@
 This repository contains descriptions that succinctly explain how to develop an ontology in a manual approach, and some methodological aspects for doing so. Guidelines and practices are offerred. Below is a **generic ontology development methodology**. 
 CAVEAT: this is based on my experience and studies and is thereby limited and biased in that respect. The reader is encouraged to look at the diverse content on this subject from around the globe. And be aware that there are different methods, both automated and manual, to develop an ontology.  
 
-**Related**: [Ethics](https://github.com/rrovetto/Ethical-Ontology-Development) and [Myths](https://github.com/rrovetto/Ethical-Ontology-Development/blob/master/Myths-Of-Ontology-Development.md) of Ontology Development.
+**Related**: [Ethical aspects of Ontology & Semantic modeling](https://github.com/rrovetto/Ethical-Ontology-Development) and [Myths of Ontology Development & Use](https://github.com/rrovetto/Ethical-Ontology-Development/blob/master/Myths-Of-Ontology-Development.md).
 
 **Support**:  If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). 
 
-**For Hire or For a Ontology Consulting Services**
-- [Schedule a meeting at this link](https://tinyurl.com/yas7trzy)
-- Ontology Education (course list sample): https://www.slideshare.net/RobertRovetto/ontology-courses-education
-- Ontology Services (list sample): https://www.slideshare.net/RobertRovetto/ontology-services-238070099
+**For Hire**
+- [Purchase services, products, or schedule a meeting at this link](https://tinyurl.com/yas7trzy)
+- [List of Ontology Education (PPT file)](https://www.slideshare.net/RobertRovetto/ontology-courses-education)
+- [List of Ontology Services (PPT file)](https://www.slideshare.net/RobertRovetto/ontology-services-238070099)
 
 ## Stages of Ontology Development
-A generic ontology development methodology includes the following activities: identifying and scoping your topic area; corpus or domain material research; listing or creating a defined set of terms, a taxonomy and classificaiton system; and both applications of and data for that system. It is **iterative** and **non-linear**: some phases of the development process may be performed concurrently and revisited.
+A generic ontology development methodology includes the following activities: identifying and scoping your topic area; corpus or domain material research; listing or creating a defined set of terms, a taxonomy and classificaiton system; and both applications of and data for that system. It is **iterative** and **non-linear**: some phases of the development process may be performed concurrently and revisited. 
+
+_Botton-Up development from data (example 1)_: examine data and the identify the relevant subject matter. create ontology constructs (classes, etc.) from what the data is about (e.g., only classes for what the data contains).
+
+_Botton-Up development from subject matter (example 2)_: examine the subjectmatter (e.g., corpus documents, subject nomenclature, etc.) and create corresponding ontology constructs for the most common categories and concepts found in the subjectmatter.
+
+_Top-Down development (example)_: identify and create ontology constructs independent of examining data, but which can annotate the data. E.g., create abstract classes and modify accordingly once you examine the data and the intended meaning of the datasets and data elements. 
 
 ### 1. Purpose, Subject matter & Data 
-- Identify purpose(s) or function(s) for the ontology. _What is it for?_
-- Identify what subject/domain or set of concepts you wish to ontologically model.
-- Identify the data that the ontology will be applied to (e.g., to annotate)
+- Identify purpose(s), goal(s), or function(s) for the ontology. _What is it for?_
+- Identify what universe of discourse, subject, domain, or set of concepts you wish to model in an ontology.
+- Identify the data that the ontology will be applied to (e.g., to annotate), annotate, or be based on
 
 ### 2. Subject-matter Research
 - Research the target subject or domain corpora (publications, datasets, projects, subject-matter expert interviews, etc.)
