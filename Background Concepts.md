@@ -14,7 +14,7 @@ The following are some semantic technological systems (or resources), and using 
 - **Knowledge base** = an ontology + instances of the classes in the ontology
 
 
-### The Generic - The Specific
+### The Generic vs. The Specific
 
 The concept of the generic, the general, the universal, etc. is distinguished from that of the specific, the indvidiual, the particular, etc. 
 Historically this is partially a reflection of human philosophical inquiry into attribute-agreement, or how things can be similar, how the seem to have the same attributes, characteristics, etc. 
@@ -28,7 +28,7 @@ This is basic distinction is exemplified by some more specific ones such as:
 
 ### Characteristics - Possessors of characterstics
 
-This is the distinction between a property (or characteristic) and property-bearer.
+This is the distinction between a property, feature, attribute, quality (or characteristic) and something that is said to possess, have or bear it, i.e., a property-bearer.
 
 ### Copyright
 
