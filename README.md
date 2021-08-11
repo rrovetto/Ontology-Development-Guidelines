@@ -12,10 +12,10 @@ CAVEAT: this is based on my experience and studies and is thereby limited and bi
 - [List of Ontology Services (PPT file)](https://www.slideshare.net/RobertRovetto/ontology-services-238070099)
 
 ## A Note on types of approaches
-- _Botton-Up development from data (example 1)_: examine data and the identify the relevant subject matter. create ontology constructs (classes, etc.) from what the data is about (e.g., only classes for what the data contains).
-- _Botton-Up development from subject matter (example 2)_: examine the subjectmatter (e.g., corpus documents, subject nomenclature, etc.) and create corresponding ontology constructs for the most common categories and concepts found in the subjectmatter.
-- _Top-Down development (example)_: identify and create ontology constructs independent of examining data, but which can annotate the data. E.g., create abstract classes and modify accordingly once you examine the data and the intended meaning of the datasets and data elements. 
-- _Hybrid development_: a combination of both bottom-up & top-down.
+- **Botton-Up development from data (example 1)**: examine data and the identify the relevant subject matter. create ontology constructs (classes, etc.) from what the data is about (e.g., only classes for what the data contains).
+- **Botton-Up development from subject matter (example 2)**: examine the subjectmatter (e.g., corpus documents, subject nomenclature, etc.) and create corresponding ontology constructs for the most common categories and concepts found in the subjectmatter.
+- **Top-Down development (example)**: identify and create ontology constructs independent of examining data, but which can annotate the data. E.g., create abstract classes and modify accordingly once you examine the data and the intended meaning of the datasets and data elements. 
+- **Hybrid development**: a combination of both bottom-up & top-down.
 
 ## Stages of Ontology Development (dynamic and iterative)
 A generic computational ontology development methodology includes the following activities: identifying and scoping your target subject or set of concepts; corpus material or domain research; listing or creating a defined set of terms, a taxonomy and classificaiton system; and both applications of and data for that system. It is **iterative** and **non-linear**: some phases of the development process may be performed concurrently and revisited. 
