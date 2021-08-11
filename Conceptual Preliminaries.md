@@ -2,6 +2,18 @@
 
 Some basic distinctions made in modeling (conceptual, ontological, semantic, linguistic, etc.), which are partially drawn from abstract and philosophical inquiry, are:
 
+If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/).
+
+### Semantic & Terminological Systems
+The following are some semantic technological systems (or resources), and using the descriptions from [this presentation on Slideshare](https://www.slideshare.net/skhan/ontology-dev?qid=8e6605c2-e7c7-4e76-b5d3-1d817b9e299b&v=&b=&from_search=4). 
+
+- **Classification** = a controlled vocabulary whose terps are grouped
+- **Taxonomy** = a controlled vocabulary with some hierarchical structure
+- **Thesaurus** = a controlled vocabulary with term relations
+- **Ontology** = a controlled vocabulary with semantic relations, constraints, axioms and rules
+- **Knowledge base** = an ontology + instances of the classes in the ontology
+
+
 ### The Generic - The Specific
 
 The concept of the generic, the general, the universal, etc. is distinguished from that of the specific, the indvidiual, the particular, etc. 
@@ -18,8 +30,7 @@ This is basic distinction is exemplified by some more specific ones such as:
 
 This is the distinction between a property (or characteristic) and property-bearer.
 
-### ...
+### Copyright
 
 (c) 2019-2020, Robert John Rovetto.
 
-If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/).
