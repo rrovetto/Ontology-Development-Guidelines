@@ -1,6 +1,6 @@
 # Ontology Development Guidelines (manual approach)
 This repository contains descriptions that succinctly explain how to develop an ontology in a manual approach, and some methodological aspects for doing so. Guidelines and practices are offerred. Below is a **generic ontology development methodology**. 
-CAVEAT: this is based on my experience and studies and is thereby biased in that respect. The reader should be aware that there areother methods, both automated and manual means to develop an ontology.  
+CAVEAT: this is based on my experience and studies and is thereby limited and biased in that respect. The reader is encouraged to look at the diverse content on this subject from around the globe. And be aware that there are different methods, both automated and manual, to develop an ontology.  
 
 **Related**: [Ethics](https://github.com/rrovetto/Ethical-Ontology-Development) and [Myths](https://github.com/rrovetto/Ethical-Ontology-Development/blob/master/Myths-Of-Ontology-Development.md) of Ontology Development.
 
