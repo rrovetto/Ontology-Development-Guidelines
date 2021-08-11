@@ -5,7 +5,7 @@ Some basic distinctions made in modeling (conceptual, ontological, semantic, lin
 If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/).
 
 ### Semantic & Terminological Systems
-The following are some semantic technological systems (or resources), and using the descriptions from [this presentation on Slideshare](https://www.slideshare.net/skhan/ontology-dev?qid=8e6605c2-e7c7-4e76-b5d3-1d817b9e299b&v=&b=&from_search=4). 
+The following are some semantic technological systems (or resources), and using the descriptions from [this presentation on Slideshare, slide 5](https://www.slideshare.net/skhan/ontology-dev?qid=8e6605c2-e7c7-4e76-b5d3-1d817b9e299b&v=&b=&from_search=4). 
 
 - **Classification** = a controlled vocabulary whose terps are grouped
 - **Taxonomy** = a controlled vocabulary with some hierarchical structure
