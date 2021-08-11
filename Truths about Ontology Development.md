@@ -5,9 +5,9 @@ If you find value in my work, please [support/donate here](https://gogetfunding.
 ## Be innovative and creative.
 ### 1. You can create your own ontology, regardless of the degree of abstraction or specificity or application
 - You can create your own subject-specific ontology (sometimes called: domain ontology, application ontology, lower-level ontology, etc.)
-- You can create your own generic ontology (sometimes called: general ontology, foundational ontology, base ontology, upper-level ontology, top-level ontology, core ontology, etc.)
+- You can create your own generic ontology (also called: general ontology, foundational ontology, base ontology, upper-level ontology, top-level ontology, core ontology, etc.)
 
-### 2. You do not have to reuse existing ontology.
+### 2. You do not have to reuse existing ontologies.
 - Anyone that says you must (or is pushy about it), is very likely trying to get you to use theirs (i.e. they probably have some vested interest to get more users).
 - Do not encourage abusive or unfair business tactics, or attempts to monopolize
 
