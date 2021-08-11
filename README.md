@@ -11,7 +11,7 @@ CAVEAT: this is based on my experience and studies and is thereby limited and bi
 - [List of Ontology Education (PPT file)](https://www.slideshare.net/RobertRovetto/ontology-courses-education)
 - [List of Ontology Services (PPT file)](https://www.slideshare.net/RobertRovetto/ontology-services-238070099)
 
-## Stages of Ontology Development (dynammic and iterative)
+## Stages of Ontology Development (dynamic and iterative)
 A generic computational ontology development methodology includes the following activities: identifying and scoping your target subject or set of concepts; corpus material or domain research; listing or creating a defined set of terms, a taxonomy and classificaiton system; and both applications of and data for that system. It is **iterative** and **non-linear**: some phases of the development process may be performed concurrently and revisited. 
 
 _Botton-Up development from data (example 1)_: examine data and the identify the relevant subject matter. create ontology constructs (classes, etc.) from what the data is about (e.g., only classes for what the data contains).
@@ -21,21 +21,21 @@ _Botton-Up development from subject matter (example 2)_: examine the subjectmatt
 _Top-Down development (example)_: identify and create ontology constructs independent of examining data, but which can annotate the data. E.g., create abstract classes and modify accordingly once you examine the data and the intended meaning of the datasets and data elements. 
 
 ### 1. Purpose, Subject matter & Data 
-- Identify purpose(s), goal(s), or function(s) for the ontology. _What is it for?_
+- Identify purpose(s), goal(s), or function(s) for the ontology. _What is it for? How is it intended to be used? What are the desired features and functionalities?_
 - Identify what universe of discourse, subject, domain, or set of concepts you wish to model in an ontology.
 - Identify the data that the ontology will be applied to (e.g., to annotate), annotate, or be based on
 
 ### 2. Subject-matter Research
-- Research the target subject or domain corpora (publications, datasets, projects, subject-matter expert interviews, etc.)
+- Research the target subject or domain corpora (publications, data, projects, subject-matter experts, educational courses, etc.)
 
 ### 3. Use-cases
-- Identify use-cases for the ontology. _Where may it be applied? What systems may benefit from it? What are situations in which it could be used?_
+- Identify use-cases for the ontology. _Where may the ontology be applied? How can the ontology be used? What stakeholders, societal sectors, computational systems, and applications may benefit from it? What are situations in which the ontology could be used?_
 
 ### 4. Scope
 - Identify or specify the boundaries of the university of discourse (or target subject/domain) that the ontology(s) will represent.
 
 ### 5. Requirements & Specification Details
-- Identify what will be required to realize the purpose and apply to the use-cases. 
+- Identify what will be required to (i) realize the purpose and (ii) apply the ontology to the use-cases. 
 - State specification details: 
 	- What natural language? 
 	- What computable lanuage (knowledge representation and reasoning language / implementation langauges)? 
@@ -43,6 +43,7 @@ _Top-Down development (example)_: identify and create ontology constructs indepe
 	- Identify or create _competency questions_: queries that the ontology (and datasets) can be asked computationally.
 - Select, Acquire or Develop resources and tools, e.g., ontology editor software, knowledge representation languages, 
 - Corpora (research documents, domain knowledge), data sources, contibutors, partners, subject-matter experts, etc.
+- Identify and select supplemental tools: ontology engeineer tools, ontology development environments, automated reasoners, etc.  
 
 ### 6. Research & Conceptual Analysis of the Subject/domain
 - Examine the target subject matter. Try to identify essential concepts, themes, challenges, etc. Gain a big-picture understanding.
@@ -66,15 +67,19 @@ _Top-Down development (example)_: identify and create ontology constructs indepe
 - Define these relational terms.
 - Use abstract distinctions and structuring relations, e.g., category vs. instance, class vs. member, class and subclass, broader & narrower, etc. 
 
-### 10. Formalize
+### 10. Symbolically Formalize
 - Develop semi-formal or formal logical definitions.
 	- You may translate the intended meaning or natural language definitions into, e.g., first-order logic for precision. 
 - Chose or create a formalism that is computable. 
 - Translate the natural language meanings into the chosen formal language, or use your chosen ontology editor tool’s language.
 - Formal definitions may use the labels to better foster automation.
 
-### 11. 
+### 11. Collect or create a test dataset. Apply the ontology to that data.
+- Before deployment into actual use-cases or operational data owned by stakeholders or others, collect or create test data to test and validate the functionality, goals, and utility of the ontology. This will serve to identify any bugs (technical problems or limitations).
+- Apply or use the ontology to that test data by using supplemental tools (See Stage 5): run any reasoner to test for functionalities such as classification, correct inference, etc.
 
+### 12. 
+ 
 ## Author
 Robert J. Rovetto
 rrovetto(at)terpalum.umd.edu
