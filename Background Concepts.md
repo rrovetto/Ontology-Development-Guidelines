@@ -15,7 +15,8 @@ The following are some types of semantic/terminological/knowledge systems (or re
 ### What are Semantic Systems Used for?
 - to index, tag, semantically annotate, and categorize content (e.g. documents, text, data, and other resources) in order to facilitate search, their discovery and their retrieval 
 - to represent things and knowledge in a machine-readable manner using the constructs or terms in the respective system
--  
+- to partially structure unstructured data by adding an external semantic laywer (e.g., set of term annotations)
+- to offer a knowledge-based model of some target content or universe of discourse (serving as background knowledge) in order to facilitate automated action (e.g., in autonomous AI systems) 
 
 
 **Some basic distinctions made in modeling (conceptual, ontological, semantic, linguistic, etc.), which are partially drawn from abstract and philosophical inquiry, are the following**
