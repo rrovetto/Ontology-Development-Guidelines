@@ -1,6 +1,6 @@
 ## Features of Ontologies
 
-The following are some feartures of ontologies. 
+The following are a set of minimum feartures of ontologies. 
 
 * Subject-matter coverage
 * Subject-matter capture 
