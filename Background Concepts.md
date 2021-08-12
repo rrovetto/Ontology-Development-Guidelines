@@ -1,7 +1,5 @@
 ## Background - Preliminaries of Ontology Development: Some Conceptual and Ontological Distinctions 
 
-Some basic distinctions made in modeling (conceptual, ontological, semantic, linguistic, etc.), which are partially drawn from abstract and philosophical inquiry, are:
-
 If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/).
 
 ### Semantic & Terminological Systems
@@ -19,6 +17,9 @@ The following are some types of semantic/terminological/knowledge systems (or re
 - to represent things and knowledge in a machine-readable manner using the constructs or terms in the respective system
 -  
 
+
+**Some basic distinctions made in modeling (conceptual, ontological, semantic, linguistic, etc.), which are partially drawn from abstract and philosophical inquiry, are the following**
+
 ### The Generic vs. The Specific
 
 The concept of the generic, the general, the universal, etc. is distinguished from that of the specific, the indvidiual, the particular, etc. 
@@ -31,7 +32,7 @@ This is basic distinction is exemplified by some more specific ones such as:
 * set - element
 
 
-### Characteristics - Possessors of characterstics
+### Characteristics vs. Possessors of characterstics
 
 This is the distinction between a property, feature, attribute, quality (or characteristic) and something that is said to possess, have or bear it, i.e., a property-bearer.
 
