@@ -86,9 +86,8 @@ A generic computational ontology development methodology includes the following 
 Robert J. Rovetto
 rrovetto(at)terpalum.umd.edu
 * Education Technical Committee member, International Association for Ontology and its Applications (IAOA)
-* Member of misc. semantic web groups
-* Invited manuscript reviewer for Journal of Applied Ontology
-* NASA Datanauts (open data group in the Office of Chief Information Officer)
+* Semantic Web & Applied Ontology Special Interest Group, IAOA
+* NASA Datanauts open data group (class of 2017. 2017-20)
 * Journal of Search and Rescue (webmaster, journal developer)
 
 ## Warranty
