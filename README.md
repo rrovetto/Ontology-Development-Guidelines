@@ -25,7 +25,7 @@ A generic computational ontology development methodology includes the following 
 ### 1. Purpose, Subject matter & Data 
 - Identify purpose(s), goal(s), or function(s) for the ontology. _What is it for? How is it intended to be used? What are the desired features and functionalities?_
 - Identify what universe of discourse, subject, domain, or set of concepts you wish to model in an ontology.
-- Identify the data that the ontology will be applied to (e.g., to annotate), annotate, or be based on
+- Identify the data that the ontology will be applied to (e.g., to annotate), annotate, or be based on. 
 
 ### 2. Subject-matter Research
 - Research the target subject or domain corpora (publications, data, projects, subject-matter experts, educational courses, etc.)
@@ -54,6 +54,7 @@ A generic computational ontology development methodology includes the following 
 - Identify & list specific things in the universe of discourse you want the ontology to represent.
 - Identify & list concepts and terms needed to describe the things in universe of discourse. 
 - Create concepts and terms where needed.
+- For a candidate category, ask: is there a data element or dataset that can be annotated with this category? If not, then you may not need it (but it will be situational).
 
 ### 8. Definitions
 - Identify the intended meaning for each of the list of things, concepts and terms.
