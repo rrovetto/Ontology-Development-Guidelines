@@ -1,13 +1,13 @@
-## Features of Ontologies
+## Features or Metrics of Ontologies
 
-The following are a set of minimum feartures of ontologies. Each feature can be evaluated.
+The following are a set of minimum feartures of ontologies. Each feature can be evaluated. An ontology can be evaluated based on these metrics.
 
-* **Subject-matter coverage** - the extent to which an ontology 
-* **Subject-matter capture** 
-* **Revisability** - an ontology being mutable, modifiable, editable, etc. It can be updated when the target subject-matter changes, when new data is acquired, when mistakes are found in data, domain knowledge, the model, etc.
+* **Subject-matter coverage** - the extent to which an ontology models, represents, or annotates the target subject-matter 
+* **Subject-matter capture** -
+* **Revisability** - whether, and the extent to which, an ontology is mutable / modifiable / editable. The ontology can be updated when the target subject-matter changes, when new data is acquired, when mistakes are found in data or domain, changes in domain knowledge, the model, etc.
 * **Consistency**
-*   Logical Consistency - the logical formalizations in the ontology do not admit of contradictions. the ontology is logically consistent. The ontology's axioms, constraints, restrictions do not admit of contradictions. (assuming a background logic where contradictions are not desired)
-*   Semantic or non-logical Consistency - the natural-language definitions and any other readable notes or annotations do not express things that are contradictory, e.g., multiple contradictory definitions of a single category term.   
+*   **Logical Consistency** - the logical formalizations in the ontology do not admit of contradictions. the ontology is logically consistent. The ontology's axioms, constraints, restrictions do not admit of contradictions. (assuming a background logic where contradictions are not desired)
+*   **Semantic or non-logical Consistency** - the natural-language definitions and any other readable notes or annotations do not express things that are contradictory, e.g., multiple contradictory definitions of a single category term.   
 * **Coherence** - the informal and formal semantics are expressed in a manner that makes sense given knowledge of the target subject-matter. the ontology model is reasonably, ratonally developed. The content is comprehensible.
 * **Expressive knowledge representation language formalism**
   - Using the most expressive formalism available should help achieve a high degree of subject-matter capture, i.e. a high degree of knowledge capture. It should afford representing knowledge in the target domain of interest. However, there may be fewer tools to support it (if you're a software developer, then create them!). 
