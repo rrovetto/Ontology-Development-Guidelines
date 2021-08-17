@@ -6,4 +6,6 @@
 - List those terms. 
 - Keep the fundamental distinction of category vs. instance in mind. 
 
-(c) 2018-2021, Robert J. Rovetto. All rights reserved.
+## Copyright
+© 2019-2021, Robert John Rovetto. All right reserved.
+Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required.
