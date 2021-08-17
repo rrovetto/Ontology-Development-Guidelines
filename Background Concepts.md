@@ -37,7 +37,8 @@ This is basic distinction is exemplified by some more specific ones such as:
 
 This is the distinction between a property, feature, attribute, quality (or characteristic) and something that is said to possess, have or bear it, i.e., a property-bearer.
 
-### Copyright
+## Copyright
+© 2019-2021, Robert John Rovetto. All right reserved.
+Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required.
 
-(c) 2019-2020, Robert John Rovetto.
 
