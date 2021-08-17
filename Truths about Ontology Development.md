@@ -47,5 +47,5 @@ An ontology may commit to other ontologies by importing them, or may commit to a
 - Do not believe the hype (just like with anything).
 - Like with any other activity, tehnology, or product we must admit such facts, and not exaggerate the benefits or state of ontology despite being vested in the topic
 
-
-(c) 2016-2020, Robert John Rovetto.
+### Copyright
+© 2016-2021, Robert John Rovetto. All right reserved. Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required.
