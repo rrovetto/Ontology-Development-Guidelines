@@ -2,10 +2,10 @@
 
 Depending on the situation, you may assign either so-called...
 
-- (a) **opaque or semantically-neutral identifiers** (which do not express meaning). These include identifiers composed of strings of (alpha)numeric characters that are not intended to convey any meaning, such as random-numbered identifier, or a sequentially-numbered identifier. UUIDs or GUIDs are type of opaque identifiers.
+- **Opaque or semantically-neutral identifiers** (which do not express meaning). These include identifiers composed of strings of (alpha)numeric characters that are not intended to convey any meaning, such as random-numbered identifier, or a sequentially-numbered identifier. UUIDs or GUIDs are type of opaque identifiers.
 or
 
-- (b) **readiable identifiers**. These includes human-readible character strings, e.g., "Motor vehcile" or "motor-vehicle"
+- **Human-Readiable identifiers**. These includes human-readible character strings, e.g., "Motor vehcile" or "motor-vehicle"
 
 ...for all constructs (e.g., classes) in the ontology.
 
