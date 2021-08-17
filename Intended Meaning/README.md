@@ -34,4 +34,6 @@ In this way, we can consider the constructs (symbol-structures, or elements) of 
 
 If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/).
 
-(c) 2019-2020, Robert John Rovetto.
+## Copyright
+© 2019-2021, Robert John Rovetto. All right reserved.
+Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required.
