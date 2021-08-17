@@ -2,17 +2,17 @@
 
 Some of the following facts may be obvious, but explicitly stating them is necessary to express the truths for posterity and for the non-specialist so that they are informed and so that misinformation is mitigated.
 
-If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/).
+**SUPPORT**: If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/).
 
 ## Be innovative and creative.
 ### 1. You can create your own ontology, regardless of the degree of abstraction or specificity or application
-- You can create your own subject-specific ontology (sometimes called: domain ontology, application ontology, lower-level ontology, etc.)
-- You can create your own generic ontology (also called: general ontology, foundational ontology, base ontology, upper-level ontology, top-level ontology, core ontology, etc.)
-- Developer of upper ontologies may resist this because such existing are often the result of years and work, collaboratively or otherwise. Having others to help--like any project--can certainly help development and quality. However, and nevertheless, if one is educated on the topic and the necessary background concepts, then you can create your own.    
--  
+- You can create your own topic-specific ontology (sometimes called: domain ontology, application ontology, lower-level ontology, etc.)
+- You can create your own generic ontology (also called: general/generic ontology, foundational ontology, base ontology, upper-level ontology, top-level ontology, core ontology, etc.)
+- Developers of upper ontologies may resist this because some existing ontologies are the result of years and work, collaboratively or otherwise. Having multiple contributors may certainly aid development and quality, but it is no guarantee. But in any case, if you're educated on the topic or motivated, then of course you can create your own. 
+  
 ### 2. You do not have to reuse existing ontologies.
-- Anyone that says you must (or is pushy about it), is very likely trying to get you to use theirs (i.e. they probably have some vested interest to get more users).
-- Do not encourage abusive or unfair business tactics, or attempts to monopolize
+- Anyone that says you must (or is pushy about it), is very likely trying to get you to use or purchase theirs (i.e. they probably have some vested interest to get more users).
+- Do not tolerate, and do not encourage unfair business tactics, political abuse, or attempts to monopolize.
 
 ## Be informed, be aware, and be responsible. (Transparency & Ethics)
 ### 3. If you're considering using an existing ontology, _be informed_ about what you are committing to
