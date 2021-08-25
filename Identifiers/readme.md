@@ -11,6 +11,13 @@ or
 
 - Select a type and format for identifiers, e.g., random-generated alphanumeric, sequential numeric, etc.
 
+**Display Label**
+- Display labels for a given construct (class, relationship, instance, etc.) are how the construct will be read/seen. 
+- Additional labels can be added as desired or needed. For example:
+-   Alternative labels (e.g., rdfs:altLabel)
+-   Synonyms. Including synonyms indirectly show the degree of usage and meaning in a natural language for the given domain/topic. 
+-   
+
 **SUPPORT**: If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/).
 
 ## Copyright
