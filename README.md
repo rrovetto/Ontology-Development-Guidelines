@@ -10,7 +10,7 @@ This repository contains descriptions that succinctly explain how to manually de
 - [List of Ontology Education (PPT file)](https://www.slideshare.net/RobertRovetto/ontology-courses-education)
 - [List of Ontology Services (PPT file)](https://www.slideshare.net/RobertRovetto/ontology-services-238070099)
 
-## A Note on types of approaches
+## A Note on Ontology Design Approaches
 - **Botton-Up development from data (example 1)**: examine data and the identify the relevant subject matter. create ontology constructs (classes, etc.) from what the data is about (e.g., only classes for what the data contains).
 - **Botton-Up development from subject matter (example 2)**: examine the subjectmatter (e.g., corpus documents, subject nomenclature, etc.) and create corresponding ontology constructs for the most common categories and concepts found in the subjectmatter.
 - **Top-Down development (example)**: identify and create ontology constructs independent of examining data, but which can annotate the data. E.g., create abstract classes and modify accordingly once you examine the data and the intended meaning of the datasets and data elements. 
