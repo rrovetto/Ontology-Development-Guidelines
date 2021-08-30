@@ -1,4 +1,4 @@
-# Truths about Ontology Development - An eye on ethics for you and the community
+# Truths about Ontology Development & Use - An eye on ethics for you and the community
 
 Some of the following facts may be obvious, but explicitly stating them is necessary to express the truths for posterity and for the non-specialist so that they are informed and so that misinformation is mitigated.
 
