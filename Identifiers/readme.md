@@ -1,8 +1,12 @@
 ## Guidelines for developing Identifiers
 
-Depending on the situation, you may assign either so-called...
+Identifiers are those symbol-structures (e.g., a set of alphanumeric characters) that identify a given ontology construct (class, relation, individual, etc.).
+Depending on the situation, you may assign either so-called 'opaque' or 'transparent/meaningful' identifiers.
 
-- **Opaque or semantically-neutral identifiers** (which do not express meaning). These include identifiers composed of strings of (alpha)numeric characters that are not intended to convey any meaning, such as random-numbered identifier, or a sequentially-numbered identifier. UUIDs or GUIDs are type of opaque identifiers.
+Often there is a particular identifier that is displayed to the user of the ontology, while possibly having associated synonymous identifiers. It may be the preferred label, but the identifier presented to the user is how the ontology construct is displayed, i.e., there is a display label. 
+
+
+- **Opaque or Semantically-neutral identifiers** (which do not express meaning). These include identifiers composed of strings of (alpha)numeric characters that are not intended to convey any meaning, such as random-numbered identifier, or a sequentially-numbered identifier. UUIDs or GUIDs are type of opaque identifiers.
 or
 
 - **Human-Readiable identifiers**. These includes human-readible character strings, e.g., "Motor vehcile" or "motor-vehicle"
