@@ -6,12 +6,12 @@ Some of the following facts may be obvious, but explicitly stating them is neces
 
 ## Be innovative and creative.
 ### 1. You can create your own ontology, regardless of the degree of abstraction or specificity or application
-- You can create your own topic-specific ontology (sometimes called: domain ontology, application ontology, lower-level ontology, etc.)
-- You can create your own generic ontology (also called: general/generic ontology, foundational ontology, base ontology, upper-level ontology, top-level ontology, core ontology, etc.)
-- Developers of upper ontologies may resist this because some existing ontologies are the result of years and work, collaboratively or otherwise. Having multiple contributors may certainly aid development and quality, but it is no guarantee. But in any case, if you're educated on the topic or motivated, then of course you can create your own. 
+- You can create your own topic-specific ontology (also called: domain ontology, domain-specific ontology, application ontology, lower-level ontology, etc.)
+- You can create your own highly generic ontology (also called: general/generic ontology, foundational ontology, base ontology, upper-level ontology, top-level ontology, core ontology, etc.)
+- Some developers may resist this fact because some existing ontologies are the result of years of work, collaboratively or otherwise. Having multiple contributors may certainly aid development and quality, but it is no guarantee. In any case, if you're educated on the topic or otherwise motivated, then of course you can create your own. 
   
 ### 2. You do not have to reuse existing ontologies.
-- Anyone that says you must (or is pushy about it), is very likely trying to get you to use or purchase theirs (i.e. they probably have some vested interest to get more users).
+- Anyone that says you must (or is pushy about it), is very likely trying to get you to use or purchase theirs (i.e. they probably have some vested interest to get more users or $).
 - Do not tolerate, and do not encourage unfair business tactics, political abuse, or attempts to monopolize.
 
 ## Be informed, be aware, and be responsible. (Transparency & Ethics)
@@ -22,30 +22,31 @@ An ontology may commit to other ontologies by importing them, or may commit to a
 - Be aware of any imported ontologies or taxonomies the candidate ontology commits to or uses.
 (Be aware of other ontologies or semantic resources you may be committing to by using the candidate ontology.)
 
-### 4. You have a right to understand what an ontology says about the world in general, or about your subject, discipline, or expertise.
-- Does an ontology allow the concepts you want to include or model?
+### 4. You have a right to understand what an ontology says about your subject, discipline, data, expertise, or about the world if anything.
+- Does an ontology allow the concepts/categories/terms you want to include or model? Will an ontology exclude your domain concepts? 
+- Can you accurate model/represent or semantically annotate your data and your domain concepts/terms with the candidate ontology? 
 - Will a more abstract, generic or upper-level ontology mischaracterize or miscategorize your domain concepts? 
-- Will an ontology exclude your domain concepts? 
 - Do not believe the "black box" saying that an ontology should be hidden from users or end-users. Anyone that tries to convince you of this is probably trying to push their ontology on you.
-- Being informed and having information is always better than not.
+- Being informed, even of the seemingly mundande or ineffectual detials, is always better than not.
 
-### 5. Ontologies may not be the solution.
+### 5. You do not need an generic/upper/top-level/foundational ontology
+- There are other technologies and methods to achieve the same results.
+- Some developers may resist this fact, but it is important to put ones bias for their vested interst (or lifes work) aside, and be objective, fair and truthful. Stating it explicitly, even if obvious, is essential for the sake of communicating those facts; it will help to prevent (intentional or unintentional) misinformation. It will help inform poterity.
+
+## Some Facts - Common Sense and Ethical Aspects
+
+### 6. Ontologies may not be the solution.
 - There are other technologies and methods to achieve the same purported results
 
-### 6. You do not need an generic/upper/top-level/foundational ontology
-- There are other technologies and methods to achieve the same results.
-- Some upper ontology developers may resist this fact, but it is important to put ones bias for their vested interst or lifes work aside, and be objective and truthful. Stating it explicitly, even if obvious, is needed for the sake of communicating those facts to prevent misinformation and for poterity to be informed.
+### 7. Ontology development and engineering (and related semantic modeling approaches, and knowledge-based approaches) is a relatively immature topic, with limited quantitative evidence for its utility, and even less tools to harness the most robust (or heavyweight) forms of ontologies and the most expressive ontology (or knowledge representation) formal languages.
+- This may be a contentious point for some, but bottom line is...
+- **Do not blindly believe the hype** (just like with anything). Just like with any other activity, tehnology, or product, we must admit such facts, and not exaggerate the benefits or state of ontology despite being vested in the topic
 
-## Some Facts - Common Sense and Ethical aspects
-
-### 7. Popularity does not mean quality. And standardization does not mean quality.
+### 8. Popularity does not mean quality. And standardization does not mean quality.
 - The amount of users an ontology (or ontology project) has does **not** mean an ontology is good, or useful.
 - Presence in an (inter)national standards organization, e.g., having a standard document of an ontology, does **not** mean the ontology is good quality, useful, correct, etc. Some have entered into standards through political abuse and other unethical actions (evidence and cases available).
 - Like in other disciplines, popularity, and presence in a standards organization, are invalid arguments that are used to convince people to accept the product or technology (e.g., an ontology).
 
-### 8. Ontology development and engineering is still a relatively immature topic, with limited quantitative evidence for its utility, and even less tools to harness the most robust (or heavyweight) forms of ontologies and the most expressive ontology (or knowledge representation) formal languages.
-- Do not believe the hype (just like with anything).
-- Like with any other activity, tehnology, or product we must admit such facts, and not exaggerate the benefits or state of ontology despite being vested in the topic
 
 ### Copyright
 © 2016-2021, Robert John Rovetto. All right reserved. Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required.
