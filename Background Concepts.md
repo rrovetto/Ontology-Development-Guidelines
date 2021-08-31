@@ -1,9 +1,12 @@
 ## Background - Preliminaries of Ontology Development: Some Conceptual and Ontological Distinctions 
 
-If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/).
+If you find value in my work, [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/).
 
 ### Semantic / Terminological / Knowledge Organization Systems
-The following are some types of semantic/terminological/knowledge systems (or resources), using the descriptions from [this presentation on Slideshare, slide 5](https://www.slideshare.net/skhan/ontology-dev?qid=8e6605c2-e7c7-4e76-b5d3-1d817b9e299b&v=&b=&from_search=4). CAVEAT: there are different descriptions of these systems. E.g., some do not consider ontologies to be controlled vocabularies. These semantic/terminological systems are sometimes called 'knolwedge organization systems' (however from an analytical perspective that name is problematic because it is unclear if knowledge or other things are being organized). Each has purposes and applications that may overlap. Some may be more structured than others. Some may be developed more semantically and logically expressive than others. Some may be developed more complex than others (some may have the capability to be more complex than others).  
+The following are some types of semantic/terminological/knowledge systems (or resources), using the descriptions from [slide 5 of this Slideshare presentation](https://www.slideshare.net/skhan/ontology-dev?qid=8e6605c2-e7c7-4e76-b5d3-1d817b9e299b&v=&b=&from_search=4). 
+CAVEAT: there are different descriptions of these systems. E.g., some do not consider ontologies to be controlled vocabularies.
+NOTE: These systems are sometimes called 'knolwedge organization systems'. However--from an analytical perspective--that name is problematic because more than knowledge can be captured, and defining 'knowledge' is contentious. 
+Each system has purposes and applications that may overlap with others. Some may be more structured, complex, or expressive than others.  
 
 - **Controlled Vocabulary** = an organized set of term used to catalog and index content
 - **Classification** = a controlled vocabulary whose terps are grouped
@@ -15,17 +18,19 @@ The following are some types of semantic/terminological/knowledge systems (or re
 ### What are those Semantic Systems Used for?
 - to index, tag, semantically annotate, and categorize content (e.g. documents, text, data, and other resources) in order to facilitate search, their discovery and their retrieval 
 - to represent things and knowledge in a machine-readable manner using the constructs or terms in the respective system
-- to partially structure unstructured data by adding an external semantic laywer (e.g., set of term annotations)
-- to offer a knowledge-based model of some target content or universe of discourse (serving as background knowledge) in order to facilitate automated action (e.g., in autonomous AI systems) 
+- to partially structure unstructured data by adding an external semantic layer (e.g., set of semantic annotations)
+- to offer a knowledge-based model of some target universe of discourse (serving as background knowledge) in order to facilitate automation or reasoning (e.g., in AI systems) 
 
-### The relationship between AI: Artificial Intelligence & Ontology Engineering
-Part of AI is how to represent human knowledge in a way computer systems can act on and process, called **knowledge representation and reasoning** (KRR). 
-It involves creating a database to store content or knowledge (a **knowledgebase**) and a way to process or reason over that content. Artificial languages (KRR languages), used to declare a vocabulary to form computable expressions, are often used. Knowledge, although challenging to define, has been described in different sorts: there are different kinds of knowledge. There are different approaches for doing knowlege represetnation. One approach to KRR is to develop so-called **ontologies**.  
+### A Relationship between Artificial Intelligence (AI) & Ontology Engineering
+Part of AI is about how to represent human knowledge in a way computer systems can process and act on, called **knowledge representation and reasoning** (KRR). 
+It often involves creating a database to store content or knowledge (a **knowledgebase**) and a way to process or reason over that content. 
+There are different approaches for doing knowlege represetnation. One approach to KRR is to develop so-called **ontologies**.
+Artificial languages (KRR languages), used to declare a vocabulary to form computable expressions, are often used in KRR and ontology engineering.
 
 **Some Basic Distinctions often made in modeling (conceptual, ontological, semantic, linguistic, etc.)** 
 These distinctions are partially drawn from abstract and philosophical inquiry. The reader in encouraged to review literature on metaphysics.
 
-### The Generic vs. The Specific
+### The Generic vs. The Specific - Genericity vs. Specificity and Particularity
 
 The concept of the generic, the general, the universal, etc. is distinguished from that of the specific, the indvidiual, the particular, etc. 
 Historically this is partially a reflection of human philosophical inquiry into attribute-agreement, or how things can be similar, how the seem to have the same attributes, characteristics, etc. 
