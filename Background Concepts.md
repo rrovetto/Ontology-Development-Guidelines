@@ -18,6 +18,10 @@ The following are some types of semantic/terminological/knowledge systems (or re
 - to partially structure unstructured data by adding an external semantic laywer (e.g., set of term annotations)
 - to offer a knowledge-based model of some target content or universe of discourse (serving as background knowledge) in order to facilitate automated action (e.g., in autonomous AI systems) 
 
+### The relationship between AI: Artificial Intelligence & Ontology Engineering
+Part of AI is how to represent human knowledge in a way computer systems can act on and process, called knowledge representation and reasoning (KRR). 
+Knowledge, although challenging to define, has been described in different sorts: there are different kinds of knowledge.
+There are different approaches for doing knowlege represetnation. One approach to KRR is to develop so-called ontologies.
 
 **Some basic distinctions made in modeling (conceptual, ontological, semantic, linguistic, etc.), which are partially drawn from abstract and philosophical inquiry, are the following**
 
