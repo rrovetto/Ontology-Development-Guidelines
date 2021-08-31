@@ -2,7 +2,7 @@
 
 If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/).
 
-### Semantic, Terminological, or Knowledge Organization Systems
+### Semantic / Terminological / Knowledge Organization Systems
 The following are some types of semantic/terminological/knowledge systems (or resources), using the descriptions from [this presentation on Slideshare, slide 5](https://www.slideshare.net/skhan/ontology-dev?qid=8e6605c2-e7c7-4e76-b5d3-1d817b9e299b&v=&b=&from_search=4). CAVEAT: there are different descriptions of these systems. E.g., some do not consider ontologies to be controlled vocabularies. These semantic/terminological systems are sometimes called 'knolwedge organization systems' (however from an analytical perspective that name is problematic because it is unclear if knowledge or other things are being organized). Each has purposes and applications that may overlap. Some may be more structured than others. Some may be developed more semantically and logically expressive than others. Some may be developed more complex than others (some may have the capability to be more complex than others).  
 
 - **Controlled Vocabulary** = an organized set of term used to catalog and index content
@@ -12,18 +12,18 @@ The following are some types of semantic/terminological/knowledge systems (or re
 - **Ontology** = a controlled vocabulary with semantic relations, constraints, axioms and rules
 - **Knowledge base** = an ontology + instances of the classes in the ontology
 
-### What are Semantic Systems Used for?
+### What are those Semantic Systems Used for?
 - to index, tag, semantically annotate, and categorize content (e.g. documents, text, data, and other resources) in order to facilitate search, their discovery and their retrieval 
 - to represent things and knowledge in a machine-readable manner using the constructs or terms in the respective system
 - to partially structure unstructured data by adding an external semantic laywer (e.g., set of term annotations)
 - to offer a knowledge-based model of some target content or universe of discourse (serving as background knowledge) in order to facilitate automated action (e.g., in autonomous AI systems) 
 
 ### The relationship between AI: Artificial Intelligence & Ontology Engineering
-Part of AI is how to represent human knowledge in a way computer systems can act on and process, called knowledge representation and reasoning (KRR). 
-Knowledge, although challenging to define, has been described in different sorts: there are different kinds of knowledge.
-There are different approaches for doing knowlege represetnation. One approach to KRR is to develop so-called ontologies.
+Part of AI is how to represent human knowledge in a way computer systems can act on and process, called **knowledge representation and reasoning** (KRR). 
+It involves creating a database to store content or knowledge (a **knowledgebase**) and a way to process or reason over that content. Artificial languages (KRR languages), used to declare a vocabulary to form computable expressions, are often used. Knowledge, although challenging to define, has been described in different sorts: there are different kinds of knowledge. There are different approaches for doing knowlege represetnation. One approach to KRR is to develop so-called **ontologies**.  
 
-**Some basic distinctions made in modeling (conceptual, ontological, semantic, linguistic, etc.), which are partially drawn from abstract and philosophical inquiry, are the following**
+**Some Basic Distinctions often made in modeling (conceptual, ontological, semantic, linguistic, etc.)** 
+These distinctions are partially drawn from abstract and philosophical inquiry. The reader in encouraged to review literature on metaphysics.
 
 ### The Generic vs. The Specific
 
