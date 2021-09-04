@@ -38,9 +38,12 @@ Historically this is partially a reflection of human philosophical inquiry into 
 This is basic distinction is exemplified by some more specific ones such as:
 
 * category - instance
+* type - instance
+* kind - instance
 * class - member
 * set - element
 
+Caution: the way categories, types, kinds, and classes are defined--which characteristics are chosen as exemplifying the given category--varies. So if you want to specify the type of an instance, you should consider how define the type and/or be aware of how a pre-defined type characterizes your given instance(s). 
 
 ### Characteristics vs. Possessors of characterstics
 
