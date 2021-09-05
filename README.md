@@ -3,7 +3,7 @@ This repository contains descriptions that succinctly explain how to manually de
 
 **Related**: [Ethical aspects of Ontology & Semantic modeling](https://github.com/rrovetto/Ethical-Ontology-Development) and [Myths of Ontology Development & Use](https://github.com/rrovetto/Ethical-Ontology-Development/blob/master/Myths-Of-Ontology-Development.md).
 
-**Support**:  If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). 
+**SUPPORT**:  If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). Financial support is needed to sustain development and for income due to lack of opportunity.
 
 **For Hire**
 - [Purchase services, products, or schedule a meeting at this link](https://tinyurl.com/yas7trzy)
