@@ -86,7 +86,7 @@ A manual computational ontology development methodology includes the following a
 ### 12. 
  
 ## Author
-Robert J. Rovetto
+[Robert J. Rovetto](https://orcid.org/0000-0003-3835-7817)
 rrovetto(at)terpalum.umd.edu
 * Education Technical Committee member, International Association for Ontology and its Applications (IAOA)
 * Semantic Web & Applied Ontology Special Interest Group, IAOA
