@@ -1,5 +1,5 @@
 # Ontology Development Guidelines (manual approach)
-This repository contains descriptions that succinctly explain how to manually develop an ontology. It mentions some methodological aspects for doing so, and offers guidelines. CAVEAT: this is based on my experience and studies and is thereby limited and biased in that respect. The reader is encouraged to look at the diverse content on this subject from around the globe. And be aware that there are different methods, both automated and manual, to develop an ontology.  
+There are different methods, both automated and manual, to develop an ontology. This repository contains descriptions that succinctly explain one way to manually develop an ontology. It mentions some methodological aspects for doing so, and offers guidelines. CAVEAT: this is based on my experience and studies and is thereby limited and biased in that respect. The reader is encouraged to look at the diverse content on this subject from around the globe.   
 
 **Related**: [Ethical aspects of Ontology & Semantic modeling](https://github.com/rrovetto/Ethical-Ontology-Development) and [Myths of Ontology Development & Use](https://github.com/rrovetto/Ethical-Ontology-Development/blob/master/Myths-Of-Ontology-Development.md).
 
@@ -12,29 +12,31 @@ This repository contains descriptions that succinctly explain how to manually de
 
 ## Ontology Design Approaches
 - **Botton-Up development from data (example 1)**: examine data and the identify the relevant subject matter. create ontology constructs (classes, etc.) from what the data is about (e.g., only classes for what the data contains).
-- **Botton-Up development from subject matter (example 2)**: examine the subjectmatter (e.g., corpus documents, subject nomenclature, etc.) and create corresponding ontology constructs for the most common categories and concepts found in the subjectmatter.
+- **Botton-Up development from subject matter (example 2)**: examine the subjectmatter (e.g., corpus documents, nomenclature, etc.) and create corresponding ontology constructs for the most common categories and concepts found in the subjectmatter.
 - **Top-Down development (example)**: identify and create ontology constructs independent of examining data, but which can annotate the data. E.g., create abstract classes and modify accordingly once you examine the data and the intended meaning of the datasets and data elements. 
 - **Hybrid development**: a combination of both bottom-up & top-down.
 
-## A Generic Ontology Development Methodology
+## A Generic Ontology Development Methodology (manual development)
 
 
 ### Stages of Ontology Development (dynamic and iterative)
-A generic computational ontology development methodology includes the following activities: identifying and scoping your target subject or set of concepts; corpus material or domain research; listing or creating a defined set of terms, a taxonomy and classificaiton system; and both applications of and data for that system. It is **iterative** and **non-linear**: some phases of the development process may be performed concurrently and revisited. 
+A manual computational ontology development methodology includes the following activities: identifying and scoping your target subject, set of concepts, data; subject/domain research; listing or creating a defined set of terms; a taxonomy and classificaiton system; formalization of the terminological system; identifying applications. The development process is **iterative** and **non-linear**: some phases (or steps) of the development process may be performed concurrently with others and revisited. 
 
-### 1. Purpose, Subject matter & Data 
+### 1. Purpose, Subjectmatter & Data 
 - Identify purpose(s), goal(s), or function(s) for the ontology. _What is it for? How is it intended to be used? What are the desired features and functionalities?_
-- Identify what universe of discourse, subject, domain, or set of concepts you wish to model in an ontology.
-- Identify the data that the ontology will be applied to (e.g., to annotate), annotate, or be based on. 
+- Identify what universe of discourse, subject, domain, contents of database, specific application, or set of concepts you wish to model in an ontology.
+- Identify the data that the ontology will be applied to (e.g., to annotate), annotate, or be based on. _What datasets, databases? What types of data? What is the data about?_ 
+
+**Meta-level Consideration**: the boundaries or limits of a given target area, and domain are often arbitrary. Some domains, perceived as disciplines, are in fact overlapping. Therefore there is a degree of arbitrariness when scoping and identifying or creating a target domain. One modeler may scope and model the same topic differently than anothe modeler.
 
 ### 2. Subject-matter Research
-- Research the target subject or domain corpora (publications, data, projects, subject-matter experts, educational courses, etc.)
+- Research the target subject and domain corpora: publications, data, projects, subject-matter experts, educational courses, etc.
 
 ### 3. Use-cases
 - Identify use-cases for the ontology. _Where may the ontology be applied? How can the ontology be used? What stakeholders, societal sectors, computational systems, and applications may benefit from it? What are situations in which the ontology could be used?_
 
 ### 4. Scope
-- Identify or specify the boundaries of the university of discourse (or target subject/domain) that the ontology(s) will represent.
+- Identify or specify the boundaries of the target subject or domain of discourse that the ontology(s) will represent.
 
 ### 5. Requirements & Specification Details
 - Identify what will be required to (i) realize the purpose and (ii) apply the ontology to the use-cases. 
