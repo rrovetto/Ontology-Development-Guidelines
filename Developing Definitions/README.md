@@ -9,6 +9,8 @@ NOTE: limit the loss of expressivity, as much as possible, during the translatio
 3) Have human-readible annotation notes or metadata tags for each, e.g., labeled as 'Natural-language Definition'
 Note: consider degrees and types of definition, e.g., natural-language, semi-formal, formal, first-order logic definition, etc. 
 
+NOTE: there are many types of definitions. For computation, you can follow the rules of your chosen formal langauge (e.g., RDF, OWL, CLIF, etc.). 
+
 If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/).
 
 (c) 2019-2020, Robert John Rovetto. All rights reserved.
