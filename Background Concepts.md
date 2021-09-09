@@ -24,7 +24,7 @@ Each system has purposes and applications that may overlap with others. Some may
 ### A Relationship between Artificial Intelligence (AI) & Ontology Engineering - Knowledge repreesntation, reasoning, modeling, & engineering
 Part of AI is about how to represent human knowledge in a way computer systems can process and act on, called **knowledge representation and reasoning** (KRR). 
 It often involves creating a database to store content or knowledge (a **knowledgebase**) and a way to process or reason over that content.
-We read "KRR is the process of identifying the implicit knowledge, semantics or structure in raw data (from a given domain), encoding it symbolically or formally into a (formal) KR language, reasoning over this encoded knowledge, to automatically derive new knowledge by inference" ([quote source](https://camilothorne.altervista.org/sem_web17/Suppl_KRn.pdf))
+We read "knowledge represenation (KR) is the process of identifying the implicit knowledge, semantics or structure in raw data (from a given domain), encoding it symbolically or formally into a (formal) KR language, reasoning over this encoded knowledge, to automatically derive new knowledge by inference" ([quote source](https://camilothorne.altervista.org/sem_web17/Suppl_KRn.pdf))
 
 There are different approaches for doing knowlege represetnation. One approach, or one tool, to KRR is to develop so-called **ontologies**.
 Artificial languages (KRR languages), used to fomrally declare a vocabulary to compose computable expressions, are often used in KRR and ontology engineering.
