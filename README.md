@@ -42,11 +42,11 @@ A manual computational ontology development methodology includes the following a
 - Identify what will be required to (i) realize the purpose and (ii) apply the ontology to the use-cases. 
 - State specification details: 
 	- What natural language? 
-	- What computable lanuage (knowledge representation and reasoning language / implementation langauges)? 
+	- What computable language (knowledge representation and reasoning language / implementation langauges)? 
 	- Stylistic conventions, e.g., naming conventions for terms/labels, etc.  
 	- Identify or create _competency questions_: queries that the ontology (and datasets) can be asked computationally.
 - Select, Acquire or Develop resources and tools, e.g., ontology editor software, knowledge representation languages, 
-- Corpora (research documents, domain knowledge), data sources, contibutors, partners, subject-matter experts, etc.
+- Corpora (research documents, domain knowledge), data sources, contributors, partners, subject-matter experts, etc.
 - Identify and select supplemental tools: ontology engeineer tools, ontology development environments, automated reasoners, etc.  
 
 ### 6. Research & Conceptual Analysis of the Subject/domain
@@ -61,7 +61,7 @@ A manual computational ontology development methodology includes the following a
 ### 8. Definitions
 - Identify the intended meaning for each of the list of things, concepts and terms.
 	- You may begin with some intended meaning or concept, and the form a term that most clearly expresses it. 
-- Research definitions (of key terms) from corpus material: dictionaries, academia, journal publicaitons, subject-matter experts, etc.
+- Research definitions (of key terms) from corpus material: dictionaries, academia, journal publications, subject-matter experts, etc.
 - Identify undefined (primitive) terms. 
 - Write definitions in natural-language that most closely expresses that intended meaning.
 - For all primitive terms, state they are undefined, but also provide a clarifying note to provide the user with some sense of meaning. 
