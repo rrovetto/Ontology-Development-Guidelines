@@ -20,7 +20,7 @@ There are different methods, both automated and manual, to develop an ontology. 
 
 
 ### Stages of Ontology Development (dynamic and iterative)
-A manual computational ontology development methodology includes the following activities: identifying and scoping your target subject, set of concepts, data; subject/domain research; listing or creating a defined set of terms; a taxonomy and classificaiton system; formalization of the terminological system; identifying applications. The development process is **iterative** and **non-linear**: some phases (or steps) of the development process may be performed concurrently with others and revisited. 
+A manual computational ontology development methodology includes the following activities: identifying and scoping your target subject, set of concepts, data; subject/domain research; listing or creating a defined set of terms; a taxonomy and classification system; formalization of the terminological system; identifying applications. The development process is **iterative** and **non-linear**: some phases (or steps) of the development process may be performed concurrently with others and revisited. 
 
 ### 1. Purpose, Subjectmatter & Data 
 - Identify purpose(s), goal(s), or function(s) for the ontology. _What is it for? How is it intended to be used? What are the desired features and functionalities?_
