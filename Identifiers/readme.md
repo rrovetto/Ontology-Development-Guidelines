@@ -22,6 +22,10 @@ or
 -   Synonyms. Including synonyms indirectly show the degree of usage and meaning in a natural language for the given domain/topic. 
 -   
 
+### Research about Identifiers, Labels, etc.
+- https://www.sciencedirect.com/science/article/pii/S1877042815056608
+
+
 **SUPPORT**: If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/).
 
 ## Copyright
