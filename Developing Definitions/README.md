@@ -11,6 +11,10 @@ Note: consider degrees and types of definition, e.g., natural-language, semi-for
 
 NOTE: there are many types of definitions. For computation, you can follow the rules of your chosen formal langauge (e.g., RDF, OWL, CLIF, etc.). 
 
-If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/).
+### Research Documents 
+- "UNE ISO 1087-1,  following  ISO  1087-1 and ISO 1087-2 in which an intensional definition states the superordinate concept and the delimiting characteristics. This means that definitions should not start with a verb" (https://www.sciencedirect.com/science/article/pii/S1877042815056608)
+-
+
+SUPPORT (How you can help): If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/).
 
 (c) 2019-2020, Robert John Rovetto. All rights reserved.
