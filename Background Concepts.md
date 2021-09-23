@@ -3,10 +3,15 @@
 If you find value in my work, [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/).
 
 ### Semantic / Terminological / Knowledge Organization Systems
-The following are some types of semantic/terminological/knowledge systems (or resources), using modified descriptions from [slide 5 of this Slideshare presentation](https://www.slideshare.net/skhan/ontology-dev?qid=8e6605c2-e7c7-4e76-b5d3-1d817b9e299b&v=&b=&from_search=4). 
-CAVEAT: there are different descriptions of these systems. E.g., some do not consider ontologies to be controlled vocabularies. And distinct disciplines and research areas may have unique meanings for them, disciplines such as AI, MBSE, library science, semntic web technology, formal ontology, (computational) linguistics, philosophy, data science, informatics, etc.   
-NOTE: These systems are sometimes called 'knolwedge organization systems'. However--from an analytical perspective--that name is problematic because more than knowledge can be captured, and defining 'knowledge' is contentious. 
-Each system has purposes and applications that may overlap with others. Some may be more structured, complex, or expressive than others.  
+The following are some types of semantic/terminological/knowledge systems (or resources), using modified descriptions from [slide 5 of this Slideshare presentation](https://www.slideshare.net/skhan/ontology-dev?qid=8e6605c2-e7c7-4e76-b5d3-1d817b9e299b&v=&b=&from_search=4).
+
+CAVEAT NOTE: there are different descriptions of these systems. E.g., some do not consider ontologies to be controlled vocabularies. And distinct disciplines and research areas may have unique meanings for them, disciplines such as AI, MBSE, library science, semntic web technology, formal ontology, (computational) linguistics, philosophy, data science, informatics, etc.   
+
+BASIC TAKE-AWAY: a common aspect for all these strcutures is _the specification of some set of symbol-structures (e.g., set of terms, a vocabulary, etc.) which may or may have an ascribed computable set of meanings_.
+
+NOTE: These systems are sometimes called 'knolwedge organization systems' or 'KOS' for short. However, that name is problematic if we do not assume any particular sense for 'knowledge', because more than knowledge (in an intuitive sense) can be captured. Defining 'knowledge' is a challenging task in any case. The AI community, however, may have a specific sense for it, which may or may not implicitly be assumed in the intended meaning and use of 'KOS', e.g., knowledge in sense of anything computably represented that an artificial system can act on, whether from sensors observing the external environment, from a knowledge base or knowledge model (e.g. ontology) in the system, etc.
+
+NOTE: Each system has purposes and applications that may overlap with others. Some may be more structured, complex, or expressive than others.  
 
 - **Controlled Vocabulary** = an organized set of term used to catalog and index content (or--more generally--used for a given project, topic, domain, application, or goal)
 - **Classification** = a controlled vocabulary whose terms are grouped
