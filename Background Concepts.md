@@ -17,7 +17,10 @@ Each system has purposes and applications that may overlap with others. Some may
 
 From ["Knowledge Representation and Reasoning for Intelligent Software Systems"](https://ulir.ul.ie/bitstream/handle/10344/1780/2011_Vassev%20(d).pdf;sequence=2) we read:
 
-"Knowledge  is  often  best  under-stood as a set of related concepts. A semantic network is a directed graph consisting of nodes—which represent concepts—connected  by  edges—which represent semantic relations between those concepts."
+"Knowledge  is  often  best  under-stood as a set of related concepts. A semantic network is a directed graph consisting of nodes—which represent concepts—connected  by  edges—which represent semantic relations between those concepts. [...] the following relations are common: 
+- instance: X is an instance of Y if X is a specific example of the general concept Y 
+- isa: X isa Y if X is a subset of the more general concept Y 
+- haspart: X haspart Y if the con-cept Y is a part of the concept X"
 
 ### What are those Semantic Systems Used for?
 - to index, tag, semantically annotate, and categorize content (e.g. documents, text, data, and other resources) in order to facilitate search, their discovery and their retrieval 
