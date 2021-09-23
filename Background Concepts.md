@@ -38,8 +38,9 @@ Part of AI is about how to represent human knowledge in a way computer systems c
 It often involves creating a database to store content or knowledge (a **knowledgebase**) and a way to process or reason over that content.
 We read "knowledge represenation (KR) is the process of identifying the implicit knowledge, semantics or structure in raw data (from a given domain), encoding it symbolically or formally into a (formal) KR language, reasoning over this encoded knowledge, to automatically derive new knowledge by inference" ([quote source](https://camilothorne.altervista.org/sem_web17/Suppl_KRn.pdf))
 
-There are different approaches for doing knowlege represetnation. One approach, or one tool, to KRR is to develop so-called **ontologies**.
+There are different approaches for doing knowlege represetnation, i.e., for encoding knowledge as it were. One approach, or one system/tool listed above, to KRR is to develop so-called **ontologies**.
 Artificial languages (KRR languages), used to fomrally declare a vocabulary to compose computable expressions, are often used in KRR and ontology engineering.
+"To achieve the precise semantics necessary for computational purposes, intelligent system designers often use logic to formalize KR" (source)[https://ulir.ul.ie/bitstream/handle/10344/1780/2011_Vassev%20(d).pdf;sequence=2]. However, there are other approaches besides formal logic.
 
 ### Different contexts of vocabularies and sets of terms
 - Natural language context. Here--our everyday speech--it is fluid, dynamic, and mutable over time. No one, no org., no project owns any word or phrase. 
