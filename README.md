@@ -38,7 +38,7 @@ A manual computational ontology development methodology includes the following a
 - Identify use-cases for the ontology. _Where may the ontology be applied? How can the ontology be used? What stakeholders, societal sectors, computational systems, and applications may benefit from it? What are situations in which the ontology could be used?_
 
 ### 4. Scope
-- Identify or specify the boundaries of the target subject or domain of discourse that the ontology(s) will represent.
+- Identify or specify the boundaries of the target subject-matter that the ontology(s) will represent. NOTE: consider [this](https://github.com/rrovetto/Ontology-Development-Guidelines/blob/master/DomainDemarcation.md).
 
 ### 5. Requirements & Specification Details
 - Identify what will be required to (i) realize the purpose and (ii) apply the ontology to the use-cases. 
