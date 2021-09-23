@@ -29,6 +29,11 @@ We read "knowledge represenation (KR) is the process of identifying the implicit
 There are different approaches for doing knowlege represetnation. One approach, or one tool, to KRR is to develop so-called **ontologies**.
 Artificial languages (KRR languages), used to fomrally declare a vocabulary to compose computable expressions, are often used in KRR and ontology engineering.
 
+### The different contexts for vocabularies On the purpose of the vocabulary being developed
+Consider and ask: what is the purpose of the vocabulary
+First there is natural language. Here, no one owns any word or phrase. It is fluid, dynamic, and mutuble over time.
+T
+
 **Some Basic Distinctions often made in modeling (conceptual, ontological, semantic, linguistic, etc.)** 
 These distinctions are partially drawn from abstract and philosophical inquiry. The reader in encouraged to review literature on metaphysics.
 
