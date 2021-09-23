@@ -60,6 +60,7 @@ A manual computational ontology development methodology includes the following a
 - Create concepts and terms where needed.
 - For a candidate category, ask: is there a data element or dataset that can be annotated with this category? If not, then you may not need it (but it will be situational).
 - List statements of knowledge or belief to be represented in the ontology: this can take the form of a set of sentences describing some general rule, fact, principle, or aspect about the target domain and its contents.
+- WHEN CREATING AN ONTOLOGY FOR A SPECIFIC DATABASE: list the key terms and pieces of knowledge found therein. 
 ### 8. Definitions
 - Identify the intended meaning for each of the list of things, concepts and terms.
 	- You may begin with some intended meaning or concept, and the form a term that most clearly expresses it. 
