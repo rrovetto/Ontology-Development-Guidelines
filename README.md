@@ -1,9 +1,11 @@
 # Ontology Development Guidelines (manual approach)
 There are different methods, both automated and manual, to develop an ontology. This repository contains descriptions that succinctly explain one way to manually develop an ontology, and offers guidelines. NOTE: this is based on my limited experience and studies. The reader is encouraged to look at the diverse and relevant content from around the globe.   
 
-**Related**: [Ethical aspects of Ontology & Semantic modeling](https://github.com/rrovetto/Ethical-Ontology-Development) and [Myths of Ontology Development & Use](https://github.com/rrovetto/Ethical-Ontology-Development/blob/master/Myths-Of-Ontology-Development.md).
-
-**SUPPORT**:  If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). Financial support is needed to sustain development.
+### Related 
+- [Ethical aspects of Ontology & Semantic modeling](https://github.com/rrovetto/Ethical-Ontology-Development)
+- [Myths of Ontology Development & Use](https://github.com/rrovetto/Ethical-Ontology-Development/blob/master/Myths-Of-Ontology-Development.md).
+### Support
+If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). Financial support is needed to sustain development.
 
 **For Hire**
 - [Purchase services, products, or schedule a meeting at this link](https://tinyurl.com/yas7trzy)
@@ -20,11 +22,11 @@ There are different methods, both automated and manual, to develop an ontology. 
 
 
 ### Stages of Ontology Development (dynamic and iterative)
-A manual computational ontology development methodology includes the following activities: identifying and scoping your target subject, set of concepts, data; subject/domain research; listing or creating a defined set of terms; a taxonomy and classification system; formalization of the terminological system; identifying applications. The development process is **iterative** and **non-linear**: some phases (or steps) of the development process may be performed concurrently with others and revisited. 
+A manual computational ontology development methodology includes the following activities: identifying and scoping your target subject-matter, set of concepts, data; subject/domain research; listing or creating a defined set of terms; listing statements and pieces of knowledge (e.g., general facts of the domain) to be captured; a taxonomy and classification system using the specified terminology; computational formalization of the terminological system; computational formalization of the knowledge statements; identifying applications. The development process is **iterative** and **non-linear**: some phases (or steps) of the development process may be performed concurrently with others and revisited. 
 
-### 1. Purpose, Subjectmatter & Data 
-- Identify purpose(s), goal(s), or function(s) for the ontology. _What is it for? How is it intended to be used? What are the desired features and functionalities?_
-- Identify what universe of discourse, subject, domain, contents of database, specific application, or set of concepts you wish to model in an ontology.
+### 1. Purpose, Subject-matter & Data 
+- Identify purpose(s), goal(s), or function(s), application(s) for the ontology. _What is the ontology(s) for? How is it intended to be used? What are the desired features and functionalities?_
+- Identify the subject-matter or set of concepts (the universe/domain of discourse/interest) you wish to model in an ontology.
 - Identify the data that the ontology will be applied to (e.g., to annotate), annotate, or be based on. _What datasets, databases? What types of data? What is the data about?_ 
 
 **Meta-level Consideration**: the boundaries or limits of a given target area, and domain are often arbitrary. Some domains, perceived as disciplines, are in fact overlapping. Therefore there is a degree of arbitrariness when scoping and identifying or creating a target domain. One modeler may scope and model the same topic differently than anothe modeler.
