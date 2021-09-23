@@ -1,9 +1,9 @@
 # Ontology Development Guidelines (manual approach)
-There are different methods, both automated and manual, to develop an ontology. This repository contains descriptions that succinctly explain one way to manually develop an ontology. It mentions some methodological aspects for doing so, and offers guidelines. CAVEAT: this is based on my experience and studies and is thereby limited and biased in that respect. The reader is encouraged to look at the diverse content on this subject from around the globe.   
+There are different methods, both automated and manual, to develop an ontology. This repository contains descriptions that succinctly explain one way to manually develop an ontology, and offers guidelines. NOTE: this is based on my limited experience and studies. The reader is encouraged to look at the diverse and relevant content from around the globe.   
 
 **Related**: [Ethical aspects of Ontology & Semantic modeling](https://github.com/rrovetto/Ethical-Ontology-Development) and [Myths of Ontology Development & Use](https://github.com/rrovetto/Ethical-Ontology-Development/blob/master/Myths-Of-Ontology-Development.md).
 
-**SUPPORT**:  If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). Financial support is needed to sustain development and for income due to lack of opportunity.
+**SUPPORT**:  If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). Financial support is needed to sustain development.
 
 **For Hire**
 - [Purchase services, products, or schedule a meeting at this link](https://tinyurl.com/yas7trzy)
