@@ -20,9 +20,9 @@ NOTE: Each system has purposes and applications that may overlap with others. So
 - **Ontology** = a controlled vocabulary with semantic relations, constraints, axioms, and rules.
 - **Knowledge Base** = an ontology + instances of the classes in the ontology. (See distinction between A-Box and T-Box in AI)
 
-From ["Knowledge Representation and Reasoning for Intelligent Software Systems"](https://ulir.ul.ie/bitstream/handle/10344/1780/2011_Vassev%20(d).pdf;sequence=2) we read:
+From ["Knowledge Representation and Reasoning for Intelligent Software Systems"](https://ulir.ul.ie/bitstream/handle/10344/1780/2011_Vassev%20(d).pdf;sequence=2) we read (bold emphasis added to mark the additional system):
 
-"Knowledge  is  often  best  under-stood as a set of related concepts. A semantic network is a directed graph consisting of nodes—which represent concepts—connected  by  edges—which represent semantic relations between those concepts. [...] the following relations are common: 
+"Knowledge  is  often  best  under-stood as a set of related concepts. A **semantic network** is a directed graph consisting of nodes—which represent concepts—connected  by  edges—which represent semantic relations between those concepts. [...] the following relations are common: 
 - instance: X is an instance of Y if X is a specific example of the general concept Y 
 - isa: X isa Y if X is a subset of the more general concept Y 
 - haspart: X haspart Y if the con-cept Y is a part of the concept X"
