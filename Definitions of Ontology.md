@@ -5,8 +5,10 @@ The following website link displays a living [catalog of definitions of 'ontolog
 Request access
 ## Sample Images
 ![Screen capture 1](https://github.com/rrovetto/Ontology-Development-Guidelines/blob/master/images/ScreenCapture_CatalogOntoDefinitions_1b.JPG?raw=true)
-
-
 ![Screen capture 2](https://github.com/rrovetto/Ontology-Development-Guidelines/blob/master/images/ScreenCapture_CatalogOntoDefinitions_2b.JPG?raw=true)
+## Contribution
+Contact me if you have definitions (and their sources). I will review, verify, and compare for duplicates in the catalog. 
+## Support 
+Financial support is needed, not only to sustain develeopment.
 
 
