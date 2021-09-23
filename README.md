@@ -50,14 +50,16 @@ A manual computational ontology development methodology includes the following a
 - Identify and select supplemental tools: ontology engeineer tools, ontology development environments, automated reasoners, etc.  
 
 ### 6. Research & Conceptual Analysis of the Subject/domain
-- Examine the target subject matter. Try to identify essential concepts, themes, challenges, etc. Gain a big-picture understanding.
+- Examine the target subject matter. Try to identify essential concepts, themes, challenges, etc. 
+- Gain a big-picture understanding.
+- Identify generic knowledge or beliefs to be represented in the ontology. These are often statements of a broad or universal nature. 
 
 ### 7. List...
 - Identify & list specific things in the universe of discourse you want the ontology to represent.
 - Identify & list concepts and terms needed to describe the things in universe of discourse. 
 - Create concepts and terms where needed.
 - For a candidate category, ask: is there a data element or dataset that can be annotated with this category? If not, then you may not need it (but it will be situational).
-
+- List statements of knowledge or belief to be represented in the ontology: this can take the form of a set of sentences describing some general rule, fact, principle, or aspect about the target domain and its contents.
 ### 8. Definitions
 - Identify the intended meaning for each of the list of things, concepts and terms.
 	- You may begin with some intended meaning or concept, and the form a term that most clearly expresses it. 
