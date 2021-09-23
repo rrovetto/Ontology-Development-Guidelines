@@ -50,6 +50,7 @@ A manual computational ontology development methodology includes the following a
 - Select, Acquire or Develop resources and tools, e.g., ontology editor software, knowledge representation languages, 
 - Corpora (research documents, domain knowledge), data sources, contributors, partners, subject-matter experts, etc.
 - Identify and select supplemental tools: ontology engeineer tools, ontology development environments, automated reasoners, etc.  
+NOTE: an example is the NEON Methodology.
 
 ### 6. Research & Conceptual Analysis of the Subject/domain
 - Examine the target subject matter. Try to identify essential concepts, themes, challenges, etc. 
