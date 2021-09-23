@@ -2,8 +2,7 @@
 
 The following are a set of minimum feartures of ontologies. Each feature can be evaluated. An ontology can be evaluated based on these metrics.
 
-- **Subject-matter coverage** - the extent to which an ontology models, represents, or annotates the target subject-matter
--   also called 'domain coverage' 
+- **Subject-matter coverage / domain coverage** - the extent to which an ontology models, represents, or annotates the target subject-matter
 - **Subject-matter capture** -
 - **Revisability** - whether, and the extent to which, an ontology is mutable / modifiable / editable. The ontology can be updated when the target subject-matter changes, when new data is acquired, when mistakes are found in data or domain, changes in domain knowledge, the model, etc.
 - **Consistency**
@@ -17,7 +16,8 @@ The following are a set of minimum feartures of ontologies. Each feature can be 
 
 NOTE: Consideer the Close-world vs. Open-world assumption. Whether you opt for one or the other (or another option?) may depend on the project. 
 
-**SUPPORT**: If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/).
+### SUPPORT
+If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/).
 
 ## Copyright
 © 2019-2021, Robert John Rovetto. All right reserved.
