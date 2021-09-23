@@ -29,10 +29,12 @@ We read "knowledge represenation (KR) is the process of identifying the implicit
 There are different approaches for doing knowlege represetnation. One approach, or one tool, to KRR is to develop so-called **ontologies**.
 Artificial languages (KRR languages), used to fomrally declare a vocabulary to compose computable expressions, are often used in KRR and ontology engineering.
 
-### The different contexts for vocabularies On the purpose of the vocabulary being developed
-Consider and ask: what is the purpose of the vocabulary
-First there is natural language. Here, no one owns any word or phrase. It is fluid, dynamic, and mutuble over time.
-T
+### Different contexts of vocabularies and sets of terms
+- Natural language context. Here--our everyday speech--it is fluid, dynamic, and mutable over time. No one, no org., no project owns any word or phrase. 
+- Organizational context: Here--as in a private company, government agency, etc.--there may be organization-specific vocabulary: each organization may have (in)formally used some terms which may or may not be different from natural language terms. An organizationare may also have terms of art unique to itself. An organization may have jargon.
+- Research/Academic/other Project context. Here--a specific project--vocabulary may be formally specified to have specific meaning. It may or may not be similar to natural langauge terms. It may or may not involve jargon. 
+-   Example: explicitly defining the vocabulary of an ontology, using some symbolic logic or some computable formalism (artificial language)
+- Discipline-specific context. Here--as in physics or sociology--a discipline may have jardon, terms not used in everyday discourse, and terms with more precise meaning than the same terms used in natural language. 
 
 **Some Basic Distinctions often made in modeling (conceptual, ontological, semantic, linguistic, etc.)** 
 These distinctions are partially drawn from abstract and philosophical inquiry. The reader in encouraged to review literature on metaphysics.
