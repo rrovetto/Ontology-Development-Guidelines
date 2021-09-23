@@ -12,3 +12,7 @@ Contact me if you have definitions (and their sources). I will review, verify, a
 Financial support is needed, not only to sustain develeopment.
 
 
+
+## Copyright
+© 2021, Robert John Rovetto. All right reserved.
+Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required.
