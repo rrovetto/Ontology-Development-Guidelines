@@ -15,6 +15,10 @@ Each system has purposes and applications that may overlap with others. Some may
 - **Ontology** = a controlled vocabulary with semantic relations, constraints, axioms, and rules.
 - **Knowledge Base** = an ontology + instances of the classes in the ontology. (See distinction between A-Box and T-Box in AI)
 
+From ["Knowledge Representation and Reasoning for Intelligent Software Systems"](https://ulir.ul.ie/bitstream/handle/10344/1780/2011_Vassev%20(d).pdf;sequence=2) we read:
+
+"Knowledge  is  often  best  under-stood as a set of related concepts. A semantic network is a directed graph consisting of nodes—which represent concepts—connected  by  edges—which represent semantic relations between those concepts."
+
 ### What are those Semantic Systems Used for?
 - to index, tag, semantically annotate, and categorize content (e.g. documents, text, data, and other resources) in order to facilitate search, their discovery and their retrieval 
 - to represent things and knowledge in a machine-readable manner using the constructs or terms in the respective system
