@@ -1,6 +1,6 @@
-## Background - Preliminaries of Ontology Development: Some Conceptual and Ontological Distinctions 
+## Background for Ontology Development: Some Conceptual and Ontological Preliminaries 
 
-If you find value in my work, [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/).
+**SUPPORT:** If you find value in my work, [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/).
 
 ### Semantic / Terminological / Knowledge Organization Systems
 The following are some types of semantic/terminological/knowledge systems (or resources), using modified descriptions from [slide 5 of this Slideshare presentation](https://www.slideshare.net/skhan/ontology-dev?qid=8e6605c2-e7c7-4e76-b5d3-1d817b9e299b&v=&b=&from_search=4).
@@ -41,6 +41,14 @@ We read "knowledge represenation (KR) is the process of identifying the implicit
 There are different approaches for doing knowlege represetnation, i.e., for encoding knowledge as it were. One approach, or one system/tool listed above, to KRR is to develop so-called **ontologies**.
 Artificial languages (KRR languages), used to fomrally declare a vocabulary to compose computable expressions, are often used in KRR and ontology engineering.
 "To achieve the precise semantics necessary for computational purposes, intelligent system designers often use logic to formalize KR" (source)[https://ulir.ul.ie/bitstream/handle/10344/1780/2011_Vassev%20(d).pdf;sequence=2]. However, there are other approaches besides formal logic.
+
+### Perspectives on Ontology
+From [this MIT lecture (PPT)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-871-knowledge-based-applications-systems-spring-2005/lecture-notes/lect22_ontolog.pdf) we read how ontology may be used for each distinct disciplinary purpose:
+- In philosophy, ontology aims to categorize the world
+- In library science, it helps "organize bibliographic world, model universal and domain knowledge" which may help access bibliographic entries
+- In NLP, it aims to "model lexical and domain knowledge", to help with machine translation
+- In AI, it aims to "model common sense and domain knowledge", and is sometimes used in KRR 
+- In semantic web technologies, it "provide[s] semantics for web resources", helping to describe those resources
 
 ### Different contexts of vocabularies and sets of terms
 - Natural language context. Here--our everyday speech--it is fluid, dynamic, and mutable over time. No one, no org., no project owns any word or phrase. 
