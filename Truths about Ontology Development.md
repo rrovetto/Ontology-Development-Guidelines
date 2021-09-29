@@ -8,7 +8,7 @@ Some of the following facts may be obvious, but explicitly stating them is neces
 ### 1. You can create your own ontology, regardless of the degree of abstraction or specificity or application
 - You can create your own topic-specific ontology (also called: domain ontology, domain-specific ontology, application ontology, lower-level ontology, etc.)
 - You can create your own highly generic ontology (also called: general/generic ontology, foundational ontology, base ontology, upper-level ontology, top-level ontology, core ontology, etc.)
-- Some developers may resist this fact because some existing ontologies are the result of years of work, collaboratively or otherwise. Having multiple contributors may certainly aid development and quality, but it is no guarantee. In any case, if you're educated on the topic or otherwise motivated, then of course you can create your own. 
+- Some developers may resist this fact because some existing ontologies are the result of years of work, collaboratively or otherwise. Having multiple contributors may certainly aid development and quality, but it is no guarantee.
   
 ### 2. You do not have to reuse existing ontologies.
 - Anyone that says you must (or is pushy about it), is very likely trying to get you to use or purchase theirs (i.e. they probably have some vested interest to get more users or $).
