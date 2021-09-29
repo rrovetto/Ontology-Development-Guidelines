@@ -2,7 +2,9 @@
 ## About
 The following website link displays a living [catalog of definitions of 'ontology'](https://docs.google.com/spreadsheets/d/1UffVGUc0rWOxwZUAh8rd43WOXs9eLSsY/edit?usp=sharing&ouid=111552135481476528005&rtpof=true&sd=true), 'computational ontology' and cognates. 
 ## Access
-Request access
+Request access.
+## Support
+If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). Financial support is needed to sustain development and to establish a stable life situation to realize my potential without having to continue to sacrifice time and family resources to volunteer unsupported by communities that reap the benefits of volunteering.
 ## Sample Images
 ![Screen capture 1](https://github.com/rrovetto/Ontology-Development-Guidelines/blob/master/images/ScreenCapture_CatalogOntoDefinitions_1b.JPG?raw=true)
 ![Screen capture 2](https://github.com/rrovetto/Ontology-Development-Guidelines/blob/master/images/ScreenCapture_CatalogOntoDefinitions_2b.JPG?raw=true)
