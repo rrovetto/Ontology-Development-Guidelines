@@ -10,7 +10,7 @@
 
 - In other words, "free text descriptions. Often a ‘human-friendly text’ description is provided to further clarify design intentions for the entity and improve search." ([source](https://www.ontotext.com/knowledgehub/fundamentals/what-is-a-knowledge-graph/))
 
-**SUPPORT**: If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/).
-
+### Support
+If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). Financial support is needed to sustain development.
 ### Copyright
 © 2019-2021, Robert John Rovetto. All right reserved. Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required.
