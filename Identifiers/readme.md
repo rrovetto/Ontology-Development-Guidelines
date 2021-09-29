@@ -1,26 +1,23 @@
 ## Guidelines for developing Identifiers
+Depending on the degree of abstraction one considers, the following is an approximation.
 
-Identifiers are those symbol-structures (e.g., a set of alphanumeric characters) that identify a given ontology construct (class, relation, individual, etc.).
-Depending on the situation, you may assign either so-called 'opaque' or 'transparent/meaningful' identifiers.
+For all constructs in an ontology, we can declare the following.
 
-Often there is a particular identifier that is displayed to the user of the ontology, while possibly having associated synonymous identifiers. It may be the preferred label, but the identifier presented to the user is how the ontology construct is displayed, i.e., there is a display label. 
-
-
-**Opaque or Semantically-neutral identifiers** (which do not express meaning). These include identifiers composed of strings of (alpha)numeric characters that are not intended to convey any meaning, such as random-numbered identifier, or a sequentially-numbered identifier. UUIDs or GUIDs are type of opaque identifiers.
+- **Identifiers** are those symbol-structures (e.g., a set of alphanumeric characters) that identify a given ontology construct (class, relation, individual, etc.).
+Depending on the situation, you may assign either so-called **opaque** or **transparent/readible/semantically-meaningful** identifiers.
+- **Opaque or Semantically-neutral identifiers**. These identifiers do not express meaning. They are composed of (alpha)numeric characters/symbols that are not intended to convey any meaning (e.g., they are not a natural language word). E.g., "34568ijngoi465j". They may be composed of random-generated numbers, or may be sequentially-numbered (e.g., 00012). 
+  - UUIDs (universally unique identifiers)
+  - GUIDs (globally unique identifiers) are types of opaque identifiers.
 or
-
-**Human-Readiable identifiers**. These includes human-readible character strings, e.g., "Motor vehcile" or "motor-vehicle"
-
-...for all constructs (e.g., classes) in the ontology.
+- **Human-readible identifiers**. These includes human-readible character strings, e.g., "Motor vehcile" or "motor-vehicle"
 
 - Select a type and format for identifiers, e.g., random-generated alphanumeric, sequential numeric, etc.
 
-**Display Label**
-- Display labels for a given construct (class, relationship, instance, etc.) are how the construct will be read/seen. 
-- Additional labels can be added as desired or needed. For example:
--   Alternative labels (e.g., rdfs:altLabel)
--   Synonyms. Including synonyms indirectly show the degree of usage and meaning in a natural language for the given domain/topic. 
--   
+- **Display Label**
+  - Display labels for a given construct (class, relationship, instance, etc.) are how the construct will be read/seen by a person. It is therefore typically a human-readible natural-language identifier.
+  - Additional labels can be added as desired or needed. For example:
+  - Alternative labels (e.g., using the rdfs:altLabel construct)
+  - Synonyms. Including synonyms indirectly show the degree of usage and meaning in a natural language for the given domain/topic. 
 
 ### Research about Identifiers, Labels, etc.
 - https://www.sciencedirect.com/science/article/pii/S1877042815056608
@@ -29,7 +26,8 @@ or
 -   "we should respect the common or natural  syntagmatic  structures  of  each  language."
 
 
-**SUPPORT**: If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/).
+### Support
+If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). Financial support is needed to sustain development.
 
 ## Copyright
 © 2019-2021, Robert John Rovetto. All right reserved.
