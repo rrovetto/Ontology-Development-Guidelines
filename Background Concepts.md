@@ -79,6 +79,9 @@ _CAUTION_: the way categories, types, kinds, and classes are defined varies: whi
 
 This is the distinction between a characteristic, property, feature, attribute, quality, and something said to possess, have or bear it, i.e., a property-bearer.
 
+### The abstractness and generality of foundational concepts
+Consider: "Different scientific disciplines relies on different definitions and terminology, and the cognitive foundation of these patterns remains speculative as they are hard to empirically investigate." ([source](https://imageschema.net/our-story/image-schema-list))
+
 ## Copyright
 © 2019-2021, Robert John Rovetto. All right reserved.
 Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required.
