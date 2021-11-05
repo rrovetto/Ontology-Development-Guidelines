@@ -42,7 +42,7 @@ An ontology may commit to other ontologies by importing them, or may commit to a
 - This may be a contentious point for some, but bottom line is...
 - **Do not blindly believe the hype** (just like with anything). Just like with any other activity, tehnology, or product, we must admit such facts, and not exaggerate the benefits or state of ontology despite being vested in the topic
 
-### 8. Popularity does not mean quality. And standardization does not mean quality.
+### 8. Popularity does not mean quality. And standardization does not mean quality, does not mean it will work, or is desired for your project.
 - The amount of users an ontology (or ontology project) has does **not** mean an ontology is good, or useful.
 - Presence in an (inter)national standards organization, e.g., having a standard document of an ontology, does **not** mean the ontology is good quality, useful, correct, etc. Some have entered into standards through political abuse and other unethical actions (evidence and cases available).
 - Like in other disciplines, popularity, and presence in a standards organization, are invalid arguments that are used to convince people to accept the product or technology (e.g., an ontology).
