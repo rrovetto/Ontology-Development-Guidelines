@@ -1,18 +1,23 @@
-# Truths about Ontology Development & Use - An eye on ethics for you and the community
+# Truths about Ontology Development & Use
+## An eye on ethics for you and the community
 
-Some of the following facts may be obvious, but explicitly stating them is necessary to express the truths for posterity and for the non-specialist so that they are informed and so that misinformation is mitigated.
+Some of the following may be obvious to some readers, but explicitly stating them is necessary to (i) express it for posterity, for the student, and for the non-specialist so that they (ii) are informed and so that (iii) misinformation is mitigated.
 
 **SUPPORT**: If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/).
 
-## Be innovative and creative.
-### 1. You can create your own ontology, regardless of the degree of abstraction or specificity or application
-- You can create your own topic-specific ontology (also called: domain ontology, domain-specific ontology, application ontology, lower-level ontology, etc.)
-- You can create your own highly generic ontology (also called: general/generic ontology, foundational ontology, base ontology, upper-level ontology, top-level ontology, core ontology, etc.)
-- Some developers may resist this fact because some existing ontologies are the result of years of work, collaboratively or otherwise. Having multiple contributors may certainly aid development and quality, but it is no guarantee.
-  
+## Problems & Limitations
+- Be aware of the [problems and limitations of top-level ontologies and their development](https://github.com/rrovetto/How-To-Build-a-Top-level-Ontology/tree/main/Problems%20with%20Top-level%20Ontologies)
+
+## Be innovative and creative
+### 1. You can create your own top-level ontology, at any degree of abstraction, specificity, generality, or application
+- _You can create your own topic-specific ontology_ (also called: domain ontology, domain-specific ontology, application ontology, lower-level ontology, etc.)
+- _You can create your own highly generic ontology_ (also called: general/generic ontology, foundational ontology, base ontology, upper-level ontology, top-level ontology, core ontology, etc.)
+  - Some developers may resist this fact because some existing ontologies are the result of years of work, collaboratively or otherwise. Having multiple contributors may aid in some aspect of development and in quality control, but it is no guarantee of these things and it is not guarantee of the utility of the ontology.
+- You can create one for your more-specific domain ontology. You do not need to use an existing top-level ontology, in part because it may not be the correct abstract model for your domain ontology, e.g., it may make commitments or ideological assumptions you disagree with. 
+
 ### 2. You do not have to reuse existing ontologies.
-- Anyone that says you must (or is pushy about it), is very likely trying to get you to use or purchase theirs (i.e. they probably have some vested interest to get more users or $).
-- Do not tolerate, and do not encourage unfair business tactics, political abuse, or attempts to monopolize.
+- Anyone that says you must (or is pushy about it), is very likely trying to get you to use or purchase theirs.
+- Do not tolerate, and do not encourage unfair tactics, political abuse, or attempts to monopolize. 
 
 ## Be informed, be aware, and be responsible. (Transparency & Ethics)
 ### 3. If you're considering using an existing ontology, _be informed_ about what you are committing to
