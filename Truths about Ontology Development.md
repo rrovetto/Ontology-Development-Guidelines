@@ -2,7 +2,8 @@
 ## An eye on ethics for you and the community
 
 Some of the following may be obvious to some readers, but explicitly stating them is necessary to (i) express it for posterity, for the student, and for the non-specialist so that they (ii) are informed and so that (iii) misinformation is mitigated.
-NOTE: some, if not all, of these points can apply to other systems such as controleld vocabularies, taxonomies, etc.
+
+NOTE: although the focus here is on ontologies, some of these points can apply to other systems such as controleld vocabularies, taxonomies, thesauri, etc.
 
 **SUPPORT**: If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/).
 
@@ -13,9 +14,9 @@ NOTE: some, if not all, of these points can apply to other systems such as contr
   - Some developers may resist this fact because some existing ontologies are the result of years of work, collaboratively or otherwise. Having multiple contributors may aid in some aspect of development and in quality control, but it is no guarantee of these things and it is not guarantee of the utility of the ontology.
 - You can create one for your more-specific domain ontology. You do not need to use an existing top-level ontology, in part because it may not be the correct abstract model for your domain ontology, e.g., it may make commitments or ideological assumptions you disagree with. 
 
-### 2. You do not have to (re)use existing ontologies.
+### 2. You do NOT have to (re)use existing ontologies.
 - Anyone that says you must (or is pushy about it), is very likely trying to get you to use or purchase theirs.
-- Do not tolerate, and do not encourage unfair tactics, political abuse, or attempts to monopolize. 
+- Do not tolerate, and do not encourage unfair tactics, political abuse, or attempts to monopolize.
 
 ## Be informed, be aware, and be responsible. (Transparency & Ethics)
 ### 3. If you're considering using an existing ontology, _be informed_ about what you are committing to
@@ -23,9 +24,9 @@ An ontology may commit to other ontologies by importing them. An ontology may co
 - Be aware of all commitments an ontology makes, at all degrees of abstraction. Be aware of semantic commitments, ontological commitments, ideological commitments, etc.  
 - Be aware of the assumptions, and assumed worldviews and ideologies it makes. 
 - Be aware of any imported ontologies or taxonomies the candidate ontology commits to or uses. Be aware of other ontologies or semantic resources you may be committing to by using the candidate ontology.
-How? Read documentation, look at the ontology at all levels of abstraction, at its axioms, imports, etc.
+How? Read documentation, look at the ontology at all levels of abstraction, at its axioms, imports, etc. It may be time-consuming, but blindly accepting a product (e.g., ontology) will benefit them (not necessarily you) while also potentially mis-defining your vocabulary, terms, concepts, etc.
 
-### 4. You have a right to understand what an ontology says about your subject, discipline, data, expertise, or about the world if anything.
+### 4. You have a right to understand what an ontology says about your subject, discipline, terminology, data, expertise, or about the world if anything.
 - Does an ontology allow the concepts/categories/terms you want to include or model? Will an ontology exclude your domain concepts? 
 - Can you accurate model/represent or semantically annotate your data and your domain concepts/terms with the candidate ontology? 
 - Will a more abstract, generic or upper-level ontology mischaracterize or miscategorize your domain concepts? 
@@ -33,7 +34,7 @@ How? Read documentation, look at the ontology at all levels of abstraction, at i
 - Being informed, even of the seemingly mundande or ineffectual detials, is always better than not.
 
 ### 5. You do not need an generic/upper/top-level/foundational ontology
-- There are other technologies and methods to achieve the same results.
+- There are other technologies and methods to achieve the same results. But you can also create your own more generic (or broader) ontology or taxonomy.
 - Some developers may resist this fact, but it is important to put ones bias for their vested interst (or lifes work) aside, and be objective, fair and truthful. Stating it explicitly, even if obvious, is essential for the sake of communicating those facts; it will help to prevent (intentional or unintentional) misinformation. It will help inform poterity.
 
 ### 6. Problems & Limitations of top-level ontologies
