@@ -3,16 +3,19 @@ Below are some basic concepts to know.
 ### Support
 If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). Financial support is needed to sustain development.
 
-### Semantic / Terminological / Knowledge Organization Systems
-The following are some types of semantic/terminological/knowledge systems (or resources), using modified descriptions from [slide 5 of this Slideshare presentation](https://www.slideshare.net/skhan/ontology-dev?qid=8e6605c2-e7c7-4e76-b5d3-1d817b9e299b&v=&b=&from_search=4).
+### The Developer
+Although the name is less imporant than the activity, one may name the developer of ontologies (or similar systems in different ways): modeler, conceptual (data) modeler, ontologist, semantic modeler, schema develoepr, knolwedge modeler, etc. Consider this description of one task of the ontologist (unclear if referring to philosophical or computational): "Ontologists study how definitions, classifications and relationships can and possibly should be formulated using conceptual analysis, logic, or formal semantics in order to most effectively achieve these goal." (Source unknown)
 
-**CAVEAT**: there are different descriptions of these systems. E.g., some do not consider ontologies to be controlled vocabularies. Distinct disciplines and research areas may have their own (in)formal meanings for them, disciplines such as AI, MBSE, library science, semntic web technology, formal ontology, (computational) linguistics, philosophy, data science, informatics, etc.   
+### The Developed System: Conceptual / Terminological / Semantic / Knowledge Organization Systems
+Ontologies represent one computable system among many that involve describing concepts, categories, terminology, semantics, and knowledge represntaiton. Other systems are taxonomies, thesauri, etc. Ontologies are sometimes described using these names, but the greater complexity potential of ontologies would distinguish them from other systems. Ontologies have also been called semantic data models, conceptual models, and knowledge models. in ally, these systems are sometimes called 'knowledge organization systems' (KOS), typically in library and information science contexts. Although these systems are sometimes called KOS, that name is problematic if we do not assume any particular sense for 'knowledge', because more than knowledge (in an intuitive sense) can be captured by the developed system. The AI community, for instance, may have a specific sense for it, which may or may not implicitly be assumed in the intended meaning and use of 'KOS', e.g., knowledge in sense of anything computably represented that an artificial system can act on, whether from sensors observing the external environment, from a knowledge base or knowledge model (e.g. ontology) in the system, etc.
+
+Again, the name for these systems is less important as the development activity and the features and capabilities of the system.
+
+The following lists some types of conceptual/semantic/terminological/knowledge systems (or resources), using modified descriptions from [slide 5 of this Slideshare presentation](https://www.slideshare.net/skhan/ontology-dev?qid=8e6605c2-e7c7-4e76-b5d3-1d817b9e299b&v=&b=&from_search=4).
+**NOTE**: Each system has purposes and applications that may overlap with others. Some may be more structured, complex, or expressive than others. 
+**NOTE**: there are different descriptions of these systems. E.g., some do not consider ontologies to be controlled vocabularies. Distinct disciplines and research areas may have their own (in)formal meanings for them, disciplines such as AI, MBSE, library science, semntic web technology, formal ontology, (computational) linguistics, philosophy, data science, informatics, etc.   
 
 **BASIC TAKE-AWAY**: a common aspect for all these strcutures is _the specification of some set of symbol-structures (e.g., set of terms, a vocabulary, etc.) which often has an ascribed computable set of meanings, but is minimally intended to be applied in computational contexts_.
-
-**NOTE**: These systems are sometimes called 'knolwedge organization systems' or 'KOS' for short, particularly in library and information science communities/academia. However, that name is problematic if we do not assume any particular sense for 'knowledge', because more than knowledge (in an intuitive sense) can be captured by the developed system. The AI community, for instance, may have a specific sense for it, which may or may not implicitly be assumed in the intended meaning and use of 'KOS', e.g., knowledge in sense of anything computably represented that an artificial system can act on, whether from sensors observing the external environment, from a knowledge base or knowledge model (e.g. ontology) in the system, etc.
-
-**NOTE**: Each system has purposes and applications that may overlap with others. Some may be more structured, complex, or expressive than others. 
 
 - **Controlled Vocabulary** : an organized set of term used to catalog and index content (or--more generally--used for a given project, topic, domain, application, or goal)
 - **Classification** : a controlled vocabulary whose terms are grouped
