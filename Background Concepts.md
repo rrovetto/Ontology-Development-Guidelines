@@ -51,7 +51,7 @@ From ["Knowledge Representation and Reasoning for Intelligent Software Systems"]
 - To offer a knowledge-based model of some target universe of discourse (serving as background knowledge) in order to facilitate automation or reasoning (e.g., in AI systems) 
 </details>
 
-### A Relationship between Artificial Intelligence (AI) & Ontology Engineering: Knowledge- repreesntation, reasoning, modeling, engineering and management
+### 4. A Relationship b/w Artificial Intelligence (AI) & Ontology Engineering: Knowledge- repreesntation, reasoning, modeling, engineering and management
 <details>
   <summary>Click to expand!</summary>
   
@@ -64,7 +64,7 @@ One approach is logic-based: "To achieve the precise semantics necessary for com
 Computable languages, used to fomrally declare a vocabulary to compose computable expressions, are often used in KRR and ontology engineering, and are sometimes called KRR languages. 
 </details>
 
-### Context-dependent Perspectives and Senses of Ontology
+### 5. Context-dependent Perspectives and Senses of Ontology
 <details>
   <summary>Click to expand!</summary>
   
@@ -76,7 +76,7 @@ From [this MIT lecture (PPT)](https://ocw.mit.edu/courses/electrical-engineering
 - In semantic web technologies, it "provide[s] semantics for web resources", helping to describe those resources
 </details>
 
-### Different contexts for vocabularies and sets of terms
+### 6. Different contexts for vocabularies and sets of terms
 <details>
   <summary>Click to expand!</summary>
   
@@ -87,7 +87,7 @@ From [this MIT lecture (PPT)](https://ocw.mit.edu/courses/electrical-engineering
 - **Discipline-specific context**. Here--as in physics or sociology--a discipline may have jardon, terms not used in everyday discourse, and terms with more precise meaning than the same terms used in natural language. 
 </details>
 
-## Some Basic Conceptual & Ontological Distinctions often made in knowledge modeling
+## 7. Some Basic Conceptual & Ontological Distinctions often made in knowledge modeling
 Some distinctions are partially drawn from abstract philosophical inquiry, particularly metaphysics. The reader in encouraged to review literature on this and other disciplines. The reader is also encouraged to self-reflect on their own awareness of the most abstract or generic concepts and words they can think of.
 
 ### The Generic vs. The Specific - Genericity vs. Specificity and Particularity
