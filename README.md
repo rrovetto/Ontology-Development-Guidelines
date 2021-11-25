@@ -13,28 +13,28 @@ As unfunded work, donations and opportunity offers are welcome. If you find valu
 - [List of Ontology Services (PPT file)](https://www.slideshare.net/RobertRovetto/ontology-services-238070099)
 
 ## Ontology Development Approaches
-**Botton-Up development from data (example 1)**: 
+**A) Botton-Up development from data (example 1)**: 
 <details>
 <summary>Click to expand for further details</summary>
 	
 - Examine data, identify relevant subject matter; then create categories to describe that data (e.g., for what the data is about). This is specific to generic, or concrete to abstract. It may focus on asserting only those categories that will annotate the data elements you have.
 </details>
 
-**Botton-Up development from subject matter (example 2)**: 
+**B) Botton-Up development from subject matter (example 2)**: 
 <details>
   <summary>Click to expand for further details</summary>
 	
 - Examine the subjectmatter (e.g., corpus documents, nomenclature, etc.) and create corresponding ontology constructs for the most common concepts found in the subjectmatter.
 </details>
 	
-**Top-Down development (example)**: 
+**C) Top-Down development (example)**: 
 <details>
   <summary>Click to expand for further details</summary>
 	
 - Identify and create ontology constructs independent of examining data, but which can annotate the data. E.g., create abstract classes and modify accordingly once you examine the data and the intended meaning of the datasets and data elements. 
 </details>
 
-**Hybrid development**: a combination of both bottom-up & top-down.
+**D) Hybrid development**: a combination of both bottom-up & top-down.
 
 [see this description](https://answers.knowledgegraph.tech/t/whats-the-difference-between-a-bottom-up-and-a-top-down-ontology-modeling-approach/5064)
 ## A Generic Manual Ontology Development Methodology
