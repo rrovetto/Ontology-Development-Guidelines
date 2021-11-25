@@ -43,7 +43,7 @@ It often involves creating a database to store content or knowledge (a **knowled
 We read: "knowledge represenation (KR) is the process of identifying the implicit knowledge, semantics or structure in raw data (from a given domain), encoding it symbolically or formally into a (formal) KR language, reasoning over this encoded knowledge, to automatically derive new knowledge by inference" ([Source of quote](https://camilothorne.altervista.org/sem_web17/Suppl_KRn.pdf))
 
 There are different approaches for _knowlege represetnation_, i.e., for encoding knowledge as it were. One approach, or one system/tool to KRR is to develop so-called **ontologies**.
-One approach is logic-based: "To achieve the precise semantics necessary for computational purposes, intelligent system designers often use logic to formalize KR" (source)[https://ulir.ul.ie/bitstream/handle/10344/1780/2011_Vassev%20(d).pdf;sequence=2]. However, there are other approaches besides formal logic.
+One approach is logic-based: "To achieve the precise semantics necessary for computational purposes, intelligent system designers often use logic to formalize KR" ([source](https://ulir.ul.ie/bitstream/handle/10344/1780/2011_Vassev%20(d).pdf;sequence=2)). However, there are other approaches besides formal logic.
 Computable languages, used to fomrally declare a vocabulary to compose computable expressions, are often used in KRR and ontology engineering, and are sometimes called KRR languages. 
 
 ### Context-dependent Perspectives and Senses of Ontology
@@ -61,7 +61,7 @@ From [this MIT lecture (PPT)](https://ocw.mit.edu/courses/electrical-engineering
   - Example: explicitly defining the vocabulary of an ontology, using some symbolic logic or some computable formalism (artificial language)
 - **Discipline-specific context**. Here--as in physics or sociology--a discipline may have jardon, terms not used in everyday discourse, and terms with more precise meaning than the same terms used in natural language. 
 
-**Some Basic Conceptual & Ontological Distinctions often made in knowledge modeling** 
+## Some Basic Conceptual & Ontological Distinctions often made in knowledge modeling
 Some distinctions are partially drawn from abstract philosophical inquiry, particularly metaphysics. The reader in encouraged to review literature on this and other disciplines. The reader is also encouraged to self-reflect on their own awareness of the most abstract or generic concepts and words they can think of.
 
 ### The Generic vs. The Specific - Genericity vs. Specificity and Particularity
