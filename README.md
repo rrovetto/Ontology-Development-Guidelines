@@ -12,13 +12,14 @@ As unfunded work, donations and opportunity offers are welcome. If you find valu
 - [List of Ontology Education (PPT file)](https://www.slideshare.net/RobertRovetto/ontology-courses-education)
 - [List of Ontology Services (PPT file)](https://www.slideshare.net/RobertRovetto/ontology-services-238070099)
 
-## Ontology Design Approaches
-- **Botton-Up development from data (example 1)**: examine data and the identify the relevant subject matter. create ontology constructs (classes, etc.) from what the data is about (e.g., only classes for what the data contains).
-- **Botton-Up development from subject matter (example 2)**: examine the subjectmatter (e.g., corpus documents, nomenclature, etc.) and create corresponding ontology constructs for the most common categories and concepts found in the subjectmatter.
+## Ontology Development Approaches
+- **Botton-Up development from data (example 1)**: Examine data, identify relevant subject matter; then create categories to describe that data (e.g., for what the data is about). This is specific to generic, or concrete to abstract. It may focus on asserting only those categories that will annotate the data elements you have.
+- **Botton-Up development from subject matter (example 2)**: examine the subjectmatter (e.g., corpus documents, nomenclature, etc.) and create corresponding ontology constructs for the most common concepts found in the subjectmatter.
 - **Top-Down development (example)**: identify and create ontology constructs independent of examining data, but which can annotate the data. E.g., create abstract classes and modify accordingly once you examine the data and the intended meaning of the datasets and data elements. 
 - **Hybrid development**: a combination of both bottom-up & top-down.
 
-## A Generic Ontology Development Methodology (manual development)
+[see this description](https://answers.knowledgegraph.tech/t/whats-the-difference-between-a-bottom-up-and-a-top-down-ontology-modeling-approach/5064)
+## A Generic Manual Ontology Development Methodology
 
 
 ### Stages of Ontology Development (dynamic and iterative)
