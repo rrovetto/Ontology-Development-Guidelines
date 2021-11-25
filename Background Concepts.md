@@ -7,7 +7,7 @@ Below are some basic concepts to know.
 <details>
   <summary>Click to expand for more details</summary>
   
-Although the name is less imporant than the activity, one may name the developer of ontologies (or similar systems in different ways): modeler, conceptual (data) modeler, ontologist, semantic modeler, schema develoepr, knolwedge modeler, etc. Consider this description of one task of the ontologist (unclear if referring to philosophical or computational): "Ontologists study how definitions, classifications and relationships can and possibly should be formulated using conceptual analysis, logic, or formal semantics in order to most effectively achieve these goal." (Source unknown)
+Consider this description of one task of the ontologist (it may be more appropriate for philosophical ontologists, but some overlaps with computational ontology): "Ontologists study how definitions, classifications and relationships can and possibly should be formulated using conceptual analysis, logic, or formal semantics in order to most effectively achieve these goal." (Source unknown) Although the name is less imporant than the activity, one may name the developer of ontologies (or similar systems in different ways): modeler, conceptual (data) modeler, ontologist, semantic modeler, schema develoepr, knolwedge modeler, etc. 
 </details>
 
 ### The Developed System: Conceptual / Terminological / Semantic / Knowledge Organization Systems
