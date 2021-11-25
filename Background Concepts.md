@@ -33,13 +33,13 @@ From ["Knowledge Representation and Reasoning for Intelligent Software Systems"]
 - instance: X is an instance of Y if X is a specific example of the general concept Y 
 - isa: X isa Y if X is a subset of the more general concept Y 
 - haspart: X haspart Y if the con-cept Y is a part of the concept X"
-</details>
 
 **NOTE**: there are different descriptions of these systems. E.g., some do not consider ontologies to be controlled vocabularies. Distinct disciplines and research areas may have their own (in)formal meanings for them, disciplines such as AI, MBSE, library science, semntic web technology, formal ontology, (computational) linguistics, philosophy, data science, informatics, etc.
 
 **NOTE**: Although these systems are sometimes called 'KOS', that name may be problematic, because more than knowledge can be captured by the developed system. The AI community, for instance, may have a specific sense for 'knowledge', which may or may not implicitly be assumed in the intended meaning and use of the name 'KOS', e.g., knowledge in sense of anything computably represented that an artificial system can act on, whether from sensors observing the external environment, from a knowledge base or knowledge model (e.g. ontology) in the system, etc.
 
 **Basic Take-away**: a common aspect for all these strcutures is the specification of some set of symbol-structures (e.g., set of terms, a vocabulary, etc.) which often has an ascribed computable set of meanings, but is minimally intended to be applied in computational contexts.
+</details>
 
 ### 3. What are knowledge/semantic/terminological systems used for?
 <details>
