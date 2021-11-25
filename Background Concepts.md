@@ -39,7 +39,7 @@ From ["Knowledge Representation and Reasoning for Intelligent Software Systems"]
 - haspart: X haspart Y if the con-cept Y is a part of the concept X"
 </details>
   
-**BASIC TAKE-AWAY**: a common aspect for all these strcutures is the specification of some set of symbol-structures (e.g., set of terms, a vocabulary, etc.) which often has an ascribed computable set of meanings, but is minimally intended to be applied in computational contexts.
+**Basic Take-away**: a common aspect for all these strcutures is the specification of some set of symbol-structures (e.g., set of terms, a vocabulary, etc.) which often has an ascribed computable set of meanings, but is minimally intended to be applied in computational contexts.
 
 ### What are knowledge/semantic/terminological systems used for?
 <details>
