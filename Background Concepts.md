@@ -22,15 +22,13 @@ The following lists some types of conceptual/semantic/terminological/knowledge s
 **NOTE**: Each system has purposes and applications that may overlap with others. Some may be more structured, complex, or expressive than others. 
 **NOTE**: there are different descriptions of these systems. E.g., some do not consider ontologies to be controlled vocabularies. Distinct disciplines and research areas may have their own (in)formal meanings for them, disciplines such as AI, MBSE, library science, semntic web technology, formal ontology, (computational) linguistics, philosophy, data science, informatics, etc.   
 
-**BASIC TAKE-AWAY**: a common aspect for all these strcutures is _the specification of some set of symbol-structures (e.g., set of terms, a vocabulary, etc.) which often has an ascribed computable set of meanings, but is minimally intended to be applied in computational contexts_.
-
 - **Controlled Vocabulary** : an organized set of term used to catalog and index content (or--more generally--used for a given project, topic, domain, application, or goal)
 - **Classification** : a controlled vocabulary whose terms are grouped
 - **Taxonomy** : a controlled vocabulary with some hierarchical structure (i.e., using structuring relationships such as 'broader-than', 'is-a-subclass-of', etc.)  
 - **Thesaurus** : a controlled vocabulary with term relations
 - **Ontology** : a controlled vocabulary with semantic relations, constraints, axioms, and rules.
 - **Knowledge Base** : an ontology + instances of the classes in the ontology. (See distinction between A-Box and T-Box in AI)
-- **semantic network** 
+- **Semantic network** 
 From ["Knowledge Representation and Reasoning for Intelligent Software Systems"](https://ulir.ul.ie/bitstream/handle/10344/1780/2011_Vassev%20(d).pdf;sequence=2) we read (bold emphasis added to mark the additional system):
 
 "Knowledge is often best understood as a set of related concepts. A **semantic network** is a directed graph consisting of nodes—which represent concepts—connected by edges—which represent semantic relations between those concepts. [...] the following relations are common: 
@@ -39,6 +37,8 @@ From ["Knowledge Representation and Reasoning for Intelligent Software Systems"]
 - haspart: X haspart Y if the con-cept Y is a part of the concept X"
 </details>
   
+**BASIC TAKE-AWAY**: a common aspect for all these strcutures is _the specification of some set of symbol-structures (e.g., set of terms, a vocabulary, etc.) which often has an ascribed computable set of meanings, but is minimally intended to be applied in computational contexts_.
+
 ### What are knowledge/semantic/terminological systems used for?
 <details>
   <summary>Click to expand!</summary>
