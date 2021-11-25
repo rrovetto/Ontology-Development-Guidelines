@@ -5,14 +5,14 @@ If you find value in my work, please [support/donate here](https://gogetfunding.
 
 ### The Developer
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Click to expand for more details</summary>
   
 Although the name is less imporant than the activity, one may name the developer of ontologies (or similar systems in different ways): modeler, conceptual (data) modeler, ontologist, semantic modeler, schema develoepr, knolwedge modeler, etc. Consider this description of one task of the ontologist (unclear if referring to philosophical or computational): "Ontologists study how definitions, classifications and relationships can and possibly should be formulated using conceptual analysis, logic, or formal semantics in order to most effectively achieve these goal." (Source unknown)
 </details>
 
 ### The Developed System: Conceptual / Terminological / Semantic / Knowledge Organization Systems
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Click to expand for more details</summary>
   
 Ontologies represent one computable system among many that involve describing concepts, categories, terminology, semantics, and knowledge represntaiton. Other systems are taxonomies, thesauri, etc. Ontologies are sometimes described using these names, but the greater complexity potential of ontologies would distinguish them from other systems. Ontologies have also been called semantic data models, conceptual models, and knowledge models. in ally, these systems are sometimes called 'knowledge organization systems' (KOS), typically in library and information science contexts. Although these systems are sometimes called KOS, that name is problematic if we do not assume any particular sense for 'knowledge', because more than knowledge (in an intuitive sense) can be captured by the developed system. The AI community, for instance, may have a specific sense for it, which may or may not implicitly be assumed in the intended meaning and use of 'KOS', e.g., knowledge in sense of anything computably represented that an artificial system can act on, whether from sensors observing the external environment, from a knowledge base or knowledge model (e.g. ontology) in the system, etc.
 
@@ -41,7 +41,7 @@ From ["Knowledge Representation and Reasoning for Intelligent Software Systems"]
 
 ### What are knowledge/semantic/terminological systems used for?
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Click to expand for more details</summary>
   
 - To index, tag, semantically annotate, and categorize content (e.g. documents, text, data, and other resources) in order to facilitate search, their discovery and their retrieval 
 - To represent things and knowledge in a machine-readable manner using the constructs or terms in the respective system
