@@ -5,7 +5,7 @@
 ## Support & Status
 - Available for [purchase at this link](https://tinyurl.com/32bxkee4).
 - As unfunded work in the authors own time, financial support is needed to sustain development.
-- If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/).  
+- If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/) or contact me for [work opportunity offers](https://tinyurl.com/hm8wu2sa).
 
 ## Sample Images
 ![Screen capture 1](https://github.com/rrovetto/Ontology-Development-Guidelines/blob/master/images/ScreenCapture_README_OntoDefCat_Rovetto.JPG?raw=true)
