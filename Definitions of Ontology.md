@@ -1,6 +1,6 @@
 # Catalog of 'ontology' definitions
 ## About
-[A living catalog of definitions of 'ontology' and cognates can be viewed at this website link](https://tinyurl.com/mtae3d8s). 
+[A living catalog of definitions of 'ontology' and cognates](https://tinyurl.com/mtae3d8s). 
 
 ## Support & Status
 Available for (purchase at this link(https://tinyurl.com/32bxkee4).
