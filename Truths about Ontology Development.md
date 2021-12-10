@@ -1,9 +1,9 @@
 # Truths about Ontology Development & Use
+NOTE: although the focus here is on ontologies, some of these points can apply to other systems such as controleld vocabularies, taxonomies, thesauri, etc.
+
 ## An eye on ethics for you and the community
 
 Some of the following may be obvious to some readers, but explicitly stating them is necessary to (i) express it for posterity, for the student, and for the non-specialist so that they (ii) are informed and so that (iii) misinformation is mitigated.
-
-NOTE: although the focus here is on ontologies, some of these points can apply to other systems such as controleld vocabularies, taxonomies, thesauri, etc.
 
 **SUPPORT**: If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/).
 
