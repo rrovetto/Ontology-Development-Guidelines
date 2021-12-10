@@ -1,8 +1,12 @@
 # Catalog of 'ontology' definitions
 ## About
 [A living catalog of definitions of 'ontology' and cognates can be viewed at this website link](https://tinyurl.com/mtae3d8s). 
+
 ## Support & Status
-If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). As a presently unfunded project, financial support is needed to sustain development. 
+Available for (purchase at this link(https://tinyurl.com/32bxkee4).
+As a presently unfunded project, financial support is needed to sustain development.
+If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/).  
+
 ## Sample Images
 ![Screen capture 1](https://github.com/rrovetto/Ontology-Development-Guidelines/blob/master/images/ScreenCapture_CatalogOntoDefinitions_1b.JPG?raw=true)
 ![Screen capture 2](https://github.com/rrovetto/Ontology-Development-Guidelines/blob/master/images/ScreenCapture_CatalogOntoDefinitions_2b.JPG?raw=true)
