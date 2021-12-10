@@ -8,8 +8,8 @@ As a presently unfunded project, financial support is needed to sustain developm
 If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/).  
 
 ## Sample Images
-![Screen capture 1](https://github.com/rrovetto/Ontology-Development-Guidelines/blob/master/images/ScreenCapture_CatalogOntoDefinitions_1b.JPG?raw=true)
-![Screen capture 2](https://github.com/rrovetto/Ontology-Development-Guidelines/blob/master/images/ScreenCapture_CatalogOntoDefinitions_2b.JPG?raw=true)
+![Screen capture 1](https://github.com/rrovetto/Ontology-Development-Guidelines/blob/master/images/ScreenCapture_README_OntoDefCat_Rovetto.JPG?raw=true)
+![Screen capture 2](https://github.com/rrovetto/Ontology-Development-Guidelines/blob/master/images/ScreenCapture_Onto_OntoDefCat_Rovetto.JPG?raw=true)
 ## Contribute
 Contact me if you have definitions (and their sources). I will review, verify, and compare for duplicates in the catalog. 
 ## Support 
