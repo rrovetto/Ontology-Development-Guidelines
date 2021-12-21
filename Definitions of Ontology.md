@@ -1,11 +1,8 @@
 # Catalog of 'ontology' definitions
-## About
-[A living catalog of definitions of 'ontology' and cognates](https://tinyurl.com/mtae3d8s). 
-
-## Support & Status
+- [A living catalog of definitions of 'ontology' and cognates](https://tinyurl.com/mtae3d8s). 
 - Available for [purchase at this link](https://tinyurl.com/32bxkee4).
 - As unfunded work in the authors own time, financial support is needed to sustain development.
-- If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/) or contact me for [work opportunity offers](https://tinyurl.com/hm8wu2sa).
+- If you find value in my work, please purchase a copy, [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/) or contact me for [formal work collaborations together](https://tinyurl.com/hm8wu2sa).
 
 ## Sample Images
 ![Screen capture 1](https://github.com/rrovetto/Ontology-Development-Guidelines/blob/master/images/ScreenCapture_README_OntoDefCat_Rovetto.JPG?raw=true)
