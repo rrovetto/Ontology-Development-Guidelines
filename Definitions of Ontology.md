@@ -11,6 +11,6 @@
 [Contact](https://ontospace.wordpress.com/contact) if you have definitions (and their sources). I will review, verify, and compare for duplicates in the catalog. 
 
 ## Copyright
-© 2021, Robert J. Rovetto. All right reserved.
+©2021, Robert J. Rovetto. All right reserved.
 Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required.
 No warranty. No claims to completeness.
