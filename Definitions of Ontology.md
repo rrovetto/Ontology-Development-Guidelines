@@ -1,5 +1,5 @@
 # Catalog of 'ontology' definitions
-- [A living catalog of definitions of 'ontology' and cognates such as 'formal ontology', 'domain ontology', etc.](https://tinyurl.com/mtae3d8s).
+- [A living catalog of definitions of 'ontology' and cognates such as 'formal ontology', 'domain ontology', etc.](https://tinyurl.com/mtae3d8s), in computational and interdisicplinary contexts. 
   - Count: 91 definitions of 'ontology' & various #s for other phrases (Jan 2022). Earliest written form of contemporary conception found: 1987. 
   - Below is a _sample_ of the catalog.
 ## Access
