@@ -1,6 +1,6 @@
 # Catalog of 'ontology' definitions
 - [A living catalog of definitions of 'ontology' and cognates such as 'formal ontology', 'domain ontology', etc.](https://tinyurl.com/mtae3d8s).
-  - Count: 98 definitions of 'ontology' (Jan 2022). Earliest written form of contemporary conception: 1987. Below is a _sample_ of the catalog.
+  - Count: 91 definitions of 'ontology' (Jan 2022). Earliest written form of contemporary conception: 1987. Below is a _sample_ of the catalog.
 ## Access
 - For the full catalog, **[purchase a copy at this link](https://tinyurl.com/32bxkee4)**.
 - As unfunded work, any [donations are appreciated (visit this webpage)](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). 
@@ -11,7 +11,8 @@
 ![Screen capture 2](https://github.com/rrovetto/Ontology-Development-Guidelines/blob/master/images/ScreenCapture_Onto_OntoDefCat_Rovetto.JPG?raw=true)
 
 ## Contribute
-[Contact](https://ontospace.wordpress.com/contact) if you have definitions (and their sources). I will review, verify, and compare for duplicates in the catalog. 
+- Send definitions (and their sources) to [this contact form](https://ontospace.wordpress.com/contact). If they are not already in the catalog, I mayI will review, verify, and compare for duplicates in the catalog. 
+- [Donations are gratefully welcomed](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/) to sustain development. 
 
 ## Development Methodology
 - Descriptions/definitions are manually added to the spreadsheet document as I find them when reading reference material. 
