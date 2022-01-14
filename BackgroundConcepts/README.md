@@ -1,7 +1,11 @@
 ## Background for Ontology Development: Some Conceptual and Ontological Preliminaries 
-Below are some basic concepts to know.
+Below are some basic concepts, and background information, to be aware of.
 
-**SUPPORT**: If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). Financial support is needed to sustain development.
+**SUPPORT**: As unfunded work, and if you find value in this, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). Financial support is needed to sustain development.
+
+### 0 Background information 
+- See this living catalog of the [Limitations of Knowledge Organization Systems & Related concepts and techniques](https://docs.google.com/spreadsheets/d/1ffTlIaR-8QNxGCj5_-5k5fYafJx9XU-7/edit?usp=sharing&ouid=111552135481476528005&rtpof=true&sd=true)
+- [Definitions of 'ontology' and cognates](https://github.com/rrovetto/Ontology-Development-Guidelines/blob/master/Definitions%20of%20Ontology.md)
 
 ### 1. The Developer
 <details>
