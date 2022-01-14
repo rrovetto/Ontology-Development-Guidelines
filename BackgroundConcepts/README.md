@@ -3,9 +3,12 @@ Below are some basic concepts, and background information, to be aware of.
 
 **SUPPORT**: As unfunded work, and if you find value in this, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). Financial support is needed to sustain development.
 
-### 0 Background information 
-- See this living catalog of the [Limitations of Knowledge Organization Systems & Related concepts and techniques](https://docs.google.com/spreadsheets/d/1ffTlIaR-8QNxGCj5_-5k5fYafJx9XU-7/edit?usp=sharing&ouid=111552135481476528005&rtpof=true&sd=true)
+### Background Information 
 - [Definitions of 'ontology' and cognates](https://github.com/rrovetto/Ontology-Development-Guidelines/blob/master/Definitions%20of%20Ontology.md)
+- Living catalog of the [Limitations of Knowledge Organization Systems & Related concepts and techniques](https://docs.google.com/spreadsheets/d/1ffTlIaR-8QNxGCj5_-5k5fYafJx9XU-7/edit?usp=sharing&ouid=111552135481476528005&rtpof=true&sd=true) This document expresses the:
+  - limitations of: catagorization
+  - limitations of: semantic web, RDF, OWL, UML, standards, knowledge graphs, ontology
+
 
 ### 1. The Developer
 <details>
@@ -18,7 +21,7 @@ Consider this description of one task of the ontologist (it may be more appropri
 <details>
   <summary>Click to expand for more details</summary>
   
-Ontologies represent one computable system among many that involve describing concepts, categories, terminology, semantics, and knowledge represntaiton. Other systems are taxonomies, thesauri, controlled vocabularies, etc. Ontologies are sometimes described using these names, but the greater complexity potential of ontologies would distinguish them from other systems. Ontologies have also been called semantic data models, conceptual models, and knowledge models. In all, these systems are sometimes called 'knowledge organization systems' (KOS). The name for these systems is less important as the development activity and the features and capabilities of each system.
+Ontologies represent one computable system among many that involve characterizing or describing concepts, categories, terminology, semantics, and perfomring knowledge represntaiton/modeling. Other systems include taxonomies, thesauri, controlled vocabularies, etc. Ontologies are sometimes described using these names, but the greater potential complexity and functionalities of ontologies differentiate it from other systems. Ontologies have also been called semantic data models, conceptual models, and knowledge models. Collectively, these systems are often called 'knowledge organization systems' (KOS) in library and information science contexts. The name for these systems is less important as the development activity and the features and capabilities of each system.
 
 The following lists some types of these conceptual/semantic/terminological/knowledge systems, using modified descriptions from [slide 5 of this Slideshare presentation](https://www.slideshare.net/skhan/ontology-dev?qid=8e6605c2-e7c7-4e76-b5d3-1d817b9e299b&v=&b=&from_search=4).
   
@@ -122,5 +125,5 @@ This is the distinction between a characteristic, property, feature, attribute, 
 **Consider**: "Different scientific disciplines relies on different definitions and terminology, and the cognitive foundation of these patterns remains speculative as they are hard to empirically investigate." ([source](https://imageschema.net/our-story/image-schema-list))
 
 ## Copyright
-© 2019-2021, Robert John Rovetto. All right reserved.
+© 2019-2022, Robert John Rovetto. All right reserved.
 Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required.
