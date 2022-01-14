@@ -5,7 +5,7 @@ Below are some basic concepts, and background information, to be aware of.
 
 ### Background Information 
 - [Definitions of 'ontology' and cognates](https://github.com/rrovetto/Ontology-Development-Guidelines/blob/master/Definitions%20of%20Ontology.md)
-- Living catalog of the [Limitations of Knowledge Organization Systems & Related concepts and techniques](https://docs.google.com/spreadsheets/d/1ffTlIaR-8QNxGCj5_-5k5fYafJx9XU-7/edit?usp=sharing&ouid=111552135481476528005&rtpof=true&sd=true) This document expresses the:
+- Living catalog of the [Limitations of Knowledge Organization Systems & Related concepts and techniques](https://docs.google.com/spreadsheets/d/1ffTlIaR-8QNxGCj5_-5k5fYafJx9XU-7/edit?usp=sharing&ouid=111552135481476528005&rtpof=true&sd=true). This document expresses the:
   - limitations of: catagorization
   - limitations of: semantic web, RDF, OWL, UML, standards, knowledge graphs, ontology
 
