@@ -1,19 +1,18 @@
 # Ontology Development Guidelines (manual approach)
 There are different methods, both automated and manual, to develop an ontology. This repository contains descriptions that succinctly explain one way to manually develop an ontology. Caveat: this is based on my experiences and thereby limited. The reader is encouraged to look at the diverse global content.   
 
-### STATUS 
+### Status 
 - In-progress. Subject to revision. Copyright by the author. All rights reserved. 
-
 ### Related 
 - [Ethical aspects of Ontology & Semantic modeling](https://github.com/rrovetto/Ethical-Ontology-Development)
 - [Myths of Ontology Development & Use](https://github.com/rrovetto/Ethical-Ontology-Development/blob/master/Myths-Of-Ontology-Development.md).
 ### Support
-As unfunded work in the authors own time, [donations](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/) and [work opportunity offers](https://tinyurl.com/hm8wu2sa) are welcome. If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/).
+- As a personal project to date, financial support is needed. [Donations](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/) and [work opportunity offers](https://tinyurl.com/hm8wu2sa) are welcome. If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/).
 
 **For Hire**
 - [Purchase services, products, or schedule a meeting at this link](https://tinyurl.com/yas7trzy)
-- [List of Ontology Education (PPT file)](https://www.slideshare.net/RobertRovetto/ontology-courses-education)
-- [List of Ontology Services (PPT file)](https://www.slideshare.net/RobertRovetto/ontology-services-238070099)
+- [Presentation list of Ontology Education (PPT file)](https://www.slideshare.net/RobertRovetto/ontology-courses-education)
+- [Presentation list of Ontology Services (PPT file)](https://www.slideshare.net/RobertRovetto/ontology-services-238070099)
 
 ## Ontology Development Approaches
 **A) Botton-Up development from data (example 1)**: 
