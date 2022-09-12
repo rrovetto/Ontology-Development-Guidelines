@@ -1,5 +1,5 @@
 # Ontology Development Guidelines (manual approach)
-There are different methods, both automated and manual, to develop an ontology. This repository contains descriptions that succinctly explain one way to manually develop an ontology. Caveat: this is based on my experiences and thereby limited. The reader is encouraged to look at the diverse global content.   
+There are different methods, both automated and manual, to develop an ontology. This repository contains descriptions that succinctly explain one way to manually develop an ontology. Caveat: this is based on [my](https://orcid.org/0000-0003-3835-7817) experiences and thereby limited. The reader is encouraged to look at the diverse global content.   
 
 ### Status 
 - In-progress. Subject to revision. Copyright by the author. All rights reserved. 
