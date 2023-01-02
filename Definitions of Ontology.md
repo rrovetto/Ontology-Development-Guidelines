@@ -25,6 +25,6 @@
 This is therefore a time-consuming and painstaking task.  
 
 ## Copyright
-©2021-2022, Robert J. Rovetto. All right reserved.
+©2021-2023, Robert J. Rovetto. All right reserved.
 Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required.
 No warranty. No claims to completeness.
