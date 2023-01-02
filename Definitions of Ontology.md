@@ -13,12 +13,11 @@
 
 ## How to Contribute
 - As unfunded work, [donations are welcome (visit this webpage)](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). 
-- Send definitions (and their sources) to [this contact form](https://ontospace.wordpress.com/contact). If they are not already in the catalog, I will review, verify, and compare for duplicates in the catalog.  
 
 ## Development Methodology
-- Descriptions/definitions are manually added to the spreadsheet document as I find them when reading reference material. 
+- Descriptions/definitions are manually added to the spreadsheet document as I find them when reading reference material. Originally began during my 2009 studies in ontology.
   - Source material includes research articles, websites, reports, books, presentation documents in conferences/workshops, etc.
-  - Authors, reference/source documents, website URLs, and other information is added to the spreadsheet catalog. 
+  - Authors, reference/source documents, website URLs, and other information is added to the catalog. 
 - Historical and popular definitions are added. 
 - Definitions that I believe are particularly succinct or informative are added.
 - For all definitions, I attempt to find the original source. E.g., If definitions are presented as quotes in a given reference document, then I research to find the source document of that quote. This includes corresponding authors to inquire.
