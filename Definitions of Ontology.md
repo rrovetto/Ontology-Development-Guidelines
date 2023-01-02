@@ -1,10 +1,10 @@
 # Catalog of 'ontology' definitions
-- [A living catalog of definitions of 'ontology' and cognates such as 'formal ontology', 'domain ontology', etc.](https://tinyurl.com/mtae3d8s), in computational and interdisicplinary contexts. 
-  - _Count_: 91 definitions of 'ontology' & various #s for other phrases (Jan 2022). 
+- A living catalog of definitions of 'ontology' and variations of the term such as 'formal ontology', 'domain ontology', etc., in computational and interdisicplinary contexts. Due to the interdisicplinary context, philosophical ontology is included.
+  - _Count_: 91 definitions of 'ontology' (Jan 2022), 130 definitions (Jan 2023). 
   - Below is a _sample_ of the catalog.
 ## Access
-- For the full catalog, **[purchase a copy at this link](https://tinyurl.com/32bxkee4)**.
-- As unfunded work, [donations are appreciated (visit this webpage)](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). 
+- For the full catalog, **[purchase a copy at this link](https://tinyurl.com/32bxkee4)** or [contact me](https://ontospace.wordpress.com/contact) for alternative ways to purchase.
+- [Current location](https://tinyurl.com/mtae3d8s)
 - Contact me for [formal work collaborations together](https://tinyurl.com/hm8wu2sa)
 
 ## Sample Images
@@ -12,8 +12,8 @@
 ![Screen capture 2](https://github.com/rrovetto/Ontology-Development-Guidelines/blob/master/images/ScreenCapture_Onto_OntoDefCat_Rovetto.JPG?raw=true)
 
 ## How to Contribute
-- Send definitions (and their sources) to [this contact form](https://ontospace.wordpress.com/contact). If they are not already in the catalog, I mayI will review, verify, and compare for duplicates in the catalog. 
-- [Donations are gratefully welcomed](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/) to sustain development. 
+- As unfunded work, [donations are welcome (visit this webpage)](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). 
+- Send definitions (and their sources) to [this contact form](https://ontospace.wordpress.com/contact). If they are not already in the catalog, I will review, verify, and compare for duplicates in the catalog.  
 
 ## Development Methodology
 - Descriptions/definitions are manually added to the spreadsheet document as I find them when reading reference material. 
