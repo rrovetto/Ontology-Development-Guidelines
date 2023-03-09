@@ -1,5 +1,5 @@
 # Catalog of 'ontology' definitions
-A living catalog of definitions of 'ontology' (and variations of the term such as 'computational ontology') in computational and interdisicplinary but primiarly data and modeling) contexts. Due to the interdisicplinary context, philosophical ontology is included, but for brevity, limited to a few definitions.
+This is a living catalog of definitions of 'ontology' (and variations of the term such as 'computational ontology') in computational and interdisicplinary but primiarly data and modeling) contexts. Due to the interdisicplinary context, philosophical ontology is included, but for brevity, limited to a few definitions.
   - _Count_: 91 definitions of 'ontology' (Jan 2022), 130 definitions (Jan 2023). 
   - Below is a sample of the catalog.
   - _Includes these terms:_ ontology, ontologies, philosophical ontology, computational ontology, formal ontology, information ontology, upper ontology, general ontology, generic ontology, foundational ontology, upper model, top-level ontology, top ontology, base ontology, core ontology, mid-level ontology, reference ontology, domain ontology, method ontology, task ontology, application ontology, knowledge graph
@@ -14,7 +14,7 @@ A living catalog of definitions of 'ontology' (and variations of the term such a
 - [This GitHub page](https://tinyurl.com/desc-catalog-ontology-defi) or [this alternative URL](https://tinyurl.com/mu3pusmu)
 - Contact me for [formal work collaborations together](https://tinyurl.com/hm8wu2sa)
 
-## Support - How you can contribute
+## Support - How you can help
 - As unfunded work in the authors own time, [donations are welcome (visit this webpage)](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). 
 ## Transition to Open-access
 - Due to the large number of person hours spent on this work without funding and as a job-seeker, if sufficient donations/purchases are made, the catalog will be made open. 
