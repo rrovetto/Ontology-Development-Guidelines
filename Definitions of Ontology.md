@@ -29,9 +29,7 @@ A living catalog of definitions of 'ontology' (and variations of the term such a
 This is therefore a time-consuming and painstaking task.  
 
 ## Contact author
-Robert J. Rovetto
-[Ontologist](https://ontologforum.com/index.php/RobertRovetto)
-[Contact](https://ontospace.wordpress.com/contact)
+Robert J. Rovetto, [Ontologist](https://ontologforum.com/index.php/RobertRovetto), [Contact](https://ontospace.wordpress.com/contact)
 
 ## Copyright
 ©2023, Robert J. Rovetto. All right reserved.
