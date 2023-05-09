@@ -1,4 +1,4 @@
-# Catalog of 'ontology' definitions
+# Catalog of 'ontology' (and similar terms) definitions
 This is a living catalog of definitions of 'ontology' (and variations of the term such as 'computational ontology') in computational and interdisicplinary but primiarly data and modeling) contexts. Due to the interdisicplinary context, philosophical ontology is included, but for brevity, limited to a few definitions.
   - _Count_: 91 definitions of 'ontology' (Jan 2022), 130 definitions (Jan 2023). 
   - Below is a sample of the catalog.
