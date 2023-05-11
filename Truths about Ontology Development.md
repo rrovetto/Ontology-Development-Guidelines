@@ -10,7 +10,7 @@ Some of the following may be obvious to some readers, but explicitly stating the
 ## Be Innovative & Creative
 ### 1. You can create your own ontology, at any degree of abstraction, specificity, generality, or application
 - _You can create your own topic-specific ontology_ (also called: domain ontology, domain-specific ontology, application ontology, lower-level ontology, etc.)
-- _You can create your own highly generic ontology_ (also called: general/generic ontology, foundational ontology, base ontology, upper-level ontology, top-level ontology, core ontology, etc.)
+- _You can create your own highly abstract ontology_ (also called: general/generic ontology, foundational ontology, upper-level ontology, top-level ontology, core ontology, etc.)
   - Some developers may resist this fact because some existing ontologies are the result of years of work, collaboratively or otherwise. Having multiple contributors may aid in some aspect of development and in quality control, but it is no guarantee of these things and it is not guarantee of the utility of the ontology.
 - You can create one for your more-specific domain ontology. You do not need to use an existing top-level ontology, in part because it may not be the correct abstract model for your domain ontology, e.g., it may make commitments or ideological assumptions you disagree with. 
 
