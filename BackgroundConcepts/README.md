@@ -122,8 +122,8 @@ This is the distinction between a characteristic, property, feature, attribute, 
 </details>
 
 ### The speculative nature of foundational concepts - their generaliy and abstraction means many models are 
-**Consider**: "Different scientific disciplines relies on different definitions and terminology, and the cognitive foundation of these patterns remains speculative as they are hard to empirically investigate." ([source](https://imageschema.net/our-story/image-schema-list))
+**Consider**: "Different scientific disciplines relies on different definitions and terminology, and the cognitive foundation of these patterns remains speculative as they are hard to empirically investigate." ([Original source Imageschema.net webpage no longer online](https://imageschema.net/our-story/image-schema-list))
 
 ## Copyright
-© 2019-2022, Robert John Rovetto. All right reserved.
+© 2019-2023, Robert John Rovetto. All right reserved.
 Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required.
