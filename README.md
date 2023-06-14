@@ -164,6 +164,6 @@ rrovetto(at)terpalum.umd.edu
 * NASA Datanauts open data group (Class of 2017. 2017-20)
 
 ## Copyright
-© 2013-2022, Robert John Rovetto. All right reserved.
+© 2023, Robert John Rovetto. All right reserved.
 Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required.
 No warranty. Presented "AS IS". Author and copyright holder is not liable. All content, work and products are subject to revision. No claims to completeness or complete accuracy.
