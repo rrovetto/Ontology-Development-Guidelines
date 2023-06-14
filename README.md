@@ -3,6 +3,8 @@ There are different methods, both automated and manual, to develop an ontology. 
 
 ### Status 
 - In-progress. Subject to revision. Copyright by the author. All rights reserved. 
+- As an unfunded personal project, [donations](https://tinyurl.com/donateViaPayPalrr) are welcome, and formal support & work collaborations are desire.
+
 ### Related 
 - [Ethical aspects of Ontology & Semantic modeling](https://github.com/rrovetto/Ethical-Ontology-Development)
 - [Myths of Ontology Development & Use](https://github.com/rrovetto/Ethical-Ontology-Development/blob/master/Myths-Of-Ontology-Development.md).
