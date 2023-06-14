@@ -3,13 +3,16 @@ There are different methods, both automated and manual, to develop an ontology. 
 
 ### Status 
 - In-progress. Subject to revision. Copyright by the author. All rights reserved. 
-- As an unfunded personal project, [donations](https://tinyurl.com/donateViaPayPalrr) are welcome, and formal support & work collaborations are desire.
+- As an unfunded personal project, [donations](https://tinyurl.com/donateViaPayPalrr) are welcome, and formal support & work collaborations are needed.
+- This link can be used: https://purl.org/rrovetto/ontology-guidebook
 
 ### Related 
 - [Ethical aspects of Ontology & Semantic modeling](https://github.com/rrovetto/Ethical-Ontology-Development)
 - [Myths of Ontology Development & Use](https://github.com/rrovetto/Ethical-Ontology-Development/blob/master/Myths-Of-Ontology-Development.md).
 ### Support
-- As a personal project to date, financial support is needed. [Donations](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/) and [work opportunity offers](https://tinyurl.com/hm8wu2sa) are welcome. If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/).
+-  If you find value in my work, [donations](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/) are welcome. 
+-  [Work opportunities are desired](https://tinyurl.com/hm8wu2sa). 
+-  [Available for hire: consulting, presentations, ...](https://tinyurl.com/yas7trzy)
 
 **For Hire**
 - [Purchase services, products, or schedule a meeting at this link](https://tinyurl.com/yas7trzy)
@@ -162,6 +165,9 @@ rrovetto(at)terpalum.umd.edu
 * International Association for Ontology and its Applications (IAOA), Education Technical Committee member, 
 * Semantic Web & Applied Ontology Special Interest Group, IAOA
 * NASA Datanauts open data group (Class of 2017. 2017-20)
+
+## Attribution
+Attribution is required. Cite as: Rovetto, Robert J., "Ontology Guidebook", https://purl.org/rrovetto/ontology-guidebook
 
 ## Copyright
 © 2023, Robert John Rovetto. All right reserved.
