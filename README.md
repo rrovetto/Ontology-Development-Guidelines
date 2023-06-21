@@ -1,11 +1,10 @@
 # Ontology Development Guidelines (manual approach)
-There are different methods, both automated and manual, to develop an ontology. This repository contains descriptions that succinctly explain one way to manually develop an ontology. Caveat: this is based on [my](https://orcid.org/0000-0003-3835-7817) experiences and thereby limited. The reader is encouraged to look at the diverse global content.   
+There are different methods, both automated and manual, to develop an ontology. This work contains descriptions that succinctly explain one way to manually develop an ontology. Caveat: this is based on [my](https://orcid.org/0000-0003-3835-7817) experiences and thereby limited. The reader is encouraged to look at the diverse global content. This work originally began in approximately 2010 in an unpublished document I call "The Ontology Guidebook".
 
 ### Status 
 - In-progress. Subject to revision. Copyright by the author. All rights reserved. 
 - As an unfunded personal project, [donations](https://tinyurl.com/donateViaPayPalrr) are welcome, and formal support & work collaborations are needed.
 - This link can be used: https://purl.org/rrovetto/ontology-guidebook
-
 ### Related 
 - [Ethical aspects of Ontology & Semantic modeling](https://github.com/rrovetto/Ethical-Ontology-Development)
 - [Myths of Ontology Development & Use](https://github.com/rrovetto/Ethical-Ontology-Development/blob/master/Myths-Of-Ontology-Development.md).
