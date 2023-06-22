@@ -3,7 +3,9 @@
 This section describes the importance of understanding and asserting the intended meaning or purpose of the ontolog constructs (classes, relations, etc.), and any associated label (terms) assigned to each construct. 
 
 **NOTE**: An example of an ontology construct is an OWL (Web Ontology Language) Class, or OWL Data Property. 
+
 _Ontology Construct / Symbol-structure_ = the class, relation, individual, etc. being created in an ontology file, i.e., the computational structure being created.
+
 _Label / Term_ = the (alpha)numeric string--often a natural language lexical term--assigned to an ontology construct.
 
 Exmaple 1:
