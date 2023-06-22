@@ -1,9 +1,9 @@
-## Background for Ontology Development: Some Conceptual and Ontological Preliminaries 
+# Background for Ontology Development: Some Conceptual and Ontological Preliminaries 
 Below are some basic concepts, and background information, to be aware of.
 
 **SUPPORT**: As unfunded work, and if you find value in this, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). Financial support is needed to sustain development.
 
-### Background Information 
+## Background Information 
 - [Definitions of 'ontology' and cognates](https://github.com/rrovetto/Ontology-Development-Guidelines/blob/master/Definitions%20of%20Ontology.md)
 - Living catalog of the [Limitations of Knowledge Organization Systems & Related concepts and techniques](https://docs.google.com/spreadsheets/d/1ffTlIaR-8QNxGCj5_-5k5fYafJx9XU-7/edit?usp=sharing&ouid=111552135481476528005&rtpof=true&sd=true). This document expresses the:
   - limitations of: catagorization
@@ -94,10 +94,10 @@ From [this MIT lecture (PPT)](https://ocw.mit.edu/courses/electrical-engineering
 - **Discipline-specific context**. Here--as in physics or sociology--a discipline may have jardon, terms not used in everyday discourse, and terms with more precise meaning than the same terms used in natural language. 
 </details>
 
-## 7. Some Basic Conceptual & Ontological Distinctions often made in knowledge modeling
+### 7. Some Basic Conceptual & Ontological Distinctions often made in knowledge modeling
 Some distinctions are partially drawn from abstract philosophical inquiry, particularly metaphysics. The reader in encouraged to review literature on this and other disciplines. The reader is also encouraged to self-reflect on their own awareness of the most abstract or generic concepts and words they can think of.
 
-### The Generic vs. The Specific - Genericity vs. Specificity and Particularity
+#### The Generic vs. The Specific - Genericity vs. Specificity and Particularity
 <details>
   <summary>Click to expand!</summary>
   
@@ -114,7 +114,7 @@ This is basic distinction is exemplified by some more specific ones such as:
 _CAUTION_: the way categories, types, kinds, and classes are defined varies, i.e., which characteristics are chosen as exemplifying the given category varies. So if you want to specify the type of an instance, you should consider how to define the category, and/or be aware of how a pre-defined category characterizes your given instance(s). 
 </details>
 
-### Characteristics vs. Possessors of characterstics
+#### Characteristics vs. Possessors of characterstics
 <details>
   <summary>Click to expand!</summary>
   
