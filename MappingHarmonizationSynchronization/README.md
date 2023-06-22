@@ -20,7 +20,9 @@ Overarching questions:
 
 ## Author
 [Robert J. Rovetto](http://orcid.org/0000-0003-3835-7817)
+
 [Formal Ontologist](https://ontologforum.com/index.php/RobertRovetto)
+
 [Hire, purchase products, and schedule a meeting here](https://tinyurl.com/yas7trzy)
 
 ## Copyright
