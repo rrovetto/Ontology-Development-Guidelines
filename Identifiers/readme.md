@@ -1,4 +1,4 @@
-## Guidelines for developing Identifiers
+# Guidelines for developing Identifiers
 Depending on the degree of abstraction one considers, the following is an approximation.
 
 For all constructs in an ontology, we can declare the following.
@@ -19,15 +19,21 @@ or
   - Alternative labels (e.g., using the rdfs:altLabel construct)
   - Synonyms. Including synonyms indirectly show the degree of usage and meaning in a natural language for the given domain/topic. 
 
-### Research about Identifiers, Labels, etc.
+## Research about Identifiers, Labels, etc.
 - https://www.sciencedirect.com/science/article/pii/S1877042815056608
 -   "the main objective of labels is to be as descriptive and meaningful of the ontology entity as possible, in order to guarantee an appropriate use and, hence, the adoption of the ontology by final users."
 -   "In this way we are able to “read” the triple as a sentence, or with a syntactic structure quite close to the  natural  language  interpretation."
 -   "we should respect the common or natural  syntagmatic  structures  of  each  language."
 
-
-### Support
+## Support
 If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). Financial support is needed to sustain development.
+
+## Author
+[Robert J. Rovetto](http://orcid.org/0000-0003-3835-7817)
+
+[Formal Ontologist](https://ontologforum.com/index.php/RobertRovetto)
+
+[Hire, purchase products, and schedule a meeting here](https://tinyurl.com/yas7trzy)
 
 ## Copyright
 © 2019-2021, Robert John Rovetto. All right reserved.
