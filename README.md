@@ -161,8 +161,9 @@ NOTE: an example is the NEON Methodology.
 [Robert J. Rovetto](https://orcid.org/0000-0003-3835-7817)
 rrovetto(at)terpalum.umd.edu
 * International Association for Ontology and its Applications (IAOA), Education Technical Committee member, 
-* Semantic Web & Applied Ontology Special Interest Group, IAOA
+* IAOA Semantic Web & Applied Ontology Special Interest Group
 * NASA Datanauts open data group (Class of 2017. 2017-20)
+* [Ontolog Profile](https://ontologforum.org/index.php/RobertRovetto)
 
 ## Attribution
 Attribution is required. Cite as: Rovetto, Robert J., "Ontology Guidebook", https://purl.org/rrovetto/ontology-guidebook
