@@ -6,14 +6,19 @@
 
 3) Optionally include a tool-independent / implementation-independent formal logical definition (perhaps as a metadata annotation).
 
-**NOTE**: limit the loss of expressivity, as much as possible, during the translation from natural-language definition to computation definition. It can be limited by using a computable formal language that has high expressivity and minimal language bias. And more generally by spending time on conceptual analysis, hand-made first- and second-order logic translation of the n-l def., etc. 
-
 4) Have human-readible metadata annotations or notes for each definition. Example metadata annotation: 'natural-language definition'.
 
-**NOTE**: there are many types of definitions, e.g., ostensive, etc. For computation, you can follow the rules of your chosen formal langauge (e.g., RDF, OWL, CLIF, etc.). 
+5) Do not make the definition too broad, or too narrow.  
 
-**NOTE**: one approach to making definitions is a genus-species-differentia form, specifying sub-categories and distinguishing features for each. They resemble a template such as:
-CategoryX is-a-kind-of CategoryY that/which Z
+6) Limit the loss of expressivity, as much as possible, during the translation from natural-language definition to computation definition. It can be limited by using a computable formal language that has high expressivity and minimal language bias. And more generally by spending time on conceptual analysis, hand-made first- and second-order logic translation of the n-l def., etc. 
+
+### Types of Definition, And Approaches to Development
+- There are many types of definitions, e.g., intensional, extensional, stipulative, etc.
+
+One approach to developing definitions is via the genus-species-differentia form, specifying sub-categories and distinguishing features for each. They resemble a template such as: CategoryX is-a-kind-of CategoryY that/which Z. The genus-species-differentia definition is a type of intensional definition. Ostensive definitions, which point to examples of the defined term, are types of extensional definition.
+
+- For achieving computation, you can follow the rules of your chosen formal langauge (e.g., RDF, OWL, CLIF, etc.). 
+
 
 ## Research Documents 
 - "UNE ISO 1087-1,  following  ISO  1087-1 and ISO 1087-2 in which an intensional definition states the superordinate concept and the delimiting characteristics. This means that definitions should not start with a verb" (https://www.sciencedirect.com/science/article/pii/S1877042815056608)
