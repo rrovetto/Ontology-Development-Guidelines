@@ -10,11 +10,10 @@ There are different methods, both automated and manual, to develop an ontology. 
 - [Myths of Ontology Development & Use](https://github.com/rrovetto/Ethical-Ontology-Development/blob/master/Myths-Of-Ontology-Development.md).
 ### Support
 -  If you find value in my work, [donations](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/) are welcome. 
--  [Work opportunities are desired](https://tinyurl.com/hm8wu2sa). 
--  [Available for hire: consulting, presentations, ...](https://tinyurl.com/yas7trzy)
+-  [Work opportunities & collaborations are desired. Click here to schedule a meeting](https://tinyurl.com/hm8wu2sa). 
 
 **For Hire**
-- [Purchase services, products, or schedule a meeting at this link](https://tinyurl.com/yas7trzy)
+- [Hire me, Purchase products, or schedule a meeting at this link](https://tinyurl.com/yas7trzy)
 - [Presentation list of Ontology Education (PPT file)](https://www.slideshare.net/RobertRovetto/ontology-courses-education)
 - [Presentation list of Ontology Services (PPT file)](https://www.slideshare.net/RobertRovetto/ontology-services-238070099)
 
