@@ -71,7 +71,7 @@ One approach is logic-based: "To achieve the precise semantics necessary for com
 Computable languages, used to fomrally declare a vocabulary to compose computable expressions, are often used in KRR and ontology engineering, and are sometimes called KRR languages. 
 </details>
 
-### 5. Context-dependent Perspectives and Senses of Ontology
+### 5. Context-dependent Perspectives of Ontology
 <details>
   <summary>Click to expand!</summary>
   
