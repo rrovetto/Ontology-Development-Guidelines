@@ -34,8 +34,15 @@ A definition or description expresses the meaning or purpose of that symbol.
 The name (label, or term) is a string of symbols linked or assigned to the construct. This, too, appears to be an ontology construct.
 In this way, we can consider the constructs (symbol-structures, or elements) of an ontology.
 
-### Support
+## Support
 If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). Financial support is needed to sustain development.
+
+## Author
+[Robert J. Rovetto](http://orcid.org/0000-0003-3835-7817)
+
+[Formal Ontologist](https://ontologforum.com/index.php/RobertRovetto)
+
+[Hire, purchase products, and schedule a meeting here](https://tinyurl.com/yas7trzy)
 ## Copyright
-© 2019-2021, Robert John Rovetto. All right reserved.
+© 2019-2023, Robert John Rovetto. All right reserved.
 Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required.
