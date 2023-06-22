@@ -18,6 +18,11 @@ Overarching questions:
 ## Related projects
 [This earlier page](https://github.com/rrovetto/Catalog-Space-Vocabularies/tree/main/CrosswalksMapping), contains similar content but for another project by the author.
 
+## Author
+[Robert J. Rovetto](http://orcid.org/0000-0003-3835-7817)
+[Formal Ontologist](https://ontologforum.com/index.php/RobertRovetto)
+[Hire, purchase products, and schedule a meeting here](https://tinyurl.com/yas7trzy)
+
 ## Copyright
 © 2016-2023, Robert J. Rovetto.
 Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required. 
