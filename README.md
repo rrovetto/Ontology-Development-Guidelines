@@ -1,21 +1,24 @@
 # Ontology Development Guidelines (manual approach)
-There are different methods, both automated and manual, to develop an ontology. This work contains descriptions that succinctly explain one way to manually develop an ontology. Caveat: this is based on [my](https://orcid.org/0000-0003-3835-7817) experiences and thereby limited. The reader is encouraged to look at the diverse global content. This work originally began in approximately 2010 in an unpublished document I call "The Ontology Guidebook".
+There are different methods, both automated and manual, to develop an ontology. This work aims to succinctly explain one way to manually develop an ontology. 
+_Disclaimer_: this is based on [my](https://orcid.org/0000-0003-3835-7817) experiences and thereby limited. The reader is encouraged to look at the diverse global content on this and related topics. This work originally began in approximately 2010 in an unpublished written document I call "The Ontology Guidebook".
 
-### Status 
-- In-progress. Subject to revision. Copyright by the author. All rights reserved. 
-- As an unfunded personal project, [donations](https://tinyurl.com/donateViaPayPalrr) are welcome, and formal support & work collaborations are needed.
-- This link can be used: https://purl.org/rrovetto/ontology-guidebook
-### Related 
-- [Ethical aspects of Ontology & Semantic modeling](https://github.com/rrovetto/Ethical-Ontology-Development)
-- [Myths of Ontology Development & Use](https://github.com/rrovetto/Ethical-Ontology-Development/blob/master/Myths-Of-Ontology-Development.md).
-### Support
--  If you find value in my work, [donations](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/) are welcome. 
--  [Work opportunities & collaborations are desired. Click here to schedule a meeting](https://tinyurl.com/hm8wu2sa). 
+## Status 
+- In-progress. Subject to revision. No claims to completeness 
+- As an unfunded personal project to date, formal support is needed to sustain development: financial support, employment, work collaborations, studyship options, etc.
+- Link to this page: [https://purl.org/rrovetto/ontology-guidebook](https://purl.org/rrovetto/ontology-guidebook)
 
-**For Hire**
+## Support
+- If you find value in my work, [donations are welcome via PayPal](https://tinyurl.com/donateViaPayPalrr) or [via this GoGetFunding webpage](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). 
+- [Employment opportunities & work collaborations are desired. Click here to schedule a meeting](https://tinyurl.com/hm8wu2sa). 
+
+### For Hire
 - [Hire me, Purchase products, or schedule a meeting at this link](https://tinyurl.com/yas7trzy)
 - [Presentation list of Ontology Education (PPT file)](https://www.slideshare.net/RobertRovetto/ontology-courses-education)
 - [Presentation list of Ontology Services (PPT file)](https://www.slideshare.net/RobertRovetto/ontology-services-238070099)
+
+## Related 
+- [Ethical aspects of Ontology & Semantic modeling](https://github.com/rrovetto/Ethical-Ontology-Development)
+- [Myths of Ontology Development & Use](https://github.com/rrovetto/Ethical-Ontology-Development/blob/master/Myths-Of-Ontology-Development.md).
 
 ## Ontology Development Approaches
 **A) Botton-Up development from data (example 1)**: 
@@ -44,8 +47,8 @@ There are different methods, both automated and manual, to develop an ontology. 
 [see this description](https://answers.knowledgegraph.tech/t/whats-the-difference-between-a-bottom-up-and-a-top-down-ontology-modeling-approach/5064)
 ## A Generic Manual Ontology Development Methodology
 
-### Stages of Ontology Development (dynamic and iterative)
-A manual computational ontology development methodology includes the following activities: identifying and scoping your target subject-matter, set of concepts, data; subject/domain research; listing or creating a defined set of terms; listing statements and pieces of knowledge (e.g., general facts of the domain) to be captured; a taxonomy and classification system using the specified terminology; computational formalization of the terminological system; computational formalization of the knowledge statements; identifying applications. The development process is **iterative** and **non-linear**: some phases (or steps) of the development process may be performed concurrently with others and revisited. 
+### Stages of Ontology Development (dynamic & iterative)
+A manual computational ontology development methodology includes the following activities: identifying and scoping your target subject-matter, set of concepts, and/or data; subject-matter/domain research; listing or creating a defined set of terms; listing statements and pieces of knowledge (e.g., general facts of the domain) to be captured; a taxonomy and classification system using the specified terminology; computational formalization of the terminological system; computational formalization of the knowledge statements; identifying applications. The development process is **iterative** and **non-linear**: some phases (or steps) of the development process may be performed concurrently with others and revisited. 
 ### 1. Purpose, Subject-matter & Data 
 <details>
   <summary>Click to expand for further details</summary>
@@ -160,9 +163,8 @@ NOTE: an example is the NEON Methodology.
 ## Author
 [Robert J. Rovetto](https://orcid.org/0000-0003-3835-7817)
 rrovetto(at)terpalum.umd.edu
-* International Association for Ontology and its Applications (IAOA), Education Technical Committee member, 
+* International Association for Ontology and its Applications (IAOA), Education Technical Committee member; 
 * IAOA Semantic Web & Applied Ontology Special Interest Group
-* NASA Datanauts open data group (Class of 2017. 2017-20)
 * [Ontolog Profile](https://ontologforum.org/index.php/RobertRovetto)
 
 ## Attribution
