@@ -3,7 +3,11 @@ NOTE: although the focus here is on ontologies, some of these points can apply t
 
 ## An eye on ethics for you and the community
 
-Some of the following may be obvious to some readers, but explicitly stating them is necessary to (i) express it for posterity, for the student, and for the non-specialist so that they (ii) are informed and so that (iii) misinformation is mitigated.
+Some of the following may be obvious to some readers, but explicitly stating them is necessary to (i) express it for posterity, for the student, and for the non-specialist so that they (ii) are informed and so that (iii) misinformation is mitigated. 
+
+## Related content
+- [Ethics of Ontology Development & Use](https://github.com/rrovetto/Ethics-of-Ontology-Development-and-Use/)
+- [Myths of Ontology Development & Use](https://github.com/rrovetto/Ethics-of-Ontology-Development-and-Use/blob/master/Myths-Of-Ontology-Development.md)
 
 **SUPPORT**: If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/).
 
