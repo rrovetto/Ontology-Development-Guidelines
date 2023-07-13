@@ -39,7 +39,7 @@ How? Read documentation, look at the ontology at all levels of abstraction, at i
 
 ### 5. You do not need an generic/upper/top-level/foundational ontology
 - There are other technologies and methods to achieve the same results. But you can also create your own more generic (or broader) ontology or taxonomy.
-- Some developers may resist this fact, but it is important to put ones bias for their vested interst (or lifes work) aside, and be objective, fair and truthful. Stating it explicitly, even if obvious, is essential for the sake of communicating those facts; it will help to prevent (intentional or unintentional) misinformation. It will help inform poterity.
+- Some developers may resist this fact, but it is important to put ones bias for their vested interst (or lifes work) aside, and be objective, fair and truthful. Stating it explicitly, even if obvious, is essential for the sake of communicating those facts; it will help to prevent (intentional or unintentional) misinformation. It will help inform posterity.
 
 ### 6. Problems & Limitations of top-level ontologies
 - Be aware of the [problems and limitations of top-level ontologies and their development](https://github.com/rrovetto/How-To-Build-a-Top-level-Ontology/tree/main/Problems%20with%20Top-level%20Ontologies)
