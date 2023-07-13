@@ -121,7 +121,7 @@ _CAUTION_: the way categories, types, kinds, and classes are defined varies, i.e
 This is the distinction between a characteristic, property, feature, attribute, quality, and something said to possess, have or bear it, i.e., a property-bearer.
 </details>
 
-### The speculative nature of foundational concepts - their generaliy and abstraction means many models are 
+### The speculative nature of foundational concepts + their high abstraction means many models are possible
 **Consider**: "Different scientific disciplines relies on different definitions and terminology, and the cognitive foundation of these patterns remains speculative as they are hard to empirically investigate." ([Original source Imageschema.net webpage no longer online](https://imageschema.net/our-story/image-schema-list))
 
 ## Copyright
