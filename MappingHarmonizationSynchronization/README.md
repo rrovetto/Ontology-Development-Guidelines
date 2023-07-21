@@ -16,8 +16,9 @@ Overarching questions:
  - What type of mappings? (e.g., string, syntax, semantics, assumptions, leaf-node only, degree of abstraction/subclassificaiton, etc.)
 
 ## Related projects
-[This earlier page](https://github.com/rrovetto/Catalog-Space-Vocabularies/tree/main/CrosswalksMapping), contains similar content but for another project by the author.
-
+- [This earlier page](https://github.com/rrovetto/Catalog-Space-Vocabularies/tree/main/CrosswalksMapping), contains similar content but for another project by the author.
+- A Universal Workshop for Terminology & Semantic Harmonization/Synchronization
+ 
 ## Author
 [Robert J. Rovetto](http://orcid.org/0000-0003-3835-7817)
 
