@@ -6,7 +6,8 @@ _Disclaimer_: this is based on [my](https://orcid.org/0000-0003-3835-7817) exper
 - In-progress. Subject to revision. No claims to completeness 
 - As an unfunded personal project to date, formal support is needed to sustain development: financial support, employment, work collaborations, studyship options, etc.
 - Link to this page: [https://purl.org/rrovetto/ontology-guidebook](https://purl.org/rrovetto/ontology-guidebook)
-
+## Scope
+- Given the similarity between computational ontologies and other artifacts that go by names such as 'controlled vocabulary', 'taxonomy', 'classifcation system', 'semantic data model', 'conceptual model', etc., many of the facts, opinions, and recommendations made in this repository apply to them as well, i.e., to other so-called knowledge organization systmes.
 ## Support
 - If you find value in my work, [donations are welcome via PayPal](https://tinyurl.com/donateViaPayPalrr) or [via this GoGetFunding webpage](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). 
 - [Employment opportunities & work collaborations are desired. Click here to schedule a meeting](https://tinyurl.com/hm8wu2sa). 
