@@ -2,6 +2,8 @@
 There are different methods, both automated and manual, to develop an ontology. This work aims to succinctly explain one way to manually develop an ontology. 
 _Disclaimer_: this is based on [my](https://orcid.org/0000-0003-3835-7817) experiences and thereby limited. The reader is encouraged to look at the diverse global content on this and related topics. This work originally began in approximately 2010 in an unpublished written document I call "The Ontology Guidebook".
 
+_If you find value in the content of this work, please cite it in your reference citation style of choice or as: Rovetto, Robert J., "Ontology Guidebook", https://purl.org/rrovetto/ontology-guidebook_
+
 ## Status 
 - In-progress. Subject to revision. No claims to completeness 
 - As an unfunded personal project to date, formal support is needed to sustain development: financial support, employment, work collaborations, studyship options, etc.
