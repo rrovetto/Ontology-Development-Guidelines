@@ -8,6 +8,7 @@ _If you find value in the content of this work, please cite it in your reference
 - In-progress. Subject to revision. No claims to completeness 
 - As an unfunded personal project to date, formal support is needed to sustain development: financial support, employment, work collaborations, studyship options, etc.
 - Link to this page: [https://purl.org/rrovetto/ontology-guidebook](https://purl.org/rrovetto/ontology-guidebook)
+  
 ## Scope
 - Given the similarity between computational ontologies and other artifacts that go by names such as 'controlled vocabulary', 'taxonomy', 'classifcation system', 'semantic data model', 'conceptual model', etc., many of the facts, opinions, and recommendations made in this repository apply to them as well, i.e., to other so-called knowledge organization systmes.
 ## Support
