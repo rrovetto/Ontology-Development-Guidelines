@@ -8,7 +8,6 @@ _If you find value in the content of this work, please cite it in your reference
 - In-progress. Subject to revision. No claims to completeness 
 - As an unfunded personal project to date, formal support is needed to sustain development: financial support, employment, work collaborations, studyship options, etc.
 - Link to this page: [https://purl.org/rrovetto/ontology-guidebook](https://purl.org/rrovetto/ontology-guidebook)
-  
 ## Scope
 - Given the similarity between computational ontologies and other artifacts that go by names such as 'controlled vocabulary', 'taxonomy', 'classifcation system', 'semantic data model', 'conceptual model', etc., many of the facts, opinions, and recommendations made in this repository apply to them as well, i.e., to other so-called knowledge organization systmes.
 ## Support
@@ -33,19 +32,22 @@ _If you find value in the content of this work, please cite it in your reference
 - Examine data, identify relevant subject matter; then create categories to describe that data (e.g., for what the data is about). This is specific to generic, or concrete to abstract. It may focus on asserting only those categories that will annotate the data elements you have.
 </details>
 
+
 **B) Botton-Up development from subject matter (example 2)**: 
 <details>
   <summary>Click to expand for further details</summary>
 	
 - Examine the subjectmatter (e.g., corpus documents, nomenclature, etc.) and create corresponding ontology constructs for the most common concepts found in the subjectmatter.
 </details>
-	
+
+ 
 **C) Top-Down development (example)**: 
 <details>
   <summary>Click to expand for further details</summary>
 	
 - Identify and create ontology constructs independent of examining data, but which can annotate the data. E.g., create abstract classes and modify accordingly once you examine the data and the intended meaning of the datasets and data elements. 
 </details>
+
 
 **D) Hybrid development**: a combination of both bottom-up & top-down.
 
