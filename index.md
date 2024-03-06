@@ -30,7 +30,6 @@ _If you find value in the content of this work, please cite it in your reference
 **A) Botton-Up development from data (example 1)**: 
 <details>
 <summary>Click to expand for further details</summary>
-	
 - Examine data, identify relevant subject matter; then create categories to describe that data (e.g., for what the data is about). This is specific to generic, or concrete to abstract. It may focus on asserting only those categories that will annotate the data elements you have.
 </details>
 
@@ -38,7 +37,6 @@ _If you find value in the content of this work, please cite it in your reference
 **B) Botton-Up development from subject matter (example 2)**: 
 <details>
   <summary>Click to expand for further details</summary>
-	
 - Examine the subjectmatter (e.g., corpus documents, nomenclature, etc.) and create corresponding ontology constructs for the most common concepts found in the subjectmatter.
 </details>
 
@@ -46,7 +44,6 @@ _If you find value in the content of this work, please cite it in your reference
 **C) Top-Down development (example)**: 
 <details>
   <summary>Click to expand for further details</summary>
-	
 - Identify and create ontology constructs independent of examining data, but which can annotate the data. E.g., create abstract classes and modify accordingly once you examine the data and the intended meaning of the datasets and data elements. 
 </details>
 
