@@ -22,7 +22,8 @@ _If you find value in the content of this work, please cite it in your reference
 - [Presentation list of Ontology Education (PPT file)](https://www.slideshare.net/RobertRovetto/ontology-courses-education)
 - [Presentation list of Ontology Services (PPT file)](https://www.slideshare.net/RobertRovetto/ontology-services-238070099)
 
-## Related 
+## Related
+- [Catalog of definitions of 'ontology'](https://github.com/rrovetto/Ontology-Development-Guidelines/blob/master/Definitions%20of%20Ontology.md)
 - [Ethical aspects of Ontology & Semantic modeling](https://github.com/rrovetto/Ethical-Ontology-Development)
 - [Myths of Ontology Development & Use](https://github.com/rrovetto/Ethical-Ontology-Development/blob/master/Myths-Of-Ontology-Development.md).
 
