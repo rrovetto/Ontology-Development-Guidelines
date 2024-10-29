@@ -1,4 +1,4 @@
-## Tools for Ontology Design, Development & Use
+## Tools for Abstract Modeling Design, Development & Use
 A living list of tools for ontologies, vocabularies, metadata and other knowledge organization systems. 
 - [The latest version can be purchased at this link](https://tinyurl.com/ToolsListMetadataModeling )
 - [A sample is here](https://github.com/rrovetto/Ontology-Development-Guidelines/blob/master/Tools/Ontology%20Graph%20Editor%20Tools_v1.3_Rovetto.pdf).
@@ -11,5 +11,5 @@ If you find value in my work, please [support/donate here](https://gogetfunding.
 Robert J. Rovetto
 
 ## Copyright
-© 2019-2023, Robert John Rovetto. All right reserved.
+© 2019-2024, Robert John Rovetto. All right reserved.
 Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required.
