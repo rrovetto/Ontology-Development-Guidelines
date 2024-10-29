@@ -6,6 +6,11 @@ A living list of tools for ontologies, vocabularies, metadata and other knowledg
 
 ## Support
 If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). Financial support is needed to sustain development.
+All work has been and continues to be unfuunded, while job-seeking and studentship-seeking. 
+
+## Cite as
+If you are able to find information from this work that previously you were unable to, please cite it. In doing so you can help me find income and fair compensation for work and time spent.
+Information in the citation should include "Tools for Abstract Modeling" or the document title, Robert J. Rovetto, version #, date and link to this page.
 
 ## Author
 Robert J. Rovetto
