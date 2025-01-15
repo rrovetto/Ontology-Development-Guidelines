@@ -17,7 +17,7 @@ This is a living catalog of definitions of 'ontology' (as well as similar and va
 ## Support - How you can help
 - As unfunded work in the authors own time, [donations are welcome (visit this webpage)](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). 
 ## Transition to Open-access
-- Due to the large number of person hours spent on this work without funding and as a job-seeker, if sufficient donations/purchases are made, the catalog will be made open. 
+- Due to the large number of person hours spent on this work without funding and as a job-seeker, if sufficient donations/purchases are made, the catalog will be made open.
 
 ## Development Methodology
 - Descriptions/definitions are manually added to the spreadsheet document as I find them when reading reference material. Originally began during my 2009 studies in ontology.
@@ -28,11 +28,17 @@ This is a living catalog of definitions of 'ontology' (as well as similar and va
 - For all definitions, I attempt to find the original source. E.g., If definitions are presented as quotes in a given reference document, then I research to find the source document of that quote. This includes corresponding authors to inquire.
 This is therefore a time-consuming and painstaking task.  
 
+## Relevant Works
+_Part of authors project: A Recharacterization & Re-definition of Cateogies of Ontology_
+- "Category names for types of ontologies: observations, recommendations, and a redefinition" submitted (but rejected) to 2 Feb FoIKS 2022
+- "A redefinition of ‘ontology", Rovetto, R.
+- "A generic name for the most generic ontologies" (PPT) at [2022 IAOA SWAO group meeting](https://wiki.iaoa.org/index.php/SWAO:Conference_Call_20220114)
+
 ## Contact author
 Robert J. Rovetto, [Ontologist](https://ontologforum.com/index.php/RobertRovetto), [Contact](https://ontospace.wordpress.com/contact)
 
 ## Copyright
-©2023, Robert J. Rovetto. All right reserved.
+©2025, Robert J. Rovetto. All right reserved.
 Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required.
-## Warranty
-No warranty. No claims to completeness.
+## Disclaimer, and Warranty
+Presented as-is. No warranty. No claims to completeness. Author has no liability. 
