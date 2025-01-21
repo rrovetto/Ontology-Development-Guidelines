@@ -1,8 +1,6 @@
 ## The Intended Meaning of your ontology constructs and terminology
 
-This section describes the importance of understanding and asserting the intended meaning or purpose of the ontolog constructs (classes, relations, etc.), and any associated label (terms) assigned to each construct. 
-
-**NOTE**: An example of an ontology construct is an OWL (Web Ontology Language) Class, or OWL Data Property. 
+This section describes the importance of understanding and asserting the intended meaning and purpose of the ontolog constructs (classes, non-category relations, etc.), and any associated label assigned to each construct. **NOTE**: An example of an ontology construct is an OWL (Web Ontology Language) Class, or OWL Data Property. 
 
 _Ontology Construct / Symbol-structure_ = the class, relation, individual, etc. being created in an ontology file, i.e., the computational structure being created.
 
@@ -17,11 +15,13 @@ Class (ontology construct) = SB-00157
 Label = 'stellar body'
 
 Intended meaning is often, if not always, essential to capture in an ontology.
-_Intendd meaning can be captured by_: 
+_Intended meaning can be captured by_: 
 - (a) including human-understandable definitions for each construct in the ontology.
 and/or
 - (b) formal computable semantics for each construct. This can be accomplished via constraints, relations, rules, etc., which, in part, constraints the interpretations of the given constructs, the statements (or well-formed formulas) they may compose, etc.
 - (c) Documentation both within the ontology file, and external to it. External documentaiton may be a webpage, an ontology specification document, a spreadsheet document, etc.
+
+![image](https://github.com/rrovetto/Ontology-Development-Guidelines/blob/2aae2d15bc084ffabe85a6a03a670f1bd3dd9bbe/images/IntendedMeaning_Rovetto_v1.jpg)
 
 An ontology presumably has a _scope_. The degree to which it formally captures/represents/models the scope is the degree of _coverage_.
 The scope of an ontology includes various specific things.
