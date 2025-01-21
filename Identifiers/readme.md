@@ -1,10 +1,9 @@
 # Guidelines for developing Identifiers
-Depending on the degree of abstraction one considers, the following is an approximation.
+Depending on the degree of abstraction of interest, the following is an approximation.
 
 For all constructs in an ontology, we can declare the following.
 
-- **Identifiers** are those symbol-structures (e.g., a set of alphanumeric characters) that identify a given ontology construct (class, relation, individual, etc.).
-Depending on the situation, you may assign either so-called **opaque** or **transparent/readible/semantically-meaningful** identifiers.
+- **Identifiers** are those symbol-structures (e.g., a set of alphanumeric characters) that identify a given ontology construct (class, relation, individual, etc.). They may or may not be numerically identical with the construct. But for each identifier, additional associated constructs can be declared, such as display labels and definitions. You may assign either so-called **opaque** or **transparent/readible/semantically-meaningful** identifiers.
 - **Opaque or Semantically-neutral identifiers**. These identifiers do not express meaning. They are composed of (alpha)numeric characters/symbols that are not intended to convey any meaning (e.g., they are not a natural language word). E.g., "34568ijngoi465j". They may be composed of random-generated numbers, or may be sequentially-numbered (e.g., 00012). 
   - UUIDs (universally unique identifiers)
   - GUIDs (globally unique identifiers) are types of opaque identifiers.
