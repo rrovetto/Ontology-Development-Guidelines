@@ -17,7 +17,10 @@ or
   - Additional labels can be added as desired or needed. For example:
   - Alternative labels (e.g., using the rdfs:altLabel construct)
   - Synonyms. Including synonyms indirectly show the degree of usage and meaning in a natural language for the given domain/topic. 
+## Diagram of Taxonomy of Identifiers
+Below is a taxonomy I created to help visualize the potential categorical distinctions we may make for types of identifiers (symbolic designations).
 
+![image](https://github.com/rrovetto/Ontology-Development-Guidelines/blob/master/images/ScreenCapture_README_OntoDefCat_Rovetto.JPG?raw=true)
 ## Research about Identifiers, Labels, etc.
 - "the main objective of labels is to be as descriptive and meaningful of the ontology entity as possible, in order to guarantee an appropriate use and, hence, the adoption of the ontology by final users."
 - "In this way we are able to “read” the triple as a sentence, or with a syntactic structure quite close to the  natural  language  interpretation."
