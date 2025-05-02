@@ -1,5 +1,5 @@
 # Catalog of 'ontology' (and similar terms) definitions
-This is a living catalog of definitions of 'ontology' (as well as similar and variations of the term) in computational and interdisicplinary contexts (primiarly data and modeling). Due to the interdisicplinary context, philosophical ontology is included, but for brevity, limited to a few definitions.
+This is a living catalog of definitions of 'ontology' (and similar terms) in computational and interdisicplinary contexts (primiarly data and modeling). Due to the context, philosophical senses are included, but limited to a few definitions.
   - _Count_: 91 definitions of 'ontology' (Jan 2022), 130 definitions (Jan 2023). 
   - Below is a sample of the catalog.
   - _Includes definitions for these terms:_ ontology, ontologies, meta-ontology, philosophical ontology, computational ontology, formal ontology, information ontology, upper ontology, general ontology, generic ontology, foundational ontology, upper model, top-level ontology, top ontology, base ontology, core ontology, mid-level ontology, reference ontology, domain ontology, method ontology, task ontology, application ontology, conceptual (data) model, meta-model, semantic (data) model, knowledge graph
@@ -40,5 +40,6 @@ Robert J. Rovetto, [Ontologist](https://ontologforum.com/index.php/RobertRovetto
 ## Copyright
 ©2025, Robert J. Rovetto. All right reserved.
 Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required.
+
 ## Disclaimer, and Warranty
-Presented as-is. No warranty. No claims to completeness. Author has no liability. 
+Presented as-is. No warranty. No claims to completeness. Author has no liability.
